@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="delayed_by_x_min">
+        <item quantity="one">تأخر لمدة %1$s دقيقة</item>
+        <item quantity="other">تأخرت بنسبة %1$s دقيقة</item>
+    </plurals>
+    <plurals name="err_routing_dialog_alert_blocking_route_message">
+        <item quantity="one">لم نتمكن من توفير التوجيه بسبب تنبيه يحظر جميع خيارات التوجيه.</item>
+        <item quantity="other">لم نتمكن من توفير التوجيه بسبب بعض التنبيهات التي تحظر جميع خيارات التوجيه.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <plurals name="x_alerts_associated_with_this_route">
+        <item quantity="one">%1$s تنبيه متعلق بهذا المسار</item>
+        <item quantity="other">%1$s التنبيهات المتعلقة بهذا المسار</item>
+    </plurals>
+    <string name="_3d">3D</string>
+    <string name="_ft">%1$dد قدم</string>
+    <string name="_m">%1$dد م</string>
+    <string name="_min">%1$d دقيقة</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"مفعّلة"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about">عن</string>
+    <string name="accessibility">إمكانية الوصول</string>
+    <string name="acknowledge">يُقرّ</string>
+    <string name="add_stop">أضف محطة</string>
+    <string name="add_to_itinerary">أضف إلى خط سير الرحلة</string>
+    <string gender="unknown" name="alert_description">تنبيه</string>
+    <string name="alerts">التنبيهات</string>
+    <string name="an_error_occurred">حدث خطأ</string>
+    <string name="an_error_occurred_missing_stops">حدث خطأ. توقفات مفقودة.</string>
+    <string name="an_error_occurred_please_try_again">حدث خطأ. حاول مرة اخرى.</string>
+    <string name="app_exit_confirm_text">هل أنت متأكد من أنك تريد الخروج من Mapsted Navigation؟</string>
+    <string name="app_uses_gps_go_to_settings_menu">يستخدم هذا التطبيق نظام تحديد المواقع. هل تريد الذهاب إلى قائمة الإعدادات؟</string>
+    <string name="apply">تطبيق</string>
+    <string name="are_you_sure_you_want_to_delete">هل أنت متأكد أنك تريد حذف %1$s</string>
+    <string name="attribution">"الإسناد "</string>
+    <string name="attributions">الصفات</string>
+    <string name="back">عودة</string>
+    <string name="background_location_access">السماح بالوصول إلى الموقع في الخلفية</string>
+    <string name="barometer">بارومتر</string>
+    <string name="blue_dot_customization">تخصيص النقطة الزرقاء</string>
+    <string name="blue_dot_positioning_unavailable_header">وضع النقطة الزرقاء غير متوفر</string>
+    <string name="blue_dot_positioning_unavailable_message">تحتاج هذه الخاصية إلى المعايرة لدعم تحديد موقع النقطة الزرقاء.</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="buildings">البنايات</string>
+    <string name="calculating">حساب</string>
+    <string name="calibrate_compass_message">لتحسين تحديد المواقع ، قم بمعايرة البوصلة المغناطيسية.</string>
+    <string name="calibration_compass_header">معايرة البوصلة</string>
+    <string name="calibration_compass_message1">لتحسين تحديد المواقع ، قم بمعايرة بوصلة Blue Dot.</string>
+    <string name="calibration_compass_message2">قم بإمالة هاتفك وحركه في شكل ثماني مرات عدة مرات حتى تتحسن الدقة.</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cannot_initializegps_mapsted_sdk_with_null_activity">لا يمكن تهيئة GPS Mapsted SDK بنشاط فارغ</string>
+    <string name="categories">فئات</string>
+    <string name="change_floor">تغيير الأرضية</string>
+    <string name="change_floor_question">هل قمت بنقل %1$s إلى %2$s؟</string>
+    <string name="channel_name_forground_service">خدمة المقدمة</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="check_back_message">الرجاء التحقق مرة اخرى قريبا</string>
+    <string name="checking_app_update">التحقق من وجود التحديث…</string>
+    <string name="checking_for_near_by_properties">جارٍ التحقق من العقارات القريبة…</string>
+    <string name="checking_for_near_by_properties_complete">التحقق من العقارات القريبة... \u2713</string>
+    <string name="choose">يختار</string>
+    <string name="choose_destination">اختر وجهة</string>
+    <string name="choose_different_location">الرجاء اختيار موقع مختلف</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="close">"قريب "</string>
+    <string name="closed">مغلق</string>
+    <string name="closes">يغلق</string>
+    <string name="closest_location">أقرب موقع</string>
+    <string gender="unknown" name="combobox_description">مربع تحرير وسرد</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">تفعيل</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">تحديث</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="compass_accuracy">دقة البوصلة</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="continuee">يكمل</string>
+    <string name="could_not_find_nearest_param">تعذر العثور على أقرب %1$s</string>
+    <string name="cpp_was_null">كان mCpp فارغًا</string>
+    <string name="create_new_tag">إنشاء علامة جديدة</string>
+    <string name="create_new_tag_instruction">انقر فوق الزر \\"إنشاء علامة جديدة\\" لإضافة علامات على الخريطة. ويمكنك بعد ذلك تعديلها وحذفها.</string>
+    <string name="dark">مظلم</string>
+    <string name="default_style">تقصير</string>
+    <string name="delete">يمسح</string>
+    <string name="delete_tag_message">احذف العلامة %1$s</string>
+    <string name="delete_tag_title">حذف العلامة</string>
+    <string name="directions">الاتجاهات</string>
+    <string name="disable">إبطال</string>
+    <string name="disable_wi_fi_scan_throttling_in_developer_options">يرجى تعطيل اختناق فحص Wi-Fi في خيارات المطور</string>
+    <string name="disable_wifi_throttling_message">لتحديد المواقع المحسّن ، قم بتعطيل اختناق فحص WI-FI.</string>
+    <string name="dismiss">رفض</string>
+    <string name="distance_1arg">Distance %1$s</string>
+    <string name="distance_and_time_format">تنسيق التاريخ والوقت</string>
+    <string name="done">منجز</string>
+    <string name="down">تحت</string>
+    <string name="download">تحميل</string>
+    <string name="download_failed">التحميل فشل</string>
+    <string name="duplicate_tag_name">اسم العلامة مكرر، يرجى إدخال اسم مختلف</string>
+    <string name="edit">تعديل</string>
+    <string name="elevator_down_base_instruction">خذ المصعد لأسفل</string>
+    <string name="elevator_down_landmark">بالقرب من %1$s</string>
+    <string name="elevator_down_transition_destination">استقل المصعد إلى %1$s</string>
+    <string name="elevator_up_base_instruction">اصعد المصعد</string>
+    <string name="elevator_up_landmark">بالقرب من %1$s</string>
+    <string name="elevator_up_transition_destination">استقل المصعد حتى %1$s</string>
+    <string name="elevators">المصاعد</string>
+    <string name="enable">ممكن</string>
+    <string name="enable_bluetooth_improve_accuracy">لتحسين الدقة، يرجى تمكين البلوتوث الخاص بك.</string>
+    <string name="enter_building_base_instruction">ادخل المبنى</string>
+    <string name="enter_building_landmark">أدخل %1$s</string>
+    <string name="err_force_update">يرجى تحديث التطبيق للمتابعة</string>
+    <string name="err_google_play_services">خدمات Google Play غير مثبتة</string>
+    <string name="err_licence">يبدو أن هناك مشكلة في الترخيص الخاص بك. الرجاء التحقق من الترخيص الخاص بك أو حاول مرة أخرى في وقت لاحق.</string>
+    <string name="err_loading_properties">وجه الفتاة! نحن نواجه بعض الصعوبات الفنية في الوصول إلى قائمة الممتلكات الخاصة بك. يرجى التحقق من الترخيص الخاص بك أو المحاولة مرة أخرى في وقت لاحق</string>
+    <string name="err_map_load">فشل تهيئة الخريطة. يرجى التحقق من انتهاء صلاحية الترخيص الخاص بك</string>
+    <string name="err_mapsted_init">عذراً ، يبدو أننا نواجه مشكلة في الوصول إلى قائمة الممتلكات الخاصة بك يرجى التحقق من اتصالك بالإنترنت أو انتهاء صلاحية الترخيص أو المحاولة مرة أخرى لاحقًا.</string>
+    <string name="err_no_connection_try_again">لا يوجد اتصال بالشبكة ، يرجى المحاولة مرة أخرى لاحقًا</string>
+    <string name="err_routing_alert">تم حظر التوجيه بواسطة التنبيهات</string>
+    <string name="err_routing_destination">آسف! يبدو أن هناك خطأ في الوجهة التي قمت بتعيينها</string>
+    <string name="err_routing_dialog_miscellaneous_error_message">لم نتمكن من توفير التوجيه بسبب خطأ متنوع.</string>
+    <string name="err_routing_in_property_only">التوجيه من موقعك الحالي مدعوم داخل العقار فقط.</string>
+    <string name="err_routing_miscellaneous">تعذر العثور على الطريق</string>
+    <string name="err_routing_permissions">لم يتم تمكين أذونات ترخيص التوجيه. الرجاء معاودة المحاولة في وقت لاحق</string>
+    <string name="err_routing_set_destination">الرجاء تحديد وجهة</string>
+    <string name="err_routing_set_start_point">الرجاء تحديد موقع الانطلاق</string>
+    <string name="err_routing_start">"آسف! يبدو أن هناك خطأ في نقطة البداية التي قمت بتعيينها "</string>
+    <string name="err_routing_unknown_user_pos_positioning">تعذر تحديد موضع بدء المستخدم</string>
+    <string name="err_routing_unknown_user_pos_wayfinding">الرجاء اختيار موضع البداية ، حيث لم يتم تمكين وضع النقطة الزرقاء لهذه الخاصية</string>
+    <string name="err_unknown">لقد حدث خطأ غير متوقع. الرجاء معاودة المحاولة في وقت لاحق.</string>
+    <string name="error">خطأ</string>
+    <string name="error_generic_add_item">لا يمكن إضافة العنصر</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="escalator_down_base_instruction">انزل السلم المتحرك</string>
+    <string name="escalator_down_pre_landmark">بالقرب من %1$s</string>
+    <string name="escalator_down_transition_destination">اصعد السلم المتحرك إلى %1$s</string>
+    <string name="escalator_up_base_instruction">صعود السلم المتحرك للأعلى</string>
+    <string name="escalator_up_landmark">بالقرب من %1$s</string>
+    <string name="escalator_up_transition_destination">اصعد السلم المتحرك حتى %1$s</string>
+    <string name="escalators">السلالم المتحركة</string>
+    <string name="exit">خروج</string>
+    <string name="exit_building_base_instruction">الخروج من المبنى</string>
+    <string name="exit_building_landmark">اخرج %1$s</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"إعدادات متقدمة"</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="failed_to_search">فشل البحث. حاول مرة اخرى.</string>
+    <string name="feed">يٌطعم</string>
+    <string name="feedback_application_design">هل كانت الملاحة واضحة وسهلة المتابعة؟</string>
+    <string name="feedback_button">اترك تقييم للخدمة</string>
+    <string name="feedback_mapping_experience">كيف تقيم دقة خرائطنا؟</string>
+    <string name="feedback_submission_rates_screen_header">إرسال المكوّن المخصص للتعليقات #</string>
+    <string name="feedback_submission_tell_us_more_screen_header">إرسال أخبرنا أكثر</string>
+    <string name="feedback_tell_more">أخبرنا بالمزيد (اختياري)</string>
+    <string name="feedback_tracking_accuracy">هل قمنا بتحسين تجربة التسوق الخاصة بك؟</string>
+    <string name="feedback_use_similar">هل كان تطبيقنا بديهيًا وسهل الاستخدام؟</string>
+    <string name="fetching_properties">جارٍ جلب الخصائص…</string>
+    <string name="fetching_properties_complete">جارٍ جلب الخصائص... \u2713</string>
+    <string name="find_us_on">تجدنا على</string>
+    <string name="fixed_location">موقع ثابت</string>
+    <string name="floor_changer_down">مغير الأرضية لأسفل</string>
+    <string name="floor_chooser_instruction">الرجاء تحديد الطابق الذي تتواجد فيه حاليًا.</string>
+    <string name="floor_chooser_message">حدد الطابق</string>
+    <string name="floor_selector_down">محدد الأرضية لأسفل</string>
+    <string name="floor_selector_up">محدد الأرضية لأعلى</string>
+    <string name="for_best_performance_background_location_message">للحصول على أفضل أداء، يرجى تحديد `%1$s` في الشاشة التالية للسماح بالوصول إلى الموقع في الخلفية.</string>
+    <string name="foreground_service_notification_content">انقر لاستئناف التطبيق!</string>
+    <string name="foreground_service_notification_title">تعمل خدمات Mapsted المستندة إلى الموقع</string>
+    <string name="ft">%1$د قدم</string>
+    <string name="go">اذهب</string>
+    <string name="go_down_base_instruction">انزل</string>
+    <string name="go_down_landmark">"  بالقرب من %1$s"</string>
+    <string name="go_down_transition_destination">انتقل للأسفل إلى %1$s</string>
+    <string name="go_straight_base_instruction">انطلق الأمام</string>
+    <string name="go_straight_landmark">تجاوز %1$s مباشرة</string>
+    <string name="go_up_base_instruction">اذهب للأعلى</string>
+    <string name="go_up_landmark">بالقرب من %1$s</string>
+    <string name="go_up_transition_destination">اذهب إلى %1$s</string>
+    <string name="go_with_alert">اذهب ⚠</string>
+    <string name="gps_not_enabled">نظام تحديد المواقع العالمي (GPS) غير ممكّن.\"</string>
+    <string name="gps_settings">إعدادات نظام تحديد المواقع</string>
+    <string name="gyroscope">جيروسكوب</string>
+    <string gender="unknown" name="header_description">العنوان</string>
+    <string name="high">عالي</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string gender="unknown" name="image_description">صورة</string>
+    <string gender="unknown" name="imagebutton_description">زر، صورة</string>
+    <string name="in">%1$s في %2$s</string>
+    <string name="incorrectFloor">أرضية غير صحيحة</string>
+    <string name="incorrectLocation">موقع غير صحيح</string>
+    <string name="install">تثبيت</string>
+    <string name="invalid_my_location_message">لا يمكن أن تكون وجهة النهاية هي موقعك</string>
+    <string name="invalid_name">اسم غير صالح</string>
+    <string name="invalid_search_entity">موقع غير صحيح</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="itineraries">مسارات</string>
+    <string name="itinerary_duplicate_found">لا يمكن إضافة مخزن مكرر</string>
+    <string name="itinerary_limit_msg">عذرًا ، لقد وصلت إلى الحد الأقصى البالغ 8 عناصر!</string>
+    <string name="itinerary_preferences">تفضيلات خط سير الرحلة</string>
+    <string name="km">%1$d كم</string>
+    <string name="learn_more">تعلم المزيد ></string>
+    <string name="legal_terms">مصطلحات قانونية</string>
+    <string name="less_than_x_min">أقل من %1$d دقيقة</string>
+    <string name="licence_is_expired">انتهت صلاحية الترخيص</string>
+    <string name="licence_is_invalid_incorrect_file">الترخيص غير صالح (ملف غير صحيح)</string>
+    <string name="licence_is_invalid_incorrect_format">الترخيص غير صالح (تنسيق غير صحيح)</string>
+    <string name="licence_is_invalid_insufficient_info">الترخيص غير صالح (معلومات غير كافية)</string>
+    <string name="licence_is_valid">الترخيص غير صالح</string>
+    <string name="licence_verification_in_progress">جارٍ التحقق من الترخيص</string>
+    <string name="light">ضوء</string>
+    <string gender="unknown" name="link_description">رابط</string>
+    <string name="loading">جار التحميل...</string>
+    <string name="loading_property">جارٍ تحميل الخاصية…</string>
+    <string name="loading_property_complete">جارٍ تحميل الخاصية… \u2713</string>
+    <string name="location_chooser_instruction">اختر مكانًا قريبًا</string>
+    <string name="location_chooser_message">عذرًا، نواجه مشكلة في العثور على موقعك الحالي.</string>
+    <string name="location_marker_not_available_message">علامة الموقع غير متاحة لهذه الخاصية.</string>
+    <string name="location_permissions_title">%1$s يرغب في استخدام موقعك</string>
+    <string name="location_sharing_in_progress">Location sharing in progress…</string>
+    <string name="locations">المواقع</string>
+    <string name="low">منخفض</string>
+    <string name="m">%1$د م</string>
+    <string name="map_overlays">تراكبات الخريطة</string>
+    <string name="map_setting_preferences">تفضيلات إعداد الخريطة</string>
+    <string name="map_type">نوع الخريطة</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="medium">متوسط</string>
+    <string gender="unknown" name="menu_description">القائمة</string>
+    <string gender="unknown" name="menubar_description">شريط القائمة</string>
+    <string gender="unknown" name="menuitem_description">عنصر القائمة</string>
+    <string name="miles">%1$d ميل</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"زر الإرسال"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"زر الإرسال. تم الاتصال"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"زر الإرسال. جارٍ الاتصال"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"زر الإرسال. تم قطع الاتصال"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"جارٍ البحث عن أجهزة"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"إرسال إلى"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"صورة الألبوم"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"جارٍ إرسال الشاشة"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"إغلاق"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"تصغير"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"قطع اتصال"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"توسيع"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"لا تتوفر أي معلومات"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"لم يتم اختيار أي وسائط"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"إيقاف مؤقت"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"تشغيل"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"إيقاف"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"إيقاف الإرسال"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"شريط تمرير مستوى الصوت"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"النظام"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"الأجهزة"</string>
+    <string name="msg_full_blue_dot_unavailable_missing_sensors">Blue-dot navigation is unavailable on your device due to missing key sensors. Wayfinding is available and you can still preview step-by-step directions.</string>
+    <string name="msg_full_blue_dot_unavailable_sdk_settings">Blue-dot navigation is unavailable. Wayfinding is available and you can still preview step-by-step directions.</string>
+    <string name="msg_full_blue_dot_unavailable_unreliable_data">We noticed some unreliable data coming from your device so we temporarily disabled your blue-dot navigation. Blue-dot may resume once the quality of data improves.</string>
+    <string name="msg_missing_sensor_warning">Your device is missing sensors. This may result in less accurate positioning.</string>
+    <string name="msg_short_blue_dot_unavailable_missing_sensors">Blue-dot navigation is unavailable on your device (missing key sensors)</string>
+    <string name="msg_short_blue_dot_unavailable_sdk_settings">Blue-dot navigation is unavailable (app configuration)</string>
+    <string name="msg_short_blue_dot_unavailable_unreliable_data">Blue-dot positioning is temporarily disabled (unreliable data coming from your device)</string>
+    <string name="msg_title_blue_dot_unavailable_missing_sensors">Missing Key Sensors</string>
+    <string name="msg_title_blue_dot_unavailable_unreliable_data">Unreliable Data</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="multiple_locations">مواقع متعددة</string>
+    <string name="my_location">موقعي</string>
+    <string name="my_tags">علاماتي</string>
+    <string name="n_locations"> %1$d المواقع</string>
+    <string name="name">اسم</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"فتح لائحة التنقل"</string>
+    <string name="navigate">التنقل</string>
+    <string name="navigate_from_mylocation_error">⚠ يتوفر التنقل خطوة بخطوة فقط عند التوجيه من موقعي</string>
+    <string name="navigate_in_order">انتقل بالترتيب</string>
+    <string name="near">قريب</string>
+    <string name="near_landmark">بالقرب من %1$s</string>
+    <string name="neteork_issue_to_download_map">يرجى الاتصال بالشبكة من أجل تنزيل الخريطة.</string>
+    <string name="network_congestion">يبدو أن هناك ازدحاما في الشبكة. انتظر من فضلك…</string>
+    <string name="new_location">موقع جديد</string>
+    <string name="new_tag">قم بإنشاء علامة</string>
+    <string name="no">لا</string>
+    <string name="no_data_yet">لا توجد بيانات حتى الآن</string>
+    <string name="no_recent_items_yet">لا توجد عناصر حديثة حتى الآن</string>
+    <string name="not_determine_position">لا يمكن تحديد موقفك</string>
+    <string name="not_in_current_property_message">موقعك أو وجهتك في خط سير الرحلة ليست في مكان الإقامة الحالي</string>
+    <string name="nothing_here_yet">لا شيء هنا بعد</string>
+    <string name="ok">حسنا</string>
+    <string name="open">افتح</string>
+    <string name="open24hours">مفتوحة 24 ساعة</string>
+    <string name="open_settings">اذهب للاعدادات</string>
+    <string name="opens">يفتح</string>
+    <string name="or">أو</string>
+    <string name="pan_the_map_to_set_location">قم بتحريك الخريطة لاختيار موقعك.</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="permission_background_location_rationale_message_android_11_plus">"%1$s" يوصى باستخدام أذونات الموقع في الخلفية لاستخدام هذا التطبيق. يرجى تعيين إذن الموقع ل</string>
+    <string name="permission_bluetooth_rationale_message">أذونات Bluetooth مطلوبة لتجربة التطبيق المحسنة.</string>
+    <string name="permission_camera_rationale">يلزم الوصول إلى الكاميرا لمسح رموز QR وكسب النقاط</string>
+    <string name="permission_external_storage">أذونات التخزين الخارجية مطلوبة لتحديث صورتك</string>
+    <string name="permission_location_and_bluetooth_rationale_message">مطلوبة أذونات الموقع والبلوتوث لاستخدام هذا التطبيق.</string>
+    <string name="permission_location_disabled_msg">لقد اخترت عدم منحنا أذونات الموقع. ومع ذلك ، أذونات الموقع مطلوبة لاستخدام هذا التطبيق. الرجاء الانتقال إلى إعدادات الأذونات والسماح بالوصول إلى الموقع.</string>
+    <string name="permission_location_rationale">أذونات الموقع مطلوبة للعثور على العروض الترويجية القريبة</string>
+    <string name="permission_location_rationale_message">أذونات الموقع مطلوبة لاستخدام هذا التطبيق.</string>
+    <string name="phone">هاتف</string>
+    <string name="pick_floor">اختر الكلمة</string>
+    <string name="plan_my_route_my_location">موقعي</string>
+    <string name="pointsOfInterest">النقاط المثيرة للاهتمام</string>
+    <string name="positioning_inaccuracy_changing_floor_delay_header">تأخير عند تغيير الأرضيات</string>
+    <string name="positioning_inaccuracy_explanation_message">قد تواجه بعض التأخيرات عند استخدام وضع النقطة الزرقاء لأن جهازك يفتقد إلى المستشعرات التالية:</string>
+    <string name="positioning_inaccuracy_missing_sensor_message">قد تواجه تأخيرًا عند التنقل بين الطوابق لأن جهازك يفتقد المستشعر التالي:</string>
+    <string name="positioning_inaccuracy_notification_message">جهازك يفتقد أجهزة الاستشعار. قد يؤدي هذا إلى تحديد المواقع بدقة أقل.</string>
+    <string name="positioning_inaccuracy_positioning_delay_header">التأخير في تحديد موقع النقطة الزرقاء</string>
+    <string name="preferred_routing_options">خيارات التوجيه المفضلة</string>
+    <string name="prepend_then_to_instruction">ثم %1$s</string>
+    <string gender="unknown" name="progressbar_description">شريط التقدم</string>
+    <string name="promotions">الترقيات</string>
+    <string name="properties">ملكيات</string>
+    <string name="property_data_before_percent_in_progress">جارى التحميل (</string>
+    <string name="property_data_before_size_available">متاح (</string>
+    <string name="property_data_before_size_complete">تم التحميل (</string>
+    <string name="property_data_storage_mb">تخزين البيانات (ميغا بايت)</string>
+    <string name="property_list">قائمة الممتلكات</string>
+    <string name="property_list_title">خصائص البحث ...</string>
+    <string name="property_option_msg">الرجاء اختيار الموقع المطلوب</string>
+    <string gender="unknown" name="radiogroup_description">مجموعة أزرار اختيار</string>
+    <string name="re_routing">إعادة التوجيه</string>
+    <string name="reached_destination_message">لقد وصلت إلى وجهتك!</string>
+    <string name="reached_your_destination">لقد وصلت إلى وجهتك!</string>
+    <string name="recalculating">إعادة الحساب</string>
+    <string name="recent">مؤخرًا</string>
+    <string name="remove_tag">إزالة العلامة</string>
+    <string name="removed">إزالة</string>
+    <string name="request_location">"الرجاء تمكين أذونات الموقع. "</string>
+    <string name="restart_language_message_arabic">إعادة تشغيل التطبيق باللغة العربية.</string>
+    <string name="restart_language_message_english">إعادة تشغيل التطبيق باللغة الإنجليزية.</string>
+    <string name="restart_language_message_french">إعادة تشغيل التطبيق باللغة الفرنسية.</string>
+    <string name="restart_language_message_portuguese">إعادة تشغيل التطبيق باللغة البرتغالية.</string>
+    <string name="resultsFor">النتائج لـ: %1$s</string>
+    <string name="retrieve_search_location_error">فشل في استرداد موقع البحث. حاول مرة اخرى.</string>
+    <string name="retrieving_licence_from_server">استرداد الترخيص من الخادم</string>
+    <string gender="unknown" name="rn_tab_description">علامة التبويب</string>
+    <string name="route_continue_base_instruction">مواصلة الطريق</string>
+    <string name="route_continue_landmark">تابع بعد %1$s</string>
+    <string name="route_destination_base_instruction">الوصول إلى الوجهة</string>
+    <string name="route_destination_landmark">الوصول إلى %1$s</string>
+    <string name="route_options">خيارات الطريق</string>
+    <string name="route_options_preferences">تفضيلات خيارات الطريق</string>
+    <string name="route_preview_label_from"/>
+    <string name="route_preview_label_to"/>
+    <string name="route_start_base_instruction">ابدأ من موقعك</string>
+    <string name="route_start_landmark">ابدأ عند %1$s</string>
+    <string name="routing_failed">تعذر العثور على الطريق. يرجى التحقق من خط سير الرحلة والخيارات.</string>
+    <string name="routing_preferences">تفضيلات التوجيه</string>
+    <string name="save">يحفظ</string>
+    <string name="saved">أنقذ</string>
+    <string gender="unknown" name="scrollbar_description">شريط التمرير</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string name="search_no_results">لم يتم العثور على نتائج. انقر هنا للبحث عبر الإنترنت</string>
+    <string name="sensor_accelerometer">مقياس التسارع</string>
+    <string name="sensor_barometer">بارومتر</string>
+    <string name="sensor_gravity">الجاذبية</string>
+    <string name="sensor_gyroscope">جيروسكوب</string>
+    <string name="sensor_magnetometer">مقياس المغناطيسية</string>
+    <string name="sensor_name_barometer">بارومتر</string>
+    <string name="set_location">اختيار موقع</string>
+    <string name="set_my_location_manually">تحديد موقعي يدويًا</string>
+    <string name="settings">إعدادات</string>
+    <string name="shortest_route">أقصر طريق</string>
+    <string name="show_alerts">إظهار التنبيهات</string>
+    <string name="show_tags_on_map">إظهار العلامات على الخريطة</string>
+    <string name="simple_property_list_not_found_internet">لا توجد خصائص. يرجى التحقق من اتصال الشبكة الخاص بك.</string>
+    <string name="simple_property_list_not_found_licence">لا توجد خصائص. يرجى التحقق من أذونات الترخيص الخاصة بك.</string>
+    <string name="skip">تخطى</string>
+    <string name="sorry_an_error_occurred">عفوا لقد حصل خطأ.</string>
+    <string name="speech_guidance">توجيه الكلام</string>
+    <string name="speech_status_disabled">صوت قبالة</string>
+    <string name="speech_status_enabled">صوت على</string>
+    <string gender="unknown" name="spinbutton_description">زر زيادة ونقصان</string>
+    <string name="stairs">درج</string>
+    <string name="stairs_down_base_instruction">صعود الدرج للأسفل</string>
+    <string name="stairs_down_landmark">بالقرب من %1$s</string>
+    <string name="stairs_down_transition_destination">انزل بالدرج إلى %1$s</string>
+    <string name="stairs_up_base_instruction">صعود الدرج</string>
+    <string name="stairs_up_pre_landmark">بالقرب من %1$s</string>
+    <string name="stairs_up_transition_destination">اصعد السلالم إلى %1$s</string>
+    <string name="startLocation">بدء الموقع</string>
+    <string name="start_at">تبدأ في</string>
+    <string gender="unknown" name="state_busy_description">مشغول</string>
+    <string gender="unknown" name="state_collapsed_description">مطوي</string>
+    <string gender="unknown" name="state_expanded_description">موسع</string>
+    <string gender="unknown" name="state_mixed_description">مختلط</string>
+    <string gender="unknown" name="state_off_description">إيقاف تشغيل</string>
+    <string gender="unknown" name="state_on_description">تشغيل</string>
+    <string gender="unknown" name="state_unselected_description">غير محدَد</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="steps_back">عودة &lt;</string>
+    <string name="steps_next">التالي ></string>
+    <string name="stop">قف</string>
+    <string name="store_details">تفاصيل</string>
+    <string name="string_comma_string">%1$s، %2$s</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string gender="unknown" name="summary_description">ملخص</string>
+    <string gender="unknown" name="tablist_description">قائمة علامات التبويب</string>
+    <string name="tag_name">اسم العلامة ..</string>
+    <string name="tag_parked_car">سيارة متوقفة</string>
+    <string name="tag_routing_not_supported">توجيه العلامات غير مدعوم من موقعك</string>
+    <string name="tag_status_disabled">وضع العلامات معطل</string>
+    <string name="tag_status_enabled">تم تمكين وضع العلامات</string>
+    <string name="tag_title">سيارة متوقفة</string>
+    <string name="tags">العلامات</string>
+    <string name="technical_issues">وجه الفتاة! يبدو أننا نواجه مشاكل فنية. الرجاء معاودة المحاولة في وقت لاحق.</string>
+    <string name="telephone">هاتف</string>
+    <string name="tell_friend_title">كيف تريد مشاركة Mapsted Navigation؟</string>
+    <string name="terms">شروط</string>
+    <string name="this_app">هذا التطبيق</string>
+    <string name="this_app_collects_location_data_to_"><![CDATA[سيتم استخدام موقعك لتمكين ميزات تحديد المواقع الداخلية والخارجية التي تعمل على تحسين تجربة التنقل لديك.\n\nيتم جمع هذه البيانات عندما يكون التطبيق قيد الاستخدام وعندما يكون مغلقًا.\n\nيرجى السماح للتطبيق باستخدام موقعك في الشاشة التالية.]]></string>
+    <string gender="unknown" name="timer_description">مؤقِت</string>
+    <string name="to">إلى</string>
+    <string gender="unknown" name="toolbar_description">شريط الأدوات</string>
+    <string name="turn_around_base_instruction">التف حوله</string>
+    <string name="turn_around_landmark">استدر بالقرب من %1$s</string>
+    <string name="turn_left_base_instruction">انعطف لليسار</string>
+    <string name="turn_left_landmark">انعطف يسارًا بالقرب من %1$s</string>
+    <string name="turn_right_base_instruction">انعطف يمينا</string>
+    <string name="turn_right_landmark">انعطف يمينًا بالقرب من %1$s</string>
+    <string name="uninstall">الغاء التثبيت</string>
+    <string name="unreliable">غير جدير بالثقة</string>
+    <string name="up">أعلى</string>
+    <string name="updating_location">جارٍ تحديث الموقع…</string>
+    <string name="use_latest_android_version_message">للحصول على أفضل أداء ، استخدم نظام Android 10 أو أعلى.</string>
+    <string name="use_staging">USE_STAGING</string>
+    <string name="user_current_floor_question">في أي طابق أنت حاليا؟</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"إيقاف"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"تفعيل"</string>
+    <string name="validating_licence">جارٍ التحقق من الترخيص…</string>
+    <string name="validating_licence_complete">التحقق من الترخيص... \u2713</string>
+    <string name="view">منظر</string>
+    <string name="view_alerts">عرض التنبيهات</string>
+    <string name="view_steps">عرض الخطوات</string>
+    <string name="web_page">صفحة على الإنترنت</string>
+    <string name="website">موقع الكتروني</string>
+    <string name="working_hours">%1$s - %2$s</string>
+    <string name="working_hours_label">ساعات العمل</string>
+    <string name="yes">نعم</string>
+    <string name="your_location">موقعك</string>
+</resources>

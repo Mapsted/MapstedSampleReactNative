@@ -1,0 +1,7 @@
+#Thu May 09 16:48:10 IST 2024
+base.0=/Users/jd/Documents/ReactNative/dempMapstedSampleApp/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/jd/Documents/ReactNative/dempMapstedSampleApp/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/15/classes.dex
+path.0=0/classes.dex
+path.1=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

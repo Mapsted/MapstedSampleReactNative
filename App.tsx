@@ -1,0 +1,34 @@
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ */
+
+import React from 'react';
+import {
+  Button,
+  SafeAreaView,
+  useColorScheme,
+} from 'react-native';
+import { launchMapActivity } from 'react-native-mapsted';
+
+import {
+  Colors,
+} from 'react-native/Libraries/NewAppScreen';
+
+
+function App(): React.JSX.Element {
+  const isDarkMode = useColorScheme() === 'dark';
+
+  const backgroundStyle = {
+    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
+  };
+
+  return (
+    <SafeAreaView style={backgroundStyle}>
+      <Button title='Launch Map' onPress={launchMapActivity}></Button>  
+    </SafeAreaView>
+  );
+}
+export default App;

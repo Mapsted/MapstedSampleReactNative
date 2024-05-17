@@ -1,0 +1,1513 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MapstedComponentsCore",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TableViewSection",
+        "printedName": "TableViewSection",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "sectionName",
+            "printedName": "sectionName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SectionName",
+                "printedName": "MapstedComponentsCore.SectionName",
+                "usr": "s:21MapstedComponentsCore11SectionNameO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21MapstedComponentsCore16TableViewSectionV11sectionNameAA0fH0Ovp",
+            "mangledName": "$s21MapstedComponentsCore16TableViewSectionV11sectionNameAA0fH0Ovp",
+            "moduleName": "MapstedComponentsCore",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21MapstedComponentsCore16TableViewSectionV11sectionNameAA0fH0Ovg",
+                "mangledName": "$s21MapstedComponentsCore16TableViewSectionV11sectionNameAA0fH0Ovg",
+                "moduleName": "MapstedComponentsCore",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rowCount",
+            "printedName": "rowCount",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21MapstedComponentsCore16TableViewSectionV8rowCountSivp",
+            "mangledName": "$s21MapstedComponentsCore16TableViewSectionV8rowCountSivp",
+            "moduleName": "MapstedComponentsCore",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21MapstedComponentsCore16TableViewSectionV8rowCountSivg",
+                "mangledName": "$s21MapstedComponentsCore16TableViewSectionV8rowCountSivg",
+                "moduleName": "MapstedComponentsCore",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21MapstedComponentsCore16TableViewSectionV8rowCountSivs",
+                "mangledName": "$s21MapstedComponentsCore16TableViewSectionV8rowCountSivs",
+                "moduleName": "MapstedComponentsCore",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21MapstedComponentsCore16TableViewSectionV8rowCountSivM",
+                "mangledName": "$s21MapstedComponentsCore16TableViewSectionV8rowCountSivM",
+                "moduleName": "MapstedComponentsCore",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isActive",
+            "printedName": "isActive",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21MapstedComponentsCore16TableViewSectionV8isActiveSbvp",
+            "mangledName": "$s21MapstedComponentsCore16TableViewSectionV8isActiveSbvp",
+            "moduleName": "MapstedComponentsCore",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21MapstedComponentsCore16TableViewSectionV8isActiveSbvg",
+                "mangledName": "$s21MapstedComponentsCore16TableViewSectionV8isActiveSbvg",
+                "moduleName": "MapstedComponentsCore",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(sectionName:rowCount:isActive:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TableViewSection",
+                "printedName": "MapstedComponentsCore.TableViewSection",
+                "usr": "s:21MapstedComponentsCore16TableViewSectionV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SectionName",
+                "printedName": "MapstedComponentsCore.SectionName",
+                "usr": "s:21MapstedComponentsCore11SectionNameO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:21MapstedComponentsCore16TableViewSectionV11sectionName8rowCount8isActiveAcA0fH0O_SiSbtcfc",
+            "mangledName": "$s21MapstedComponentsCore16TableViewSectionV11sectionName8rowCount8isActiveAcA0fH0O_SiSbtcfc",
+            "moduleName": "MapstedComponentsCore",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:21MapstedComponentsCore16TableViewSectionV",
+        "mangledName": "$s21MapstedComponentsCore16TableViewSectionV",
+        "moduleName": "MapstedComponentsCore",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MapstedComponentsCore",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SectionName",
+        "printedName": "SectionName",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "Empty",
+            "printedName": "Empty",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO5EmptyyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO5EmptyyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "About",
+            "printedName": "About",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO5AboutyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO5AboutyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "HelpMeFind",
+            "printedName": "HelpMeFind",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO10HelpMeFindyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO10HelpMeFindyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "Categories",
+            "printedName": "Categories",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO10CategoriesyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO10CategoriesyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "Campuses",
+            "printedName": "Campuses",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO8CampusesyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO8CampusesyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "Buildings",
+            "printedName": "Buildings",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO9BuildingsyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO9BuildingsyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "PropertyInfo",
+            "printedName": "PropertyInfo",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO12PropertyInfoyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO12PropertyInfoyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "ContactInfo",
+            "printedName": "ContactInfo",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO11ContactInfoyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO11ContactInfoyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "NewsFeed",
+            "printedName": "NewsFeed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO8NewsFeedyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO8NewsFeedyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "WorkingHours",
+            "printedName": "WorkingHours",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO12WorkingHoursyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO12WorkingHoursyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Var",
+            "name": "PointsOfInterest",
+            "printedName": "PointsOfInterest",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MapstedComponentsCore.SectionName.Type) -> MapstedComponentsCore.SectionName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SectionName",
+                    "printedName": "MapstedComponentsCore.SectionName",
+                    "usr": "s:21MapstedComponentsCore11SectionNameO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MapstedComponentsCore.SectionName.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SectionName",
+                        "printedName": "MapstedComponentsCore.SectionName",
+                        "usr": "s:21MapstedComponentsCore11SectionNameO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:21MapstedComponentsCore11SectionNameO16PointsOfInterestyA2CmF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO16PointsOfInterestyA2CmF",
+            "moduleName": "MapstedComponentsCore"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SectionName",
+                "printedName": "MapstedComponentsCore.SectionName",
+                "usr": "s:21MapstedComponentsCore11SectionNameO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SectionName",
+                "printedName": "MapstedComponentsCore.SectionName",
+                "usr": "s:21MapstedComponentsCore11SectionNameO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21MapstedComponentsCore11SectionNameO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO2eeoiySbAC_ACtFZ",
+            "moduleName": "MapstedComponentsCore",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21MapstedComponentsCore11SectionNameO9hashValueSivp",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO9hashValueSivp",
+            "moduleName": "MapstedComponentsCore",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21MapstedComponentsCore11SectionNameO9hashValueSivg",
+                "mangledName": "$s21MapstedComponentsCore11SectionNameO9hashValueSivg",
+                "moduleName": "MapstedComponentsCore",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21MapstedComponentsCore11SectionNameO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s21MapstedComponentsCore11SectionNameO4hash4intoys6HasherVz_tF",
+            "moduleName": "MapstedComponentsCore",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:21MapstedComponentsCore11SectionNameO",
+        "mangledName": "$s21MapstedComponentsCore11SectionNameO",
+        "moduleName": "MapstedComponentsCore",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MapstedComponentsCore",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIImage",
+        "printedName": "UIImage",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(color:size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "hasDefaultArg": true,
+                "usr": "c:@S@CGSize"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE5color4sizeABSgSo7UIColorC_So6CGSizeVtcfc",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE5color4sizeABSgSo7UIColorC_So6CGSizeVtcfc",
+            "moduleName": "MapstedComponentsCore",
+            "declAttributes": [
+              "Convenience",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Function",
+            "name": "cropToCircle",
+            "printedName": "cropToCircle()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE12cropToCircleABSgyF",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE12cropToCircleABSgyF",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resize",
+            "printedName": "resize(targetSize:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tuple",
+                "printedName": "(UIKit.UIImage, CoreFoundation.CGRect)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGRect",
+                    "printedName": "CoreFoundation.CGRect",
+                    "usr": "c:@S@CGRect"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE6resize10targetSizeAB_So6CGRectVtSo6CGSizeV_tF",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE6resize10targetSizeAB_So6CGRectVtSo6CGSizeV_tF",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resized",
+            "printedName": "resized(toWidth:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE7resized7toWidthABSg0D10Foundation7CGFloatV_tF",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE7resized7toWidthABSg0D8Graphics7CGFloatV_tF",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resized",
+            "printedName": "resized(withPercentage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE7resized14withPercentageABSg0D10Foundation7CGFloatV_tF",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE7resized14withPercentageABSg0D8Graphics7CGFloatV_tF",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "isPortrait",
+            "printedName": "isPortrait",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE10isPortraitSbvp",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE10isPortraitSbvp",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So7UIImageC21MapstedComponentsCoreE10isPortraitSbvg",
+                "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE10isPortraitSbvg",
+                "moduleName": "MapstedComponentsCore",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isLandscape",
+            "printedName": "isLandscape",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE11isLandscapeSbvp",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE11isLandscapeSbvp",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So7UIImageC21MapstedComponentsCoreE11isLandscapeSbvg",
+                "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE11isLandscapeSbvg",
+                "moduleName": "MapstedComponentsCore",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "breadth",
+            "printedName": "breadth",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE7breadth0D10Foundation7CGFloatVvp",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE7breadth0D8Graphics7CGFloatVvp",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So7UIImageC21MapstedComponentsCoreE7breadth0D10Foundation7CGFloatVvg",
+                "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE7breadth0D8Graphics7CGFloatVvg",
+                "moduleName": "MapstedComponentsCore",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "breadthSize",
+            "printedName": "breadthSize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE11breadthSizeSo6CGSizeVvp",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE11breadthSizeSo6CGSizeVvp",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGSize",
+                    "printedName": "CoreFoundation.CGSize",
+                    "usr": "c:@S@CGSize"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So7UIImageC21MapstedComponentsCoreE11breadthSizeSo6CGSizeVvg",
+                "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE11breadthSizeSo6CGSizeVvg",
+                "moduleName": "MapstedComponentsCore",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "breadthRect",
+            "printedName": "breadthRect",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE11breadthRectSo6CGRectVvp",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE11breadthRectSo6CGRectVvp",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGRect",
+                    "printedName": "CoreFoundation.CGRect",
+                    "usr": "c:@S@CGRect"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So7UIImageC21MapstedComponentsCoreE11breadthRectSo6CGRectVvg",
+                "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE11breadthRectSo6CGRectVvg",
+                "moduleName": "MapstedComponentsCore",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "rounded",
+            "printedName": "rounded(with:width:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC21MapstedComponentsCoreE7rounded4with5widthABSgSo7UIColorC_0D10Foundation7CGFloatVtF",
+            "mangledName": "$sSo7UIImageC21MapstedComponentsCoreE7rounded4with5widthABSgSo7UIColorC_0D8Graphics7CGFloatVtF",
+            "moduleName": "MapstedComponentsCore",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIImage",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIImage",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByImageLiteral",
+            "printedName": "_ExpressibleByImageLiteral",
+            "usr": "s:s26_ExpressibleByImageLiteralP",
+            "mangledName": "$ss26_ExpressibleByImageLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Structs\/TableViewSection.swift",
+      "kind": "IntegerLiteral",
+      "offset": 318,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 214,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 225,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 338,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 345,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 724,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1076,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1188,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 1994,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2009,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2034,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2046,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2356,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2380,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2463,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2488,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2566,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2591,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4083,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4272,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4292,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4350,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4370,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4571,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4585,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4633,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4645,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4689,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4761,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/parthbhatt\/Documents\/Mapsted\/Workspace\/Release-5.0_Workspace\/ios-sdk\/ios-sdk-mapsted-components\/MapstedComponentsCore\/MapstedComponentsCore\/Extensions\/UIImage+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4774,
+      "length": 1,
+      "value": "2"
+    }
+  ]
+}

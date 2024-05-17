@@ -1,0 +1,141 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MapstedGeofence
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+@_spi(InternalGeofenceManager) import MapstedCore
+import Swift
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers public class FloorLocationCriteria : MapstedGeofence.BaseLocationCriteria, MapstedGeofence.ILocationCriteria {
+  public func getLocationCriteriaType() -> MapstedGeofence.LocationCriteriaType
+  public class Builder {
+    public init(floorId: Swift.Int)
+    public func setTriggerDirection(direction: MapstedGeofence.ActivationDirection) -> MapstedGeofence.FloorLocationCriteria.Builder
+    public func setTriggerDelay(delayInSeconds: Swift.Float, ignoreDelayedEventIfStateChanged: Swift.Bool) -> MapstedGeofence.FloorLocationCriteria.Builder
+    public func build() -> MapstedGeofence.FloorLocationCriteria
+    @objc deinit
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class BaseLocationCriteria {
+  public func getLocationDirection() -> MapstedGeofence.ActivationDirection
+  public func getTriggerDelay() -> Swift.Float?
+  public func getIgnoreDelayedEventIfStateChanged() -> Swift.Bool?
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class PropertyLocationCriteria : MapstedGeofence.BaseLocationCriteria, MapstedGeofence.ILocationCriteria {
+  public func getLocationCriteriaType() -> MapstedGeofence.LocationCriteriaType
+  public class Builder {
+    public init(propertyId: Swift.Int)
+    public func setTriggerDirection(direction: MapstedGeofence.ActivationDirection) -> MapstedGeofence.PropertyLocationCriteria.Builder
+    public func setTriggerDelay(delayInSeconds: Swift.Float, ignoreDelayedEventIfStateChanged: Swift.Bool) -> MapstedGeofence.PropertyLocationCriteria.Builder
+    public func build() -> MapstedGeofence.PropertyLocationCriteria
+    @objc deinit
+  }
+  @objc deinit
+}
+extension MapstedGeofence.PropertyLocationCriteria {
+  public func getCppLocationCriteria() -> (any MapstedCore.ICppLocationCriteria)?
+}
+public protocol GeofenceCallback : AnyObject {
+  func onGeofenceTriggered(propertyId: Swift.Int, geofenceId: Swift.String)
+}
+public protocol GeofenceApi {
+  func addGeofenceTrigger(propertyId: Swift.Int, geofenceTrigger: MapstedGeofence.GeofenceTrigger) -> Swift.Bool
+  func addGeofenceTriggers(propertyId: Swift.Int, geofenceTriggers: [MapstedGeofence.GeofenceTrigger]) -> Swift.Bool
+  func removeGeofenceTrigger(propertyId: Swift.Int, geofenceId: Swift.String) -> Swift.Bool
+  func removeAllGeofenceTriggers(propertyId: Swift.Int) -> Swift.Bool
+  func addListener(geofenceCallback: any MapstedGeofence.GeofenceCallback)
+  func removeListener(geofenceCallback: any MapstedGeofence.GeofenceCallback) -> Swift.Bool
+}
+@_hasMissingDesignatedInitializers public class GeofenceManager : MapstedGeofence.GeofenceApi, MapstedGeofence.GeofenceCallback {
+  public static let shared: MapstedGeofence.GeofenceManager
+  public func addGeofenceTrigger(propertyId: Swift.Int, geofenceTrigger: MapstedGeofence.GeofenceTrigger) -> Swift.Bool
+  public func addGeofenceTriggers(propertyId: Swift.Int, geofenceTriggers: [MapstedGeofence.GeofenceTrigger]) -> Swift.Bool
+  public func removeGeofenceTrigger(propertyId: Swift.Int, geofenceId: Swift.String) -> Swift.Bool
+  public func removeAllGeofenceTriggers(propertyId: Swift.Int) -> Swift.Bool
+  public func addListener(geofenceCallback: any MapstedGeofence.GeofenceCallback)
+  public func removeListener(geofenceCallback: any MapstedGeofence.GeofenceCallback) -> Swift.Bool
+  @objc deinit
+}
+extension MapstedGeofence.GeofenceManager : MapstedCore.CoreGeofenceCallback {
+  public func onGeofenceTriggered(propertyId: Swift.Int, geofenceId: Swift.String)
+}
+public enum LocationCriteriaType {
+  case Unknown
+  case Off_Premise
+  case Property
+  case Building
+  case Floor
+  case Poi_Vicinity
+  case Polygon_Geofence
+  public static func == (a: MapstedGeofence.LocationCriteriaType, b: MapstedGeofence.LocationCriteriaType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class GeofenceTrigger {
+  public func getPropertyId() -> Swift.Int
+  public func getGeofenceId() -> Swift.String
+  public func getLocationCriteria() -> any MapstedGeofence.ILocationCriteria
+  public class Builder {
+    public init(propertyId: Swift.Int, geofenceId: Swift.String)
+    public func setLocationCriteria(locationCriteria: any MapstedGeofence.ILocationCriteria) -> MapstedGeofence.GeofenceTrigger.Builder
+    public func build() -> MapstedGeofence.GeofenceTrigger
+    @objc deinit
+  }
+  @objc deinit
+}
+public enum ActivationDirection {
+  case Unknown
+  case On_Enter
+  case On_Exit
+  public static func == (a: MapstedGeofence.ActivationDirection, b: MapstedGeofence.ActivationDirection) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class PoiVicinityLocationCriteria : MapstedGeofence.BaseLocationCriteria, MapstedGeofence.ILocationCriteria {
+  public func getLocationCriteriaType() -> MapstedGeofence.LocationCriteriaType
+  public func getEntityZones() -> [MapstedCore.MNEntityZone]
+  public func getActivationThreshold() -> Swift.Float?
+  public class Builder {
+    public init()
+    public func setTriggerDirection(direction: MapstedGeofence.ActivationDirection) -> MapstedGeofence.PoiVicinityLocationCriteria.Builder
+    public func setTriggerDelay(delayInSeconds: Swift.Float, ignoreDelayedEventIfStateChanged: Swift.Bool) -> MapstedGeofence.PoiVicinityLocationCriteria.Builder
+    public func addEntityZone(entityZone: MapstedCore.MNEntityZone) -> MapstedGeofence.PoiVicinityLocationCriteria.Builder
+    public func setActivationDistanceThreshold(distanceInMeters: Swift.Float) -> MapstedGeofence.PoiVicinityLocationCriteria.Builder
+    public func build() -> MapstedGeofence.PoiVicinityLocationCriteria
+    @objc deinit
+  }
+  @objc deinit
+}
+extension MapstedGeofence.PoiVicinityLocationCriteria {
+  public func getCppLocationCriteria() -> (any MapstedCore.ICppLocationCriteria)?
+}
+public protocol ILocationCriteria {
+  func getLocationCriteriaType() -> MapstedGeofence.LocationCriteriaType
+  func getLocationDirection() -> MapstedGeofence.ActivationDirection
+}
+@_hasMissingDesignatedInitializers public class BuildingLocationCriteria : MapstedGeofence.BaseLocationCriteria, MapstedGeofence.ILocationCriteria {
+  public func getLocationCriteriaType() -> MapstedGeofence.LocationCriteriaType
+  public class Builder {
+    public init(buildingId: Swift.Int)
+    public func setTriggerDirection(direction: MapstedGeofence.ActivationDirection) -> MapstedGeofence.BuildingLocationCriteria.Builder
+    public func setTriggerDelay(delayInSeconds: Swift.Float, ignoreDelayedEventIfStateChanged: Swift.Bool) -> MapstedGeofence.BuildingLocationCriteria.Builder
+    public func build() -> MapstedGeofence.BuildingLocationCriteria
+    @objc deinit
+  }
+  @objc deinit
+}
+extension MapstedGeofence.BuildingLocationCriteria {
+  public func getCppLocationCriteria() -> (any MapstedCore.ICppLocationCriteria)?
+}
+extension MapstedGeofence.LocationCriteriaType : Swift.Equatable {}
+extension MapstedGeofence.LocationCriteriaType : Swift.Hashable {}
+extension MapstedGeofence.ActivationDirection : Swift.Equatable {}
+extension MapstedGeofence.ActivationDirection : Swift.Hashable {}

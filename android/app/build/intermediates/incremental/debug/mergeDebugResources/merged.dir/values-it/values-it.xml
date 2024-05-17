@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="delayed_by_x_min">
+        <item quantity="one">Ritardato di %1$s min</item>
+        <item quantity="other">Ritardato di %1$s mins</item>
+    </plurals>
+    <plurals name="err_routing_dialog_alert_blocking_route_message">
+        <item quantity="one">Non siamo stati in grado di fornire il routing a causa di un avviso che blocca tutte le opzioni di routing.</item>
+        <item quantity="other">Non siamo stati in grado di fornire il routing a causa di alcuni avvisi che bloccano tutte le opzioni di routing.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nuova notifica</item>
+    <item quantity="other">%d nuove notifiche</item>
+  </plurals>
+    <plurals name="x_alerts_associated_with_this_route">
+        <item quantity="one">%1$s Avviso relativo a questo percorso</item>
+        <item quantity="other">%1$s Avvisi relativi a questo percorso</item>
+    </plurals>
+    <string name="_3d">3D</string>
+    <string name="_ft">%1$d ft</string>
+    <string name="_m">%1$d m</string>
+    <string name="_min">%1$d min</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Portami a casa"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Torna indietro"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra tutto"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Scelta di un\'app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"ALT +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"CTRL +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"CANC"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"INVIO"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"FUNZIONE +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"META +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"MAIUSC +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"SPAZIO"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"SYM +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"MENU +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Condividi tramite <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about">Di</string>
+    <string name="accessibility">Accessibilità</string>
+    <string name="acknowledge">Riconoscere</string>
+    <string name="add_stop">Aggiungi stop</string>
+    <string name="add_to_itinerary">"Aggiungi all'itinerario"</string>
+    <string gender="unknown" name="alert_description">Avviso</string>
+    <string name="alerts">Avvisi</string>
+    <string name="an_error_occurred">Si è verificato un errore</string>
+    <string name="an_error_occurred_missing_stops">Si è verificato un errore. Fermate mancanti.</string>
+    <string name="an_error_occurred_please_try_again">Si è verificato un errore. Riprova.</string>
+    <string name="app_exit_confirm_text">Uscire da Mapsted Navigation?</string>
+    <string name="app_uses_gps_go_to_settings_menu">Questa app utilizza il GPS. Vuoi andare al menu delle impostazioni?</string>
+    <string name="apply">Apply</string>
+    <string name="are_you_sure_you_want_to_delete">Sei sicuro di voler eliminare %1$s</string>
+    <string name="attribution">Attribuzione</string>
+    <string name="attributions">Attribuzioni</string>
+    <string name="back">Indietro</string>
+    <string name="background_location_access">Consenti accesso alla posizione in background</string>
+    <string name="barometer">Barometro</string>
+    <string name="blue_dot_customization">Personalizzazione Blue Dot</string>
+    <string name="blue_dot_positioning_unavailable_header">Il segnaposto non è disponibile per questa struttura.</string>
+    <string name="blue_dot_positioning_unavailable_message">Questa proprietà deve essere calibrata per supportare il posizionamento Blue Dot.</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
+    <string name="buildings">Edifici</string>
+    <string name="calculating">Calcolo</string>
+    <string name="calibrate_compass_message">Per un migliore posizionamento, calibra la tua bussola magnetica.</string>
+    <string name="calibration_compass_header">Calibrare la bussola</string>
+    <string name="calibration_compass_message1">Per un posizionamento migliore, calibra la bussola del tuo Blue Dot.</string>
+    <string name="calibration_compass_message2">Inclina il telefono e spostalo in un movimento a otto figure più volte fino a quando la precisione migliora.</string>
+    <string name="cancel">Annulla</string>
+    <string name="cannot_initializegps_mapsted_sdk_with_null_activity">"Impossibile inizializzare GPS Mapsted SDK con un'attività null"</string>
+    <string name="categories">Categorie</string>
+    <string name="change_floor">Cambio piano</string>
+    <string name="change_floor_question">Ti sei trasferito %1$s to %2$s?</string>
+    <string name="channel_name_forground_service">Servizio in primo piano</string>
+    <string name="character_counter_content_description">%1$d caratteri inserirti su %2$d</string>
+    <string name="character_counter_overflowed_content_description">Sono presenti %2$d caratteri in più rispetto al limite di %1$d</string>
+    <string name="check_back_message">Si prega di ricontrollare presto</string>
+    <string name="checking_app_update">Verifica della disponibilità di aggiornamenti…</string>
+    <string name="checking_for_near_by_properties">Verifica delle proprietà vicine…</string>
+    <string name="checking_for_near_by_properties_complete">Verifica delle proprietà vicine… \u2713</string>
+    <string name="choose">Scegliere</string>
+    <string name="choose_destination">Scegli la destinazione</string>
+    <string name="choose_different_location">Si prega di scegliere una posizione diversa</string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
+    <string name="close">Chiudere</string>
+    <string name="closed">Chiudi</string>
+    <string name="closes">Chiude</string>
+    <string name="closest_location">Posizione più vicina</string>
+    <string gender="unknown" name="combobox_description">Casella combinata</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Attiva</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installa</string>
+    <string name="common_google_play_services_install_text">L\'app %1$s non funzionerà senza Google Play Services, non presente sul tuo dispositivo.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilità di Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non funzionerà senza Google Play Services, non supportati dal tuo dispositivo.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Aggiorna</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s non funzionerà se non aggiorni Google Play Services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s non funzionerà senza Google Play Services, attualmente in fase di aggiornamento.</string>
+    <string name="common_google_play_services_wear_update_text">È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve.</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="compass_accuracy">Precisione della bussola</string>
+    <string name="contact_us">Contattaci</string>
+    <string name="continuee">Continuare</string>
+    <string name="could_not_find_nearest_param">Impossibile trovare più vicino %1$s</string>
+    <string name="cpp_was_null">mCpp era null</string>
+    <string name="create_new_tag">Crea nuovo tag</string>
+    <string name="create_new_tag_instruction">Fare clic sul pulsante "Crea nuovo tag" per aggiungere tag sulla mappa. È quindi possibile modificarli ed eliminarli.</string>
+    <string name="dark">Buio</string>
+    <string name="default_style">Predefinito</string>
+    <string name="delete">Cancellare</string>
+    <string name="delete_tag_message">Elimina tag %1$s</string>
+    <string name="delete_tag_title">Elimina tag</string>
+    <string name="directions">Indicazioni</string>
+    <string name="disable">Disattivare</string>
+    <string name="disable_wi_fi_scan_throttling_in_developer_options">Disabilita la limitazione della scansione Wi-Fi nelle Opzioni sviluppatore</string>
+    <string name="disable_wifi_throttling_message">Per un posizionamento avanzato, disattivare la limitazione della scansione WI-FI.</string>
+    <string name="dismiss">Licenziare</string>
+    <string name="distance_1arg">Distanza %1$s</string>
+    <string name="distance_and_time_format">Formato di data e ora</string>
+    <string name="done">Fatto</string>
+    <string name="down">giù</string>
+    <string name="download">Scaricare</string>
+    <string name="download_failed">Download non riuscito</string>
+    <string name="duplicate_tag_name">Nome tag duplicato, inserire un nome diverso</string>
+    <string name="edit">Redigere</string>
+    <string name="elevator_down_base_instruction">Prendi l\'ascensore giù</string>
+    <string name="elevator_down_landmark">Vicino %1$s</string>
+    <string name="elevator_down_transition_destination">Prendi l\'ascensore fino a %1$s</string>
+    <string name="elevator_up_base_instruction">"Prendi l'ascensore"</string>
+    <string name="elevator_up_landmark">Vicino %1$s</string>
+    <string name="elevator_up_transition_destination">Prendi l\'ascensore fino a %1$s</string>
+    <string name="elevators">Elevatori</string>
+    <string name="enable">Enable</string>
+    <string name="enable_bluetooth_improve_accuracy">Per una maggiore precisione, attiva il Bluetooth.</string>
+    <string name="enter_building_base_instruction">"Entra nell'edificio"</string>
+    <string name="enter_building_landmark">Entrare %1$s</string>
+    <string name="err_force_update">"Aggiorna l'app per continuare"</string>
+    <string name="err_google_play_services">Google Play Services non è installato</string>
+    <string name="err_licence">Sembra che ci sia un problema con la tua licenza. Controlla la tua licenza o riprova più tardi.</string>
+    <string name="err_loading_properties">Oops! Stiamo riscontrando alcune difficoltà tecniche nell\'accesso alla tua lista di proprietà. Controlla la tua licenza o riprova più tardi</string>
+    <string name="err_map_load">Impossibile inizializzare Map. Controlla la scadenza della tua licenza</string>
+    <string name="err_mapsted_init">Siamo spiacenti, abbiamo problemi ad accedere all\'elenco delle tue proprietà. Controlla la tua connessione Internet, la scadenza della licenza o riprova più tardi.</string>
+    <string name="err_no_connection_try_again">Nessuna connessione di rete disponibile, riprova più tardi</string>
+    <string name="err_routing_alert">Routing bloccato da avvisi</string>
+    <string name="err_routing_destination">Scusa! Sembra che si sia verificato un errore con la destinazione impostata</string>
+    <string name="err_routing_dialog_miscellaneous_error_message">Non siamo stati in grado di fornire il routing a causa di un errore vario.</string>
+    <string name="err_routing_in_property_only">Il routing dalla tua posizione corrente è supportato solo all\'interno della proprietà</string>
+    <string name="err_routing_miscellaneous">Impossibile trovare il percorso</string>
+    <string name="err_routing_permissions">Autorizzazioni di licenza di routing non abilitate. Riprova più tardi</string>
+    <string name="err_routing_set_destination">Si prega di selezionare una destinazione</string>
+    <string name="err_routing_set_start_point">Si prega di selezionare una posizione di partenza</string>
+    <string name="err_routing_start">Scusa! Sembra che si sia verificato un errore con il punto iniziale impostato</string>
+    <string name="err_routing_unknown_user_pos_positioning">Impossibile determinare la posizione dell\'utente iniziale</string>
+    <string name="err_routing_unknown_user_pos_wayfinding">Si prega di scegliere una posizione di partenza, il posizionamento del punto blu non è abilitato per questa proprietà</string>
+    <string name="err_unknown">Si è verificato un errore imprevisto. Per favore riprova più tardi.</string>
+    <string name="error">Errore</string>
+    <string name="error_generic_add_item">"Impossibile aggiungere l'elemento"</string>
+    <string name="error_icon_content_description">Errore</string>
+    <string name="escalator_down_base_instruction">"Prendi la scala mobile giù"</string>
+    <string name="escalator_down_pre_landmark">Vicino %1$s</string>
+    <string name="escalator_down_transition_destination">Take Escalator Down To %1$s</string>
+    <string name="escalator_up_base_instruction">"Prendi la scala mobile"</string>
+    <string name="escalator_up_landmark">Vicino %1$s</string>
+    <string name="escalator_up_transition_destination">Prendi la scala mobile fino a %1$s</string>
+    <string name="escalators">Scale mobili</string>
+    <string name="exit">Uscita</string>
+    <string name="exit_building_base_instruction">"Esci dall'edificio"</string>
+    <string name="exit_building_landmark">Uscita %1$s</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avanzate"</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra il menu a discesa</string>
+    <string name="failed_to_search">Impossibile eseguire la ricerca. Riprova.</string>
+    <string name="feed">Nutrire</string>
+    <string name="feedback_application_design">La nostra navigazione era chiara e facile da seguire?</string>
+    <string name="feedback_button">LASCIA UN FEEDBACK</string>
+    <string name="feedback_mapping_experience">"Come giudichi l'accuratezza delle nostre mappe?"</string>
+    <string name="feedback_submission_rates_screen_header">Invia feedback Dimensione personalizzata # </string>
+    <string name="feedback_submission_tell_us_more_screen_header">Invia dicci di più</string>
+    <string name="feedback_tell_more">Dicci di più (facoltativo)</string>
+    <string name="feedback_tracking_accuracy">Abbiamo migliorato la tua esperienza di acquisto?</string>
+    <string name="feedback_use_similar">La nostra app era intuitiva e facile da usare?</string>
+    <string name="fetching_properties">Proprietà di recupero…</string>
+    <string name="fetching_properties_complete">Proprietà di recupero… \u2713</string>
+    <string name="find_us_on">Trovaci su</string>
+    <string name="fixed_location">Posizione fissa</string>
+    <string name="floor_changer_down">Cambiapavimenti giù</string>
+    <string name="floor_chooser_instruction">Seleziona il piano su cui ti trovi attualmente.</string>
+    <string name="floor_chooser_message">Seleziona Piano</string>
+    <string name="floor_selector_down">Selettore a pavimento verso il basso</string>
+    <string name="floor_selector_up">Selettore del pavimento</string>
+    <string name="for_best_performance_background_location_message">Per prestazioni ottimali, selezionare %1$s nella schermata seguente per consentire l\'accesso alla posizione in background.</string>
+    <string name="foreground_service_notification_content">"Clicca per riprendere l'applicazione!"</string>
+    <string name="foreground_service_notification_title">I servizi mappati basati sulla posizione sono in esecuzione</string>
+    <string name="ft">%1$d ft</string>
+    <string name="go">Andare</string>
+    <string name="go_down_base_instruction">"Scendere"</string>
+    <string name="go_down_landmark"> Vicino %1$s</string>
+    <string name="go_down_transition_destination">Vai giù a %1$s</string>
+    <string name="go_straight_base_instruction">"Vai dritto"</string>
+    <string name="go_straight_landmark">Proseguire dritto oltre %1$s</string>
+    <string name="go_up_base_instruction">"Salire"</string>
+    <string name="go_up_landmark"> Vicin0 %1$s</string>
+    <string name="go_up_transition_destination">Vai fino a %1$s</string>
+    <string name="go_with_alert">Go ⚠</string>
+    <string name="gps_not_enabled">Il GPS non è abilitato."</string>
+    <string name="gps_settings">Impostazioni GPS</string>
+    <string name="gyroscope">Giroscopio</string>
+    <string gender="unknown" name="header_description">Titolo</string>
+    <string name="high">alto</string>
+    <string name="icon_content_description">Icona della finestra di dialogo</string>
+    <string gender="unknown" name="image_description">Immagine</string>
+    <string gender="unknown" name="imagebutton_description">Pulsante, Immagine</string>
+    <string name="in">%1$s in %2$s</string>
+    <string name="incorrectFloor">Pavimento errato</string>
+    <string name="incorrectLocation">Posizione errata</string>
+    <string name="install">Installare</string>
+    <string name="invalid_my_location_message">La destinazione finale non può essere la tua posizione</string>
+    <string name="invalid_name">Nome non valido</string>
+    <string name="invalid_search_entity">Posizione non valida</string>
+    <string name="item_view_role_description">Scheda</string>
+    <string name="itineraries">Itinerari</string>
+    <string name="itinerary_duplicate_found">Impossibile aggiungere un elemento duplicato</string>
+    <string name="itinerary_limit_msg">Siamo spiacenti, hai raggiunto il limite di 8 articoli!</string>
+    <string name="itinerary_preferences">Preferenze itinerario</string>
+    <string name="km">%1$d km</string>
+    <string name="learn_more">Ulteriori informazioni ></string>
+    <string name="legal_terms">Termini legali</string>
+    <string name="less_than_x_min">Meno di %1$d min</string>
+    <string name="licence_is_expired">La licenza è scaduta</string>
+    <string name="licence_is_invalid_incorrect_file">Licenza non valida (file errato)</string>
+    <string name="licence_is_invalid_incorrect_format">La licenza non è valida (formato errato)</string>
+    <string name="licence_is_invalid_insufficient_info">La licenza non è valida (informazioni insufficienti)</string>
+    <string name="licence_is_valid">La licenza non è valida</string>
+    <string name="licence_not_support_this_feature">La licenza fornita non supporta questa funzionalità.</string>
+    <string name="licence_verification_in_progress">Verifica della licenza in corso</string>
+    <string name="light">Leggero</string>
+    <string name="loading">Caricamento…</string>
+    <string name="loading_property">Proprietà di caricamento…</string>
+    <string name="loading_property_complete">Proprietà di caricamento… \u2713</string>
+    <string name="location_chooser_instruction">Seleziona un luogo nelle vicinanze</string>
+    <string name="location_chooser_message">Siamo spiacenti, abbiamo problemi a trovare la tua posizione attuale.</string>
+    <string name="location_marker_not_available_message">Il segnaposto non è disponibile per questa struttura.</string>
+    <string name="location_permissions_title">%1$s desideri utilizzare la tua posizione</string>
+    <string name="location_sharing_in_progress">Location sharing in progress…</string>
+    <string name="locations">Luoghi</string>
+    <string name="low">Basso</string>
+    <string name="m">%1$d m</string>
+    <string name="map_initializatiion_detail_null">Dettagli inizializzazione mappa è null</string>
+    <string name="map_overlays">Sovrapposizioni di mappe</string>
+    <string name="map_setting_preferences">Preferenze di impostazione della mappa</string>
+    <string name="map_type">Tipo di mappa</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">%1$s in punto</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_timepicker_am">am</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">pm</string>
+    <string name="material_timepicker_select_time">Seleziona l\'ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di immissione testo per inserire l\'ora.</string>
+    <string name="medium">Medio</string>
+    <string gender="unknown" name="menubar_description">Barra dei menu</string>
+    <string gender="unknown" name="menuitem_description">Elemento del menu</string>
+    <string name="miles">%1$d miles</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Pulsante Trasmetti"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Pulsante Trasmetti. Connesso"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Pulsante Trasmetti. Connessione in corso"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Pulsante Trasmetti. Disconnesso"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Ricerca di dispositivi"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Trasmetti a"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Copertina dell\'album"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Trasmissione dello schermo attiva"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Chiudi"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Comprimi"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Disconnetti"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Espandi"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Nessuna informazione disponibile"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Nessun contenuto multimediale selezionato"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Metti in pausa"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Riproduci"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Interrompi"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Interrompi trasmissione"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Dispositivo di scorrimento del volume"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Dispositivi"</string>
+    <string name="msg_full_blue_dot_unavailable_missing_sensors">La navigazione a punti blu non è disponibile sul dispositivo a causa della mancanza di sensori chiave. Il wayfinding è disponibile e puoi comunque visualizzare in anteprima le indicazioni passo-passo.</string>
+    <string name="msg_full_blue_dot_unavailable_sdk_settings">La navigazione a punti blu non è disponibile. Il wayfinding è disponibile e puoi comunque visualizzare in anteprima le indicazioni passo-passo.</string>
+    <string name="msg_full_blue_dot_unavailable_unreliable_data">Abbiamo notato alcuni dati inaffidabili provenienti dal tuo dispositivo, quindi abbiamo temporaneamente disabilitato la navigazione a punti blu. Il punto blu può riprendere una volta che la qualità dei dati migliora.</string>
+    <string name="msg_missing_sensor_warning">Nel dispositivo mancano sensori. Ciò potrebbe comportare un posizionamento meno accurato.</string>
+    <string name="msg_short_blue_dot_unavailable_missing_sensors">La navigazione a punti blu non è disponibile sul dispositivo (sensori chiave mancanti)</string>
+    <string name="msg_short_blue_dot_unavailable_sdk_settings">"La navigazione a punti blu non è disponibile (configurazione dell'app)"</string>
+    <string name="msg_short_blue_dot_unavailable_unreliable_data">Il posizionamento del punto blu è temporaneamente disabilitato (dati inaffidabili provenienti dal dispositivo)</string>
+    <string name="msg_title_blue_dot_unavailable_missing_sensors">Missing Key Sensors</string>
+    <string name="msg_title_blue_dot_unavailable_unreliable_data">Dati inaffidabili</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Vai all\'anno %1$s</string>
+    <string name="mtrl_picker_out_of_range">Non compresa nell\'intervallo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data di inizio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Seleziona intervallo</string>
+    <string name="mtrl_picker_range_header_unselected">Data di inizio - Data di fine</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di immissione Calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocca per passare alla selezione di un giorno</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di immissione Testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocca per passare alla selezione di un anno</string>
+    <string name="multiple_locations">Sedi multiple</string>
+    <string name="my_location">La mia posizione</string>
+    <string name="my_tags">I miei tag</string>
+    <string name="n_locations">%1$d Luoghi</string>
+    <string name="name">Nome</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Torna indietro"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Apri riquadro di navigazione"</string>
+    <string name="navigate">Navigare</string>
+    <string name="navigate_from_mylocation_error">⚠ La navigazione passo-passo è disponibile solo quando si esegue il routing da La mia posizione</string>
+    <string name="navigate_in_order">Naviga in ordine</string>
+    <string name="near">Vicino</string>
+    <string name="near_landmark">Vicino a %1$s</string>
+    <string name="neteork_issue_to_download_map">Si prega di connettersi alla rete per ottenere il download della mappa.</string>
+    <string name="network_congestion">Sembra che ci sia una congestione della rete. Attendere prego…</string>
+    <string name="new_location">Nuova sede</string>
+    <string name="new_tag">Creare un tag</string>
+    <string name="no">No</string>
+    <string name="no_data_yet">Nessun dato ancora</string>
+    <string name="no_recent_items_yet">Nessun articolo recente ancora</string>
+    <string name="not_determine_position">Impossibile determinare la tua posizione</string>
+    <string name="not_in_current_property_message">"La tua posizione o destinazione nell'itinerario non è nella proprietà corrente"</string>
+    <string name="nothing_here_yet">Ancora niente qui</string>
+    <string name="ok">OK</string>
+    <string name="open">Aperto</string>
+    <string name="open24hours">Aperto 24 ore su 24</string>
+    <string name="open_settings">Vai a Impostazioni</string>
+    <string name="opens">Apre</string>
+    <string name="or">o</string>
+    <string name="pan_the_map_to_set_location">Eseguire una panoramica sulla mappa per impostare la posizione.</string>
+    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="permission_background_location_rationale_message_android_11_plus">Per utilizzare questa app sono necessarie le autorizzazioni per la posizione in background. Si prega di impostare l\'autorizzazione alla posizione su "%1$s"</string>
+    <string name="permission_bluetooth_rationale_message">"Le autorizzazioni Bluetooth sono necessarie per migliorare l'esperienza dell'app."</string>
+    <string name="permission_camera_rationale">"L'accesso alla fotocamera è necessario per scansionare i codici QR e guadagnare punti"</string>
+    <string name="permission_external_storage">"Per aggiornare l'immagine sono necessarie autorizzazioni di archiviazione esterna"</string>
+    <string name="permission_location_and_bluetooth_rationale_message">Per utilizzare questa app sono necessarie autorizzazioni per la posizione e il bluetooth.</string>
+    <string name="permission_location_disabled_msg">"Hai scelto di non concederci le autorizzazioni per la posizione. Tuttavia, sono necessarie autorizzazioni di posizione per utilizzare questa app. Vai alle impostazioni di autorizzazione e consenti l'accesso alla posizione."</string>
+    <string name="permission_location_rationale">Le autorizzazioni di posizione sono necessarie per trovare promozioni nelle vicinanze</string>
+    <string name="permission_location_rationale_message">Per utilizzare questa app sono necessarie le autorizzazioni per la posizione.</string>
+    <string name="phone">Telefono</string>
+    <string name="pick_floor">Scegli piano</string>
+    <string name="plan_my_route_my_location">La mia posizione</string>
+    <string name="pointsOfInterest">Punti di interesse</string>
+    <string name="positioning_inaccuracy_changing_floor_delay_header">Ritardo durante il cambio di piano</string>
+    <string name="positioning_inaccuracy_explanation_message">È possibile che si verifichino alcuni ritardi quando si utilizza il posizionamento Blue Dot perché nel dispositivo mancano i seguenti sensori:</string>
+    <string name="positioning_inaccuracy_missing_sensor_message">È possibile che si verifichi un ritardo durante la navigazione tra i piani perché nel dispositivo manca il seguente sensore:</string>
+    <string name="positioning_inaccuracy_notification_message">Nel dispositivo mancano sensori. Ciò potrebbe comportare un posizionamento meno accurato.</string>
+    <string name="positioning_inaccuracy_positioning_delay_header">Ritardi nel posizionamento Blue Dot</string>
+    <string name="preferred_routing_options">Opzioni di routing preferite</string>
+    <string name="prepend_then_to_instruction">Allora, %1$s</string>
+    <string gender="unknown" name="progressbar_description">Barra di avanzamento</string>
+    <string name="promotions">Promozioni</string>
+    <string name="properties">Proprietà</string>
+    <string name="property_data_before_percent_in_progress">Scaricare</string>
+    <string name="property_data_before_size_available">Disponibile</string>
+    <string name="property_data_before_size_complete">Download completo</string>
+    <string name="property_data_storage_mb">Conservazione dei dati (MB)</string>
+    <string name="property_list">Elenco delle proprietà</string>
+    <string name="property_list_title">Cerca immobili…</string>
+    <string name="property_option_msg">Si prega di scegliere la posizione desiderata</string>
+    <string gender="unknown" name="radiogroup_description">Gruppo radio</string>
+    <string name="re_routing">Rerouting</string>
+    <string name="reached_destination_message">Hai raggiunto la tua destinazione!</string>
+    <string name="reached_your_destination">Hai raggiunto la tua destinazione!</string>
+    <string name="recalculating">Ricalcolo</string>
+    <string name="recent">Recente</string>
+    <string name="recentre">Ricentratura</string>
+    <string name="remove_tag">Rimuovi tag</string>
+    <string name="removed">Lontano</string>
+    <string name="request_location">Si prega di abilitare le autorizzazioni di posizione.</string>
+    <string name="restart_language_message_arabic">"Rilancio dell'applicazione in arabo."</string>
+    <string name="restart_language_message_english">"Riavvio dell'applicazione in inglese."</string>
+    <string name="restart_language_message_french">"Rilancio dell'applicazione in francese."</string>
+    <string name="restart_language_message_portuguese">"Riavvio dell'applicazione in portoghese."</string>
+    <string name="resultsFor">Results For: %1$s</string>
+    <string name="retrieve_search_location_error">Impossibile recuperare il percorso di ricerca. Riprova.</string>
+    <string name="retrieving_licence_from_server">Recupero della licenza dal server</string>
+    <string name="route_continue_base_instruction">Continua percorso</string>
+    <string name="route_continue_landmark">Continua Passato %1$s</string>
+    <string name="route_destination_base_instruction">"Arrivo a destinazione"</string>
+    <string name="route_destination_landmark">"Arrivo a %1$s"</string>
+    <string name="route_options">Opzioni di percorso</string>
+    <string name="route_options_preferences">Preferenze Opzioni percorso</string>
+    <string name="route_preview_label_from"/>
+    <string name="route_preview_label_to"/>
+    <string name="route_start_base_instruction">"Inizia dalla tua sede"</string>
+    <string name="route_start_landmark">Inizia da %1$s</string>
+    <string name="routing_failed">"Impossibile trovare il percorso. Si prega di controllare l'itinerario e le opzioni."</string>
+    <string name="routing_preferences">Preferenze di routing</string>
+    <string name="save">Salvare</string>
+    <string name="saved">Salvato</string>
+    <string gender="unknown" name="scrollbar_description">Barra di scorrimento</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="search_no_results">Nessun risultato trovato. Tocca qui per cercare online</string>
+    <string name="sensor_accelerometer">Accelerometro</string>
+    <string name="sensor_barometer">Barometro</string>
+    <string name="sensor_gravity">Gravità</string>
+    <string name="sensor_gyroscope">Giroscopio</string>
+    <string name="sensor_magnetometer">Magnetometro</string>
+    <string name="sensor_name_barometer">Barometro</string>
+    <string name="set_location">Imposta posizione</string>
+    <string name="set_my_location_manually">Imposta manualmente la mia posizione</string>
+    <string name="settings">Impostazioni</string>
+    <string name="shortest_route">Percorso più breve</string>
+    <string name="show_alerts">Mostra avvisi</string>
+    <string name="show_tags_on_map">Mostra tag sulla mappa</string>
+    <string name="simple_property_list_not_found_internet">Nessuna proprietà trovata. Controlla la tua connessione di rete.</string>
+    <string name="simple_property_list_not_found_licence">Nessuna proprietà trovata. Si prega di verificare le autorizzazioni della licenza.</string>
+    <string name="skip">Saltare</string>
+    <string name="sorry_an_error_occurred">Si è verificato un errore.</string>
+    <string name="speech_guidance">Guida vocale</string>
+    <string name="speech_status_disabled">Voce fuori campo</string>
+    <string name="speech_status_enabled">Voce su</string>
+    <string gender="unknown" name="spinbutton_description">Pulsante girevole</string>
+    <string name="stairs">Scala</string>
+    <string name="stairs_down_base_instruction">"Prendi le scale giù"</string>
+    <string name="stairs_down_landmark">Vicino %1$s</string>
+    <string name="stairs_down_transition_destination">Prendi le scale giù per %1$s</string>
+    <string name="stairs_up_base_instruction">"Prendi le scale su"</string>
+    <string name="stairs_up_pre_landmark">Vicino %1$s</string>
+    <string name="stairs_up_transition_destination">Prendi le scale fino a %1$s</string>
+    <string name="startLocation">Posizione di partenza</string>
+    <string name="start_at">Inizia da</string>
+    <string gender="unknown" name="state_busy_description">occupato</string>
+    <string gender="unknown" name="state_collapsed_description">chiuso</string>
+    <string gender="unknown" name="state_expanded_description">aperto</string>
+    <string gender="unknown" name="state_mixed_description">misto</string>
+    <string gender="unknown" name="state_off_description">no</string>
+    <string gender="unknown" name="state_on_description">sì</string>
+    <string gender="unknown" name="state_unselected_description">non selezionato</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="steps_back">&lt; Back</string>
+    <string name="steps_next">Next ></string>
+    <string name="stop">Fermarsi</string>
+    <string name="store_details">Dettagli</string>
+    <string name="string_comma_string">%1$s, %2$s</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string gender="unknown" name="summary_description">Riepilogo</string>
+    <string gender="unknown" name="tablist_description">Lista delle tab</string>
+    <string name="tag_name">Nome tag..</string>
+    <string name="tag_parked_car">Auto parcheggiata</string>
+    <string name="tag_routing_not_supported">Il routing dei tag non è supportato dalla tua posizione</string>
+    <string name="tag_status_disabled">Applicazione tag disabilitata</string>
+    <string name="tag_status_enabled">Tagging abilitato</string>
+    <string name="tag_title">Auto parcheggiata</string>
+    <string name="tags">Cartellino</string>
+    <string name="technical_issues">Oops! Sembra che stiamo riscontrando problemi tecnici. Riprova più tardi.</string>
+    <string name="telephone">Telefono</string>
+    <string name="tell_friend_title">Come vorresti condividere Mapsted Navigation?</string>
+    <string name="terms">Termini</string>
+    <string name="this_app">Questa app</string>
+    <string name="this_app_collects_location_data_to_">
+<![CDATA[ La tua posizione verrà utilizzata per abilitare le funzioni di posizionamento interno ed esterno che migliorano la tua esperienza di navigazione.nnQuesti dati vengono raccolti quando l\'app è in uso e quando viene chiusa.nnConsenti all\'app di utilizzare la tua posizione nella schermata successiva. ]]>
+</string>
+    <string name="to">to</string>
+    <string gender="unknown" name="toolbar_description">Barra degli strumenti</string>
+    <string name="turn_around_base_instruction">"Girati"</string>
+    <string name="turn_around_landmark">Girati vicino %1$s</string>
+    <string name="turn_left_base_instruction">"Svoltare a sinistra"</string>
+    <string name="turn_left_landmark">Svoltare a sinistra vicino%1$s</string>
+    <string name="turn_right_base_instruction">"Svoltare a destra"</string>
+    <string name="turn_right_landmark">Svoltare a destra vicino %1$s</string>
+    <string name="uninstall">disinstallazione</string>
+    <string name="unreliable">inattendibile</string>
+    <string name="up">su</string>
+    <string name="updating_location">Aggiornamento della posizione…</string>
+    <string name="use_latest_android_version_message">Per prestazioni ottimali utilizzare Android 10 o superiore.</string>
+    <string name="use_staging">USE_STAGING</string>
+    <string name="user_current_floor_question">A che piano ti trovi attualmente?</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ON"</string>
+    <string name="validating_licence">Convalida della licenza…</string>
+    <string name="validating_licence_complete">Convalida della licenza… \u2713</string>
+    <string name="view">Prospettiva</string>
+    <string name="view_alerts">Visualizza avvisi</string>
+    <string name="view_steps">Visualizza passaggi</string>
+    <string name="web_page">Pagina web</string>
+    <string name="website">Sito web</string>
+    <string name="working_hours">%1$s - %2$s</string>
+    <string name="working_hours_label">Ore lavorative</string>
+    <string name="yes">Sì</string>
+    <string name="your_location">La tua posizione</string>
+</resources>

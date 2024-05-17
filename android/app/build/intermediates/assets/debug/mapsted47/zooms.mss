@@ -1,0 +1,10 @@
+@text_fade_start: 18.5;
+@text_fade_mid: 19;
+@text_fade_end: 20;
+@text_fade_gone: 21;
+@text_zoom_start: 18;
+@text_zoom_mid: 19;
+@text_zoom_end: 21;
+@text_fill: rgba(255,255,255,1);
+@text_halo_fill: rgba(0,0,0,1);
+@text_halo_radius: 0.5;

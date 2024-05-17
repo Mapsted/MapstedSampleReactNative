@@ -1,0 +1,6 @@
+framework module Pods_dempMapstedSampleApp_dempMapstedSampleAppTests {
+  umbrella header "Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

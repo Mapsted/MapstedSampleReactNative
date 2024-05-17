@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "2G2-N6-cqu"; */
+"2G2-N6-cqu.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Please select what's nearby so that we can set your current location"; ObjectID = "8Z9-es-AvY"; */
+"8Z9-es-AvY.text" = "Please select what's nearby so that we can set your current location";
+
+/* Class = "UIButton"; normalTitle = "Set My Location Manually"; ObjectID = "Mz6-8H-4pk"; */
+"Mz6-8H-4pk.normalTitle" = "Set My Location Manually";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "bnE-6P-t5K"; */
+"bnE-6P-t5K.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Alerts"; ObjectID = "rBV-1S-lae"; */
+"rBV-1S-lae.text" = "Alerts";
