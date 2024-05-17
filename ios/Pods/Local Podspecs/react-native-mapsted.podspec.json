@@ -1,15 +1,15 @@
 {
   "name": "react-native-mapsted",
-  "version": "0.1.0",
-  "summary": "test",
-  "homepage": "https://github.com/jaydeepdiyora/react-native-mapsted#readme",
+  "version": "0.0.5",
+  "summary": "React native mapsted library.",
+  "homepage": "https://github.com/jdmapsted/react-native-mapsted#readme",
   "license": "MIT",
-  "authors": "jaydeepdiyora <jaydeepdiyora@gmail.com> (https://github.com/jaydeepdiyora)",
+  "authors": "Mapsted <apps@mapsted.com> (https://github.com/Mapsted)",
   "platforms": {
     "ios": "13.0"
   },
   "source": {
-    "git": "https://github.com/Mapsted/podspec-simulator.git"
+    "git": "https://github.com/jdmapsted/react-native-mapsted"
   },
   "source_files": "ios/*.{h,m,mm,swift,storyboard}",
   "dependencies": {

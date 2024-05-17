@@ -1,14 +1,14 @@
-#Fri May 10 16:57:37 IST 2024
-base.0=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeLibDexDebug/9/classes.dex
-base.2=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.3=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.4=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.5=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.6=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
-base.7=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
-base.8=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.9=/Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Fri May 17 18:35:30 IST 2024
+base.0=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeLibDexDebug/9/classes.dex
+base.2=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.3=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.4=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.5=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.6=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+base.7=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.8=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.9=/Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
 path.0=classes.dex
 path.1=9/classes.dex
 path.2=0/classes.dex

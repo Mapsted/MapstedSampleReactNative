@@ -1,4 +1,0 @@
-framework module MapstedGeofence {
-  header "MapstedGeofence-Swift.h"
-  requires objc
-}

@@ -1,4 +1,0 @@
-framework module MapstedMapUi {
-  header "MapstedMapUi-Swift.h"
-  requires objc
-}

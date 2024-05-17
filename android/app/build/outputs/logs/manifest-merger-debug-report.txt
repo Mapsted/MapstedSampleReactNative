@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:1:1-25:12
-MERGED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-mapsted] /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/node_modules/react-native-mapsted/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-mapsted] /Users/jd/Documents/ReactNative/MapstedSampleReactNative/node_modules/react-native-mapsted/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:2:1-36:12
 MERGED from [com.mapsted:sdk-map:5.4.28] /Users/jd/.gradle/caches/transforms-4/a6ea5097a9a7dc7045ec659ff606d5b3/transformed/jetified-sdk-map-5.4.28/AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.databinding:databinding-adapters:8.2.1] /Users/jd/.gradle/caches/transforms-4/3646adf4dae54f7da052c9cad32eafae/transformed/databinding-adapters-8.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.2.1] /Users/jd/.gradle/caches/transforms-4/a148d8d574ad695403585874ca2d6628/transformed/jetified-databinding-ktx-8.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.2.1] /Users/jd/.gradle/caches/transforms-4/b6ea1d457fb36f8d54bbaf552bb5d660/transformed/databinding-runtime-8.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:react-android:0.74.0] /Users/jd/.gradle/caches/transforms-4/813da8d64613d3a874726517fb776e54/transformed/jetified-react-android-0.74.0-debug/AndroidManifest.xml:2:1-24:12
-MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:2:1-38:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jd/.gradle/caches/transforms-4/bcd1aaab3390fd5a0905d07d3a934f98/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:2:1-38:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/jd/.gradle/caches/transforms-4/0d75cf49711e7c78852f91d75a26be78/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/jd/.gradle/caches/transforms-4/2e4b776dd6f268277de7011be6aebbac/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/jd/.gradle/caches/transforms-4/9c8095b18beb106bccf5e2b983659ebc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -36,9 +36,9 @@ MERGED from [androidx.fragment:fragment:1.4.1] /Users/jd/.gradle/caches/transfor
 MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/jd/.gradle/caches/transforms-4/4267bb29364a6ec24acd6d27bc8ce4d6/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.6.0] /Users/jd/.gradle/caches/transforms-4/4e230aba5cf9e5aa7d2eec57c5e49643/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jd/.gradle/caches/transforms-4/5af032da28a02865eddfedf1eb90962f/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jd/.gradle/caches/transforms-4/2bd6b785e548768f86ea0a03a87b6e6c/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/jd/.gradle/caches/transforms-4/fe478144583ae05749628d931e5d8094/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jd/.gradle/caches/transforms-4/7c6e89f538df18cab3980d79d1825087/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jd/.gradle/caches/transforms-4/2bd6b785e548768f86ea0a03a87b6e6c/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.palette:palette:1.0.0] /Users/jd/.gradle/caches/transforms-4/4290f89a1a6340f985b6a7517fd50db7/transformed/palette-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/jd/.gradle/caches/transforms-4/bbfdf0afda9d93af3b0a7990abbaae97/transformed/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.browser:browser:1.0.0] /Users/jd/.gradle/caches/transforms-4/24b8136f9c5ed7f32998bcfb6e3cdfc5/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -93,11 +93,11 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jd/.gradle/caches/tr
 MERGED from [androidx.tracing:tracing:1.1.0] /Users/jd/.gradle/caches/transforms-4/8931e4b41f433e31d93c9e923d149ad1/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/jd/.gradle/caches/transforms-4/c7f02110e9970d489937636b78068a94/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/jd/.gradle/caches/transforms-4/37d2cc8d5d52c9beed7065035ac61d9d/transformed/jetified-expandableTextView-0.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [com.jaredrummler:android-device-names:1.1.8] /Users/jd/.gradle/caches/transforms-4/3b79fecda06c4764428d8da7bd290d6a/transformed/jetified-android-device-names-1.1.8/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/jd/.gradle/caches/transforms-4/67af63c9bfd3ea95a5cd301e7b0e1bd8/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jd/.gradle/caches/transforms-4/1dfb6d27eccc636c47f9be3bad2b2936/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jd/.gradle/caches/transforms-4/f0eefe29ba2bd8f2b63e2d2a27468119/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jd/.gradle/caches/transforms-4/2d73db32a8de7ed3ac65950e78ca1eb6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jaredrummler:android-device-names:1.1.8] /Users/jd/.gradle/caches/transforms-4/3b79fecda06c4764428d8da7bd290d6a/transformed/jetified-android-device-names-1.1.8/AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/jd/.gradle/caches/transforms-4/9a2e945f1ea7d3a87cabdcdb8b93838c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/jd/.gradle/caches/transforms-4/18b7996c0322bfdf4813adc773721be4/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jd/.gradle/caches/transforms-4/b32fa2a0961b239751fb58134f8e560c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
@@ -113,28 +113,28 @@ MERGED from [com.jakewharton:process-phoenix:2.0.0] /Users/jd/.gradle/caches/tra
 MERGED from [com.mapsted:core-map:4.4.6] /Users/jd/.gradle/caches/transforms-4/de374edc33e78d237c5c086a5975153a/transformed/jetified-core-map-4.4.6/AndroidManifest.xml:2:1-15:12
 MERGED from [com.mapsted:core-positioning-cpp:4.7.16.1] /Users/jd/.gradle/caches/transforms-4/2cf8bcb58e743cf85a17b34498d027c0/transformed/jetified-core-positioning-cpp-4.7.16.1/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:3:5-67
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:3:5-67
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:8:5-67
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:8:5-67
 MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:17:5-67
 MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:17:5-67
 	android:name
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:3:22-64
 application
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:5:5-24:19
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:5:5-8:50
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:5:5-8:50
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:20:5-34:19
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:20:5-34:19
 MERGED from [com.mapsted:sdk-map:5.4.28] /Users/jd/.gradle/caches/transforms-4/a6ea5097a9a7dc7045ec659ff606d5b3/transformed/jetified-sdk-map-5.4.28/AndroidManifest.xml:7:5-20:19
@@ -186,63 +186,63 @@ MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/jd/.gradle/caches/tra
 MERGED from [com.jakewharton:process-phoenix:2.0.0] /Users/jd/.gradle/caches/transforms-4/10e0785ff9992520c4b7b5e765cab5d3/transformed/jetified-process-phoenix-2.0.0/AndroidManifest.xml:7:5-12:19
 MERGED from [com.jakewharton:process-phoenix:2.0.0] /Users/jd/.gradle/caches/transforms-4/10e0785ff9992520c4b7b5e765cab5d3/transformed/jetified-process-phoenix-2.0.0/AndroidManifest.xml:7:5-12:19
 	android:extractNativeLibs
-		INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/jd/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:7:7-39
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:7:7-39
 	tools:ignore
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:8:9-48
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:8:9-48
 	android:roundIcon
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:9:7-52
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:9:7-52
 	tools:targetApi
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:7:9-29
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:7:9-29
 	android:icon
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:8:7-41
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:8:7-41
 	android:allowBackup
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:10:7-34
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:10:7-34
 	android:theme
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:11:7-38
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:11:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml:6:9-44
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml:6:9-44
 	android:name
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:6:7-38
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:6:7-38
 activity#com.dempmapstedsampleapp.MainActivity
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:12:7-23:18
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:12:7-23:18
 	android:label
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:14:9-41
 	android:launchMode
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:16:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:exported
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:18:9-32
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:18:9-32
 	android:configChanges
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:15:9-118
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:15:9-118
 	android:name
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:13:9-37
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:13:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/main/AndroidManifest.xml:21:23-70
 uses-sdk
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
-MERGED from [:react-native-mapsted] /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/node_modules/react-native-mapsted/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-mapsted] /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/node_modules/react-native-mapsted/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
+MERGED from [:react-native-mapsted] /Users/jd/Documents/ReactNative/MapstedSampleReactNative/node_modules/react-native-mapsted/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-mapsted] /Users/jd/Documents/ReactNative/MapstedSampleReactNative/node_modules/react-native-mapsted/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:5:5-44
 MERGED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:5:5-44
 MERGED from [com.mapsted:sdk-map:5.4.28] /Users/jd/.gradle/caches/transforms-4/a6ea5097a9a7dc7045ec659ff606d5b3/transformed/jetified-sdk-map-5.4.28/AndroidManifest.xml:5:5-44
@@ -255,10 +255,10 @@ MERGED from [androidx.databinding:databinding-runtime:8.2.1] /Users/jd/.gradle/c
 MERGED from [androidx.databinding:databinding-runtime:8.2.1] /Users/jd/.gradle/caches/transforms-4/b6ea1d457fb36f8d54bbaf552bb5d660/transformed/databinding-runtime-8.2.1/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.74.0] /Users/jd/.gradle/caches/transforms-4/813da8d64613d3a874726517fb776e54/transformed/jetified-react-android-0.74.0-debug/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.74.0] /Users/jd/.gradle/caches/transforms-4/813da8d64613d3a874726517fb776e54/transformed/jetified-react-android-0.74.0-debug/AndroidManifest.xml:10:5-44
-MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:6:5-44
-MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:6:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jd/.gradle/caches/transforms-4/bcd1aaab3390fd5a0905d07d3a934f98/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jd/.gradle/caches/transforms-4/bcd1aaab3390fd5a0905d07d3a934f98/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:6:5-44
+MERGED from [com.mapsted:sdk-core:5.4.28] /Users/jd/.gradle/caches/transforms-4/46bb03e2a331559e3beddb2a534381f1/transformed/jetified-sdk-core-5.4.28/AndroidManifest.xml:6:5-44
 MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/jd/.gradle/caches/transforms-4/0d75cf49711e7c78852f91d75a26be78/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/jd/.gradle/caches/transforms-4/0d75cf49711e7c78852f91d75a26be78/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.4.0] /Users/jd/.gradle/caches/transforms-4/2e4b776dd6f268277de7011be6aebbac/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
@@ -303,12 +303,12 @@ MERGED from [androidx.activity:activity:1.6.0] /Users/jd/.gradle/caches/transfor
 MERGED from [androidx.activity:activity:1.6.0] /Users/jd/.gradle/caches/transforms-4/4e230aba5cf9e5aa7d2eec57c5e49643/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jd/.gradle/caches/transforms-4/5af032da28a02865eddfedf1eb90962f/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jd/.gradle/caches/transforms-4/5af032da28a02865eddfedf1eb90962f/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jd/.gradle/caches/transforms-4/2bd6b785e548768f86ea0a03a87b6e6c/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jd/.gradle/caches/transforms-4/2bd6b785e548768f86ea0a03a87b6e6c/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/jd/.gradle/caches/transforms-4/fe478144583ae05749628d931e5d8094/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/jd/.gradle/caches/transforms-4/fe478144583ae05749628d931e5d8094/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jd/.gradle/caches/transforms-4/7c6e89f538df18cab3980d79d1825087/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jd/.gradle/caches/transforms-4/7c6e89f538df18cab3980d79d1825087/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jd/.gradle/caches/transforms-4/2bd6b785e548768f86ea0a03a87b6e6c/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jd/.gradle/caches/transforms-4/2bd6b785e548768f86ea0a03a87b6e6c/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.palette:palette:1.0.0] /Users/jd/.gradle/caches/transforms-4/4290f89a1a6340f985b6a7517fd50db7/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.palette:palette:1.0.0] /Users/jd/.gradle/caches/transforms-4/4290f89a1a6340f985b6a7517fd50db7/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/jd/.gradle/caches/transforms-4/bbfdf0afda9d93af3b0a7990abbaae97/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -417,8 +417,6 @@ MERGED from [androidx.cardview:cardview:1.0.0] /Users/jd/.gradle/caches/transfor
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/jd/.gradle/caches/transforms-4/c7f02110e9970d489937636b78068a94/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/jd/.gradle/caches/transforms-4/37d2cc8d5d52c9beed7065035ac61d9d/transformed/jetified-expandableTextView-0.1.4/AndroidManifest.xml:5:5-7:41
 MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/jd/.gradle/caches/transforms-4/37d2cc8d5d52c9beed7065035ac61d9d/transformed/jetified-expandableTextView-0.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.jaredrummler:android-device-names:1.1.8] /Users/jd/.gradle/caches/transforms-4/3b79fecda06c4764428d8da7bd290d6a/transformed/jetified-android-device-names-1.1.8/AndroidManifest.xml:5:5-7:41
-MERGED from [com.jaredrummler:android-device-names:1.1.8] /Users/jd/.gradle/caches/transforms-4/3b79fecda06c4764428d8da7bd290d6a/transformed/jetified-android-device-names-1.1.8/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/jd/.gradle/caches/transforms-4/67af63c9bfd3ea95a5cd301e7b0e1bd8/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/jd/.gradle/caches/transforms-4/67af63c9bfd3ea95a5cd301e7b0e1bd8/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jd/.gradle/caches/transforms-4/1dfb6d27eccc636c47f9be3bad2b2936/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
@@ -427,6 +425,8 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jd/.gradle/cache
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jd/.gradle/caches/transforms-4/f0eefe29ba2bd8f2b63e2d2a27468119/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jd/.gradle/caches/transforms-4/2d73db32a8de7ed3ac65950e78ca1eb6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jd/.gradle/caches/transforms-4/2d73db32a8de7ed3ac65950e78ca1eb6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jaredrummler:android-device-names:1.1.8] /Users/jd/.gradle/caches/transforms-4/3b79fecda06c4764428d8da7bd290d6a/transformed/jetified-android-device-names-1.1.8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jaredrummler:android-device-names:1.1.8] /Users/jd/.gradle/caches/transforms-4/3b79fecda06c4764428d8da7bd290d6a/transformed/jetified-android-device-names-1.1.8/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/jd/.gradle/caches/transforms-4/9a2e945f1ea7d3a87cabdcdb8b93838c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/jd/.gradle/caches/transforms-4/9a2e945f1ea7d3a87cabdcdb8b93838c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/jd/.gradle/caches/transforms-4/18b7996c0322bfdf4813adc773721be4/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
@@ -456,9 +456,9 @@ MERGED from [com.mapsted:core-map:4.4.6] /Users/jd/.gradle/caches/transforms-4/d
 MERGED from [com.mapsted:core-positioning-cpp:4.7.16.1] /Users/jd/.gradle/caches/transforms-4/2cf8bcb58e743cf85a17b34498d027c0/transformed/jetified-core-positioning-cpp-4.7.16.1/AndroidManifest.xml:5:5-44
 MERGED from [com.mapsted:core-positioning-cpp:4.7.16.1] /Users/jd/.gradle/caches/transforms-4/2cf8bcb58e743cf85a17b34498d027c0/transformed/jetified-core-positioning-cpp-4.7.16.1/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/jd/Documents/ReactNative/React-Native-Mapsted-SampleApp-CA/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jd/Documents/ReactNative/MapstedSampleReactNative/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.VIBRATE
 ADDED from [com.mapsted:sdk-map-ui:5.4.28] /Users/jd/.gradle/caches/transforms-4/f8d0758aaa5c2af7b21afbe36b5d3b42/transformed/jetified-sdk-map-ui-5.4.28/AndroidManifest.xml:7:5-66
 	android:name

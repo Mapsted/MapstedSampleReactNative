@@ -102,24 +102,11 @@ android {
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
         }
     }
-    buildFeatures {
-        dataBinding true
-    }
-
-    packagingOptions {
-        resources.excludes.add("META-INF/gradle/*")
-        resources.excludes.add("META-INF/*")
-    }
 }
 
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    def mapstedSdkVersion = '5.4.28'
-    implementation "com.mapsted:sdk-map-ui:${mapstedSdkVersion}"
-    implementation "com.mapsted:sdk-map:${mapstedSdkVersion}"
-    implementation "com.mapsted:sdk-core:${mapstedSdkVersion}"
 
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
@@ -129,3 +116,5 @@ dependencies {
 }
 
 apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
+
+apply from: '../../node_modules/react-native-mapsted/android/app-build-extra.gradle';

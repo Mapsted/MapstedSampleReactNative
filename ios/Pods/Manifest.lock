@@ -953,7 +953,7 @@ PODS:
   - React-Mapbuffer (0.74.0):
     - glog
     - React-debug
-  - react-native-mapsted (0.1.0):
+  - react-native-mapsted (0.0.5):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1269,7 +1269,7 @@ DEPENDENCIES:
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
-  https://github.com/Mapsted/podspec.git:
+  https://github.com/Mapsted/podspec-simulator.git:
     - mapsted-sdk-alerts
     - mapsted-sdk-core
     - mapsted-sdk-core-map
@@ -1402,14 +1402,14 @@ SPEC CHECKSUMS:
   fmt: 4c2741a687cc09f0634a2e2c72a838b99f1ff120
   glog: c5d68082e772fa1c511173d6b30a9de2c05a69a2
   hermes-engine: 6eae7edb2f563ee41d7c1f91f4f2e57c26d8a5c3
-  mapsted-sdk-alerts: 2103d522321b9393731ebd5e62bb0626c1ad3966
-  mapsted-sdk-core: 253ca6a77509c282f091344636acc2be5e9f3e33
-  mapsted-sdk-core-map: f9f54c75dc87cc515e05df239242804da3625239
-  mapsted-sdk-geofence: 019eda81114a2fc50375a44cdbcb76a03657bcc6
-  mapsted-sdk-loc-marketing: 68ff399d7f1804498c772e0a518d97dd06935e5d
-  mapsted-sdk-map: 117faf78652fc8141bf44211313b03a298c41d36
-  mapsted-sdk-map-ui: a848c8a67da55cc4fd9b1a8e2883df86c2764f44
-  mapsted-sdk-triggers-core: bf41b56eb972ca26ce82fc2d10c68873f06c5b21
+  mapsted-sdk-alerts: 5df52944810c4342dba5581501154f074d4ca99f
+  mapsted-sdk-core: 7cc36ee6ce4767bdb0ef3c2f2a99df7afa1f18cb
+  mapsted-sdk-core-map: 3b1a6cc029381236023ed8e35268206ee9559b1f
+  mapsted-sdk-geofence: b6aa16f4f1e0175867ddf7983d1805f82787ec53
+  mapsted-sdk-loc-marketing: dad7a65c54d34720509ac6be0cc41815537e9637
+  mapsted-sdk-map: 467dc8ba9b0d45751638d8058c0d71e801bf7420
+  mapsted-sdk-map-ui: 7141b0d4db8f1d0d92f0d5dca00f4cf950b5eea2
+  mapsted-sdk-triggers-core: d5afea451e02b330720b3a07f6d81bc631c0d43b
   RCT-Folly: 045d6ecaa59d826c5736dfba0b2f4083ff8d79df
   RCTDeprecation: 3ca8b6c36bfb302e1895b72cfe7db0de0c92cd47
   RCTRequired: 9fc183af555fd0c89a366c34c1ae70b7e03b1dc5
@@ -1434,7 +1434,7 @@ SPEC CHECKSUMS:
   React-jsitracing: 72dce571a387f9d085482142837222c31a8d6c3a
   React-logger: 03f2f7b955cfe24593a2b8c9705c23e142d1ad24
   React-Mapbuffer: 1ab3316cb736411bc641311b4b71e75099ae56ad
-  react-native-mapsted: 3bec11318b3c11b01f8bc2395c8c16f19aedc830
+  react-native-mapsted: 5ac37fbdaf9d642f6d77c9715b1cc5e612b9e1b9
   React-nativeconfig: fef0a46effa630d72f137636a990d7df2f6a5f7c
   React-NativeModulesApple: 8257dd73991f2e410b9c9d12801691439a0dc821
   React-perflogger: 271f1111779fef70f9502d1d38da5132e5585230
@@ -1462,6 +1462,6 @@ SPEC CHECKSUMS:
   SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
   Yoga: d97d4830fe26d7abad29a92f2b11012d2e1f58d1
 
-PODFILE CHECKSUM: f7cab1711afd4903a33957180c743ffd049b9d39
+PODFILE CHECKSUM: 15f12779b1ba76e1dc6144b0e4716b70a1ab1446
 
 COCOAPODS: 1.15.2

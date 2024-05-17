@@ -17,11 +17,7 @@ buildscript {
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
     }
 }
-allprojects {
-    repositories {
-        maven { url 'https://jitpack.io' }
-        maven { url "https://mobilesdk.mapsted.com:8443/artifactory/gradle-mapsted" }
-    }
-}
 
 apply plugin: "com.facebook.react.rootproject"
+
+apply from: '../node_modules/react-native-mapsted/android/build-extra.gradle';

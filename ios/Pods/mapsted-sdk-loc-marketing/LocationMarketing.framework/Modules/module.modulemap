@@ -1,4 +1,0 @@
-framework module LocationMarketing {
-  header "LocationMarketing-Swift.h"
-  requires objc
-}
