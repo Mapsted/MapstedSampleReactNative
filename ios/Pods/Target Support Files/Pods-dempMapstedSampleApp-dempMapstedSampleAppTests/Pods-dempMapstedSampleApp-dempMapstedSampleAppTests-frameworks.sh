@@ -222,6 +222,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Yoga/yoga.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/fmt/fmt.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/glog/glog.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/mapsted-react-native/mapsted_react_native.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-alerts/MapstedAlerts.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-core/MapstedCore.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-geofence/MapstedGeofence.framework"
@@ -231,7 +232,6 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsCore.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsUI.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-triggers-core/MapstedTriggersCore.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/react-native-mapsted/react_native_mapsted.framework"
   install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
@@ -281,6 +281,7 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Yoga/yoga.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/fmt/fmt.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/glog/glog.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/mapsted-react-native/mapsted_react_native.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-alerts/MapstedAlerts.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-core/MapstedCore.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-geofence/MapstedGeofence.framework"
@@ -290,7 +291,6 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsCore.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsUI.framework"
   install_framework "${PODS_ROOT}/mapsted-sdk-triggers-core/MapstedTriggersCore.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/react-native-mapsted/react_native_mapsted.framework"
   install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then

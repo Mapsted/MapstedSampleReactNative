@@ -7,6 +7,30 @@ PODS:
   - hermes-engine (0.74.0):
     - hermes-engine/Pre-built (= 0.74.0)
   - hermes-engine/Pre-built (0.74.0)
+  - mapsted-react-native (0.0.6):
+    - DoubleConversion
+    - glog
+    - hermes-engine
+    - mapsted-sdk-geofence (~> 5.0)
+    - mapsted-sdk-map (~> 5.0)
+    - mapsted-sdk-map-ui (~> 5.0)
+    - RCT-Folly (= 2024.01.01.00)
+    - RCTRequired
+    - RCTTypeSafety
+    - React-Codegen
+    - React-Core
+    - React-debug
+    - React-Fabric
+    - React-featureflags
+    - React-graphics
+    - React-ImageManager
+    - React-NativeModulesApple
+    - React-RCTFabric
+    - React-rendererdebug
+    - React-utils
+    - ReactCommon/turbomodule/bridging
+    - ReactCommon/turbomodule/core
+    - Yoga
   - mapsted-sdk-alerts (5.3.17):
     - mapsted-sdk-triggers-core (= 5.3.17)
   - mapsted-sdk-core (5.3.17):
@@ -953,30 +977,6 @@ PODS:
   - React-Mapbuffer (0.74.0):
     - glog
     - React-debug
-  - react-native-mapsted (0.0.5):
-    - DoubleConversion
-    - glog
-    - hermes-engine
-    - mapsted-sdk-geofence (~> 5.0)
-    - mapsted-sdk-map (~> 5.0)
-    - mapsted-sdk-map-ui (~> 5.0)
-    - RCT-Folly (= 2024.01.01.00)
-    - RCTRequired
-    - RCTTypeSafety
-    - React-Codegen
-    - React-Core
-    - React-debug
-    - React-Fabric
-    - React-featureflags
-    - React-graphics
-    - React-ImageManager
-    - React-NativeModulesApple
-    - React-RCTFabric
-    - React-rendererdebug
-    - React-utils
-    - ReactCommon/turbomodule/bridging
-    - ReactCommon/turbomodule/core
-    - Yoga
   - React-nativeconfig (0.74.0)
   - React-NativeModulesApple (0.74.0):
     - glog
@@ -1216,6 +1216,7 @@ DEPENDENCIES:
   - fmt (from `../node_modules/react-native/third-party-podspecs/fmt.podspec`)
   - glog (from `../node_modules/react-native/third-party-podspecs/glog.podspec`)
   - hermes-engine (from `../node_modules/react-native/sdks/hermes-engine/hermes-engine.podspec`)
+  - mapsted-react-native (from `../node_modules/mapsted-react-native`)
   - RCT-Folly (from `../node_modules/react-native/third-party-podspecs/RCT-Folly.podspec`)
   - RCT-Folly/Fabric (from `../node_modules/react-native/third-party-podspecs/RCT-Folly.podspec`)
   - RCTDeprecation (from `../node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation`)
@@ -1242,7 +1243,6 @@ DEPENDENCIES:
   - React-jsitracing (from `../node_modules/react-native/ReactCommon/hermes/executor/`)
   - React-logger (from `../node_modules/react-native/ReactCommon/logger`)
   - React-Mapbuffer (from `../node_modules/react-native/ReactCommon`)
-  - react-native-mapsted (from `../node_modules/react-native-mapsted`)
   - React-nativeconfig (from `../node_modules/react-native/ReactCommon`)
   - React-NativeModulesApple (from `../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios`)
   - React-perflogger (from `../node_modules/react-native/ReactCommon/reactperflogger`)
@@ -1296,6 +1296,8 @@ EXTERNAL SOURCES:
   hermes-engine:
     :podspec: "../node_modules/react-native/sdks/hermes-engine/hermes-engine.podspec"
     :tag: hermes-2024-02-20-RNv0.74.0-999cfd9979b5f57b1269119679ab8cdf60897de9
+  mapsted-react-native:
+    :path: "../node_modules/mapsted-react-native"
   RCT-Folly:
     :podspec: "../node_modules/react-native/third-party-podspecs/RCT-Folly.podspec"
   RCTDeprecation:
@@ -1344,8 +1346,6 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/logger"
   React-Mapbuffer:
     :path: "../node_modules/react-native/ReactCommon"
-  react-native-mapsted:
-    :path: "../node_modules/react-native-mapsted"
   React-nativeconfig:
     :path: "../node_modules/react-native/ReactCommon"
   React-NativeModulesApple:
@@ -1402,6 +1402,7 @@ SPEC CHECKSUMS:
   fmt: 4c2741a687cc09f0634a2e2c72a838b99f1ff120
   glog: c5d68082e772fa1c511173d6b30a9de2c05a69a2
   hermes-engine: 6eae7edb2f563ee41d7c1f91f4f2e57c26d8a5c3
+  mapsted-react-native: 43812b21a31996f4c5d0698869a51a439084a546
   mapsted-sdk-alerts: 5df52944810c4342dba5581501154f074d4ca99f
   mapsted-sdk-core: 7cc36ee6ce4767bdb0ef3c2f2a99df7afa1f18cb
   mapsted-sdk-core-map: 3b1a6cc029381236023ed8e35268206ee9559b1f
@@ -1434,7 +1435,6 @@ SPEC CHECKSUMS:
   React-jsitracing: 72dce571a387f9d085482142837222c31a8d6c3a
   React-logger: 03f2f7b955cfe24593a2b8c9705c23e142d1ad24
   React-Mapbuffer: 1ab3316cb736411bc641311b4b71e75099ae56ad
-  react-native-mapsted: 5ac37fbdaf9d642f6d77c9715b1cc5e612b9e1b9
   React-nativeconfig: fef0a46effa630d72f137636a990d7df2f6a5f7c
   React-NativeModulesApple: 8257dd73991f2e410b9c9d12801691439a0dc821
   React-perflogger: 271f1111779fef70f9502d1d38da5132e5585230

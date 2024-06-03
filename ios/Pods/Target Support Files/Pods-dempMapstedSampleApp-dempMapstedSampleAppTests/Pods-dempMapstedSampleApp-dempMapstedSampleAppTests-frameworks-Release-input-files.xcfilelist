@@ -45,6 +45,7 @@ ${BUILT_PRODUCTS_DIR}/SocketRocket/SocketRocket.framework
 ${BUILT_PRODUCTS_DIR}/Yoga/yoga.framework
 ${BUILT_PRODUCTS_DIR}/fmt/fmt.framework
 ${BUILT_PRODUCTS_DIR}/glog/glog.framework
+${BUILT_PRODUCTS_DIR}/mapsted-react-native/mapsted_react_native.framework
 ${PODS_ROOT}/mapsted-sdk-alerts/MapstedAlerts.framework
 ${PODS_ROOT}/mapsted-sdk-core/MapstedCore.framework
 ${PODS_ROOT}/mapsted-sdk-geofence/MapstedGeofence.framework
@@ -54,5 +55,4 @@ ${PODS_ROOT}/mapsted-sdk-map-ui/MapstedMapUi.framework
 ${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsCore.framework
 ${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsUI.framework
 ${PODS_ROOT}/mapsted-sdk-triggers-core/MapstedTriggersCore.framework
-${BUILT_PRODUCTS_DIR}/react-native-mapsted/react_native_mapsted.framework
 ${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework/hermes

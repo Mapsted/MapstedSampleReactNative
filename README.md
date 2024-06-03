@@ -5,7 +5,7 @@
 
 ### Step 2
 ```sh
-e.g npm install react-native-mapsted
+e.g npm install mapsted-react-native
 ```
 
 ## prerequisites

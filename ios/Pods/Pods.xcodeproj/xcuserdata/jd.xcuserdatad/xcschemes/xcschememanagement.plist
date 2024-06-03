@@ -299,6 +299,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>mapsted-react-native.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>mapsted-sdk-alerts.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -335,11 +340,6 @@
 			<false/>
 		</dict>
 		<key>mapsted-sdk-triggers-core.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>react-native-mapsted.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

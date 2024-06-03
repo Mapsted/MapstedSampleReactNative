@@ -5,13 +5,13 @@
  * @format
  */
 
+import { launchMapActivity } from 'mapsted-react-native';
 import React from 'react';
 import {
   Button,
   SafeAreaView,
   useColorScheme,
 } from 'react-native';
-import { launchMapActivity } from 'react-native-mapsted';
 
 import {
   Colors,

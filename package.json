@@ -10,9 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "mapsted-react-native": "^0.0.6",
     "react": "18.2.0",
-    "react-native": "0.74.0",
-    "react-native-mapsted": "^0.0.5"
+    "react-native": "0.74.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

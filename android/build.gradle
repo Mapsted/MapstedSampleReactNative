@@ -20,4 +20,4 @@ buildscript {
 
 apply plugin: "com.facebook.react.rootproject"
 
-apply from: '../node_modules/react-native-mapsted/android/build-extra.gradle';
+apply from: '../node_modules/mapsted-react-native/android/build-extra.gradle';

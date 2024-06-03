@@ -19,11 +19,11 @@
 		};
 		196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E000179B0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-loc-marketing" */;
+			buildConfigurationList = 46EB2E00017B50 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-loc-marketing" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BD00 /* PBXTargetDependency */,
+				46EB2E0001BFC0 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-loc-marketing";
 		};
@@ -57,11 +57,11 @@
 		};
 		31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E00017940 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-geofence" */;
+			buildConfigurationList = 46EB2E00017AE0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-geofence" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BCE0 /* PBXTargetDependency */,
+				46EB2E0001BFA0 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-geofence";
 		};
@@ -87,11 +87,11 @@
 		};
 		76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E00017B00 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-triggers-core" */;
+			buildConfigurationList = 46EB2E00017CA0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-triggers-core" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BDC0 /* PBXTargetDependency */,
+				46EB2E0001C080 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-triggers-core";
 		};
@@ -126,7 +126,7 @@
 		};
 		B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E000178C0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core-map" */;
+			buildConfigurationList = 46EB2E00017A60 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core-map" */;
 			buildPhases = (
 				46EB2E00018130 /* [CP] Copy XCFrameworks */,
 			);
@@ -136,44 +136,44 @@
 		};
 		C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E00017850 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core" */;
+			buildConfigurationList = 46EB2E000179F0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BCC0 /* PBXTargetDependency */,
+				46EB2E0001BF80 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-core";
 		};
 		C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E00017A20 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map" */;
+			buildConfigurationList = 46EB2E00017BC0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BD20 /* PBXTargetDependency */,
-				46EB2E0001BD40 /* PBXTargetDependency */,
+				46EB2E0001BFE0 /* PBXTargetDependency */,
+				46EB2E0001C000 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-map";
 		};
 		DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E00017A90 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map-ui" */;
+			buildConfigurationList = 46EB2E00017C30 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map-ui" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BDA0 /* PBXTargetDependency */,
-				46EB2E0001BD80 /* PBXTargetDependency */,
-				46EB2E0001BD60 /* PBXTargetDependency */,
+				46EB2E0001C060 /* PBXTargetDependency */,
+				46EB2E0001C040 /* PBXTargetDependency */,
+				46EB2E0001C020 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-map-ui";
 		};
 		E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 46EB2E000177E0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-alerts" */;
+			buildConfigurationList = 46EB2E00017980 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-alerts" */;
 			buildPhases = (
 			);
 			dependencies = (
-				46EB2E0001BCA0 /* PBXTargetDependency */,
+				46EB2E0001BF60 /* PBXTargetDependency */,
 			);
 			name = "mapsted-sdk-alerts";
 		};
@@ -2944,15 +2944,15 @@
 		46EB2E000176A0 /* vlog_is_on.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00007C40 /* vlog_is_on.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		46EB2E00017700 /* glog-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000176F0 /* glog-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		46EB2E00017740 /* glog-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00017730 /* glog-dummy.m */; };
-		46EB2E00017BF0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46EB2E00009110 /* Foundation.framework */; };
-		46EB2E00017C00 /* Mapsted.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00008640 /* Mapsted.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
-		46EB2E00017C10 /* Mapsted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00008650 /* Mapsted.swift */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
-		46EB2E00017C20 /* RNMapsted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00008670 /* RNMapsted.swift */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
-		46EB2E00017C30 /* RNMapstedPropListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00008680 /* RNMapstedPropListViewController.swift */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
-		46EB2E00017C40 /* Mapsted-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00008630 /* Mapsted-Bridging-Header.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		46EB2E00017C50 /* RNMapsted.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00008660 /* RNMapsted.storyboard */; };
-		46EB2E00017CB0 /* react-native-mapsted-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00017CA0 /* react-native-mapsted-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		46EB2E00017CF0 /* react-native-mapsted-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00017CE0 /* react-native-mapsted-dummy.m */; };
+		46EB2E00017860 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46EB2E00009110 /* Foundation.framework */; };
+		46EB2E00017870 /* Mapsted.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00007EC0 /* Mapsted.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
+		46EB2E00017880 /* Mapsted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00007ED0 /* Mapsted.swift */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
+		46EB2E00017890 /* RNMapsted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00007EF0 /* RNMapsted.swift */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
+		46EB2E000178A0 /* RNMapstedPropListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00007F00 /* RNMapstedPropListViewController.swift */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32"; }; };
+		46EB2E000178B0 /* Mapsted-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00007EB0 /* Mapsted-Bridging-Header.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		46EB2E000178C0 /* RNMapsted.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00007EE0 /* RNMapsted.storyboard */; };
+		46EB2E00017920 /* mapsted-react-native-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00017910 /* mapsted-react-native-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		46EB2E00017960 /* mapsted-react-native-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00017950 /* mapsted-react-native-dummy.m */; };
 		46EB2E00017D10 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46EB2E00017D00 /* JavaScriptCore.framework */; };
 		46EB2E00017D30 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46EB2E00017D20 /* UIKit.framework */; };
 		46EB2E00017D40 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46EB2E00017D00 /* JavaScriptCore.framework */; };
@@ -3371,64 +3371,64 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
+			remoteGlobalIDString = F34ADC04798B3B03A65A2F3F34073A95;
+			remoteInfo = "mapsted-react-native";
+		};
+		46EB2E00018860 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
 			remoteGlobalIDString = E391D835E288CCD8BA9A80A5DFE36B27;
 			remoteInfo = "mapsted-sdk-alerts";
 		};
-		46EB2E00018860 /* PBXContainerItemProxy */ = {
+		46EB2E00018880 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
 			remoteInfo = "mapsted-sdk-core";
 		};
-		46EB2E00018880 /* PBXContainerItemProxy */ = {
+		46EB2E000188A0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = B46A2D29CA505C1899DC8CBDC43252F2;
 			remoteInfo = "mapsted-sdk-core-map";
 		};
-		46EB2E000188A0 /* PBXContainerItemProxy */ = {
+		46EB2E000188C0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 31DA44CDC1AB4E8E942DE570A4FF1FB9;
 			remoteInfo = "mapsted-sdk-geofence";
 		};
-		46EB2E000188C0 /* PBXContainerItemProxy */ = {
+		46EB2E000188E0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 196DFFB3FF731ACE255613D0B055697A;
 			remoteInfo = "mapsted-sdk-loc-marketing";
 		};
-		46EB2E000188E0 /* PBXContainerItemProxy */ = {
+		46EB2E00018900 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C7F14637E97F15906E39B4645085EED9;
 			remoteInfo = "mapsted-sdk-map";
 		};
-		46EB2E00018900 /* PBXContainerItemProxy */ = {
+		46EB2E00018920 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DB6C213AC26180EA323C06434FD37C8C;
 			remoteInfo = "mapsted-sdk-map-ui";
 		};
-		46EB2E00018920 /* PBXContainerItemProxy */ = {
+		46EB2E00018940 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9;
 			remoteInfo = "mapsted-sdk-triggers-core";
-		};
-		46EB2E00018940 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A695075D689E6EB598DF7FB13AE1F44E;
-			remoteInfo = "react-native-mapsted";
 		};
 		46EB2E00018960 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -3826,64 +3826,64 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
+			remoteGlobalIDString = F34ADC04798B3B03A65A2F3F34073A95;
+			remoteInfo = "mapsted-react-native";
+		};
+		46EB2E00019080 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
 			remoteGlobalIDString = E391D835E288CCD8BA9A80A5DFE36B27;
 			remoteInfo = "mapsted-sdk-alerts";
 		};
-		46EB2E00019080 /* PBXContainerItemProxy */ = {
+		46EB2E000190A0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
 			remoteInfo = "mapsted-sdk-core";
 		};
-		46EB2E000190A0 /* PBXContainerItemProxy */ = {
+		46EB2E000190C0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = B46A2D29CA505C1899DC8CBDC43252F2;
 			remoteInfo = "mapsted-sdk-core-map";
 		};
-		46EB2E000190C0 /* PBXContainerItemProxy */ = {
+		46EB2E000190E0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 31DA44CDC1AB4E8E942DE570A4FF1FB9;
 			remoteInfo = "mapsted-sdk-geofence";
 		};
-		46EB2E000190E0 /* PBXContainerItemProxy */ = {
+		46EB2E00019100 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 196DFFB3FF731ACE255613D0B055697A;
 			remoteInfo = "mapsted-sdk-loc-marketing";
 		};
-		46EB2E00019100 /* PBXContainerItemProxy */ = {
+		46EB2E00019120 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C7F14637E97F15906E39B4645085EED9;
 			remoteInfo = "mapsted-sdk-map";
 		};
-		46EB2E00019120 /* PBXContainerItemProxy */ = {
+		46EB2E00019140 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DB6C213AC26180EA323C06434FD37C8C;
 			remoteInfo = "mapsted-sdk-map-ui";
 		};
-		46EB2E00019140 /* PBXContainerItemProxy */ = {
+		46EB2E00019160 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9;
 			remoteInfo = "mapsted-sdk-triggers-core";
-		};
-		46EB2E00019160 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A695075D689E6EB598DF7FB13AE1F44E;
-			remoteInfo = "react-native-mapsted";
 		};
 		46EB2E00019180 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -6297,225 +6297,225 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9;
-			remoteInfo = "mapsted-sdk-triggers-core";
+			remoteGlobalIDString = C7F14637E97F15906E39B4645085EED9;
+			remoteInfo = "mapsted-sdk-map";
 		};
 		46EB2E0001BCB0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
-			remoteInfo = SSZipArchive;
-		};
-		46EB2E0001BCD0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
-			remoteInfo = "mapsted-sdk-core";
-		};
-		46EB2E0001BCF0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
-			remoteInfo = "mapsted-sdk-core";
-		};
-		46EB2E0001BD10 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
-			remoteInfo = "mapsted-sdk-core";
-		};
-		46EB2E0001BD30 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B46A2D29CA505C1899DC8CBDC43252F2;
-			remoteInfo = "mapsted-sdk-core-map";
-		};
-		46EB2E0001BD50 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C7F14637E97F15906E39B4645085EED9;
-			remoteInfo = "mapsted-sdk-map";
-		};
-		46EB2E0001BD70 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 196DFFB3FF731ACE255613D0B055697A;
-			remoteInfo = "mapsted-sdk-loc-marketing";
-		};
-		46EB2E0001BD90 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E391D835E288CCD8BA9A80A5DFE36B27;
-			remoteInfo = "mapsted-sdk-alerts";
-		};
-		46EB2E0001BDB0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
-			remoteInfo = "mapsted-sdk-core";
-		};
-		46EB2E0001BDD0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 46EB2E00000000 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C7F14637E97F15906E39B4645085EED9;
-			remoteInfo = "mapsted-sdk-map";
-		};
-		46EB2E0001BDF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DB6C213AC26180EA323C06434FD37C8C;
 			remoteInfo = "mapsted-sdk-map-ui";
 		};
-		46EB2E0001BE10 /* PBXContainerItemProxy */ = {
+		46EB2E0001BCD0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 31DA44CDC1AB4E8E942DE570A4FF1FB9;
 			remoteInfo = "mapsted-sdk-geofence";
 		};
-		46EB2E0001BE30 /* PBXContainerItemProxy */ = {
+		46EB2E0001BCF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7ACAA9BE580DD31A5CB9D97C45D9492D;
 			remoteInfo = "React-Core";
 		};
-		46EB2E0001BE50 /* PBXContainerItemProxy */ = {
+		46EB2E0001BD10 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = EC55D52694092A9D0E6A78EB01207EB5;
 			remoteInfo = "RCT-Folly";
 		};
-		46EB2E0001BE70 /* PBXContainerItemProxy */ = {
+		46EB2E0001BD30 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = D0EFEFB685D97280256C559792236873;
 			remoteInfo = glog;
 		};
-		46EB2E0001BE90 /* PBXContainerItemProxy */ = {
+		46EB2E0001BD50 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8DED5282246ABFC24F4460D3066C84A0;
 			remoteInfo = "React-RCTFabric";
 		};
-		46EB2E0001BEB0 /* PBXContainerItemProxy */ = {
+		46EB2E0001BD70 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 66B8F5758E6F90E16807A85C003CE61F;
 			remoteInfo = "React-Codegen";
 		};
-		46EB2E0001BED0 /* PBXContainerItemProxy */ = {
+		46EB2E0001BD90 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = E7E7CE52C8C68B17224FF8C262D80ABF;
 			remoteInfo = RCTRequired;
 		};
-		46EB2E0001BEF0 /* PBXContainerItemProxy */ = {
+		46EB2E0001BDB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = D20469A9A1E5CFB26045EAEBE3F88E5E;
 			remoteInfo = RCTTypeSafety;
 		};
-		46EB2E0001BF10 /* PBXContainerItemProxy */ = {
+		46EB2E0001BDD0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = B6D5DD49633DFF0657B8C3F08EB3ABA9;
 			remoteInfo = ReactCommon;
 		};
-		46EB2E0001BF30 /* PBXContainerItemProxy */ = {
+		46EB2E0001BDF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5807741745EB757C97C09F2D56726BE0;
 			remoteInfo = "React-NativeModulesApple";
 		};
-		46EB2E0001BF50 /* PBXContainerItemProxy */ = {
+		46EB2E0001BE10 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2B25F90D819B9ADF2AF2D8733A890333;
 			remoteInfo = Yoga;
 		};
-		46EB2E0001BF70 /* PBXContainerItemProxy */ = {
+		46EB2E0001BE30 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 50DBAF155FAFB994E067BA8820221EDF;
 			remoteInfo = "React-Fabric";
 		};
-		46EB2E0001BF90 /* PBXContainerItemProxy */ = {
+		46EB2E0001BE50 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 4BDD270EACFE5730793AEF0B9BCCBA31;
 			remoteInfo = "React-graphics";
 		};
-		46EB2E0001BFB0 /* PBXContainerItemProxy */ = {
+		46EB2E0001BE70 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 30621D5A9764AC0BD9D02E87B2EA6665;
 			remoteInfo = "React-utils";
 		};
-		46EB2E0001BFD0 /* PBXContainerItemProxy */ = {
+		46EB2E0001BE90 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 28CE447E6F9C5F0EECC0CDD607D06A24;
 			remoteInfo = "React-featureflags";
 		};
-		46EB2E0001BFF0 /* PBXContainerItemProxy */ = {
+		46EB2E0001BEB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 0C050E11C4409D3BFAE9CC219C4D6195;
 			remoteInfo = "React-debug";
 		};
-		46EB2E0001C010 /* PBXContainerItemProxy */ = {
+		46EB2E0001BED0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = B5E1D7706FCB7EC5FF39F8CDA49A5653;
 			remoteInfo = "React-ImageManager";
 		};
-		46EB2E0001C030 /* PBXContainerItemProxy */ = {
+		46EB2E0001BEF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9F96BF8B7FC28F5CF47242D7A73B11DA;
 			remoteInfo = "React-rendererdebug";
 		};
-		46EB2E0001C050 /* PBXContainerItemProxy */ = {
+		46EB2E0001BF10 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2AB2EF542954AB1C999E03BFEF8DE806;
 			remoteInfo = DoubleConversion;
 		};
-		46EB2E0001C070 /* PBXContainerItemProxy */ = {
+		46EB2E0001BF30 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 985FEA01F314F3C00F0C1E1181E6C4A5;
 			remoteInfo = "hermes-engine";
+		};
+		46EB2E0001BF50 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9;
+			remoteInfo = "mapsted-sdk-triggers-core";
+		};
+		46EB2E0001BF70 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
+			remoteInfo = SSZipArchive;
+		};
+		46EB2E0001BF90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
+			remoteInfo = "mapsted-sdk-core";
+		};
+		46EB2E0001BFB0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
+			remoteInfo = "mapsted-sdk-core";
+		};
+		46EB2E0001BFD0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
+			remoteInfo = "mapsted-sdk-core";
+		};
+		46EB2E0001BFF0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B46A2D29CA505C1899DC8CBDC43252F2;
+			remoteInfo = "mapsted-sdk-core-map";
+		};
+		46EB2E0001C010 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C7F14637E97F15906E39B4645085EED9;
+			remoteInfo = "mapsted-sdk-map";
+		};
+		46EB2E0001C030 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 196DFFB3FF731ACE255613D0B055697A;
+			remoteInfo = "mapsted-sdk-loc-marketing";
+		};
+		46EB2E0001C050 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E391D835E288CCD8BA9A80A5DFE36B27;
+			remoteInfo = "mapsted-sdk-alerts";
+		};
+		46EB2E0001C070 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46EB2E00000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C20A0D34E594FD94C15273EC60B6D098;
+			remoteInfo = "mapsted-sdk-core";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -9793,132 +9793,132 @@
 		46EB2E00007E80 /* TimerStats.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TimerStats.h; path = destroot/include/hermes/TimerStats.h; sourceTree = "<group>"; };
 		46EB2E00007E90 /* TraceInterpreter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TraceInterpreter.h; path = destroot/include/hermes/TraceInterpreter.h; sourceTree = "<group>"; };
 		46EB2E00007EA0 /* TracingRuntime.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TracingRuntime.h; path = destroot/include/hermes/TracingRuntime.h; sourceTree = "<group>"; };
-		46EB2E00007EB0 /* MapstedAlerts-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedAlerts-Swift.h"; path = "MapstedAlerts.framework/Headers/MapstedAlerts-Swift.h"; sourceTree = "<group>"; };
-		46EB2E00007EC0 /* MapstedAlerts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedAlerts.h; path = MapstedAlerts.framework/Headers/MapstedAlerts.h; sourceTree = "<group>"; };
-		46EB2E00007ED0 /* CppBuildingLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppBuildingLocationCriteria.h; path = MapstedCore.framework/Headers/CppBuildingLocationCriteria.h; sourceTree = "<group>"; };
-		46EB2E00007EE0 /* CppFloorLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppFloorLocationCriteria.h; path = MapstedCore.framework/Headers/CppFloorLocationCriteria.h; sourceTree = "<group>"; };
-		46EB2E00007EF0 /* CppGeofenceTriggerBuilder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppGeofenceTriggerBuilder.h; path = MapstedCore.framework/Headers/CppGeofenceTriggerBuilder.h; sourceTree = "<group>"; };
-		46EB2E00007F00 /* CppPoiVicinityLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppPoiVicinityLocationCriteria.h; path = MapstedCore.framework/Headers/CppPoiVicinityLocationCriteria.h; sourceTree = "<group>"; };
-		46EB2E00007F10 /* CppPropertyLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppPropertyLocationCriteria.h; path = MapstedCore.framework/Headers/CppPropertyLocationCriteria.h; sourceTree = "<group>"; };
-		46EB2E00007F20 /* EnumLocationCriteriaTriggerDirection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumLocationCriteriaTriggerDirection.h; path = MapstedCore.framework/Headers/EnumLocationCriteriaTriggerDirection.h; sourceTree = "<group>"; };
-		46EB2E00007F30 /* EnumLocationCriteriaTriggerType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumLocationCriteriaTriggerType.h; path = MapstedCore.framework/Headers/EnumLocationCriteriaTriggerType.h; sourceTree = "<group>"; };
-		46EB2E00007F40 /* EnumSdkError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSdkError.h; path = MapstedCore.framework/Headers/EnumSdkError.h; sourceTree = "<group>"; };
-		46EB2E00007F50 /* EnumSdkMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSdkMode.h; path = MapstedCore.framework/Headers/EnumSdkMode.h; sourceTree = "<group>"; };
-		46EB2E00007F60 /* EnumSdkUpdate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSdkUpdate.h; path = MapstedCore.framework/Headers/EnumSdkUpdate.h; sourceTree = "<group>"; };
-		46EB2E00007F70 /* EnumSensorType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSensorType.h; path = MapstedCore.framework/Headers/EnumSensorType.h; sourceTree = "<group>"; };
-		46EB2E00007F80 /* EnumValidBlueDotError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumValidBlueDotError.h; path = MapstedCore.framework/Headers/EnumValidBlueDotError.h; sourceTree = "<group>"; };
-		46EB2E00007F90 /* ICppLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ICppLocationCriteria.h; path = MapstedCore.framework/Headers/ICppLocationCriteria.h; sourceTree = "<group>"; };
-		46EB2E00007FA0 /* MapPackageManagerWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapPackageManagerWrapper.h; path = MapstedCore.framework/Headers/MapPackageManagerWrapper.h; sourceTree = "<group>"; };
-		46EB2E00007FB0 /* MapstedAnalyticsApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedAnalyticsApi.h; path = MapstedCore.framework/Headers/MapstedAnalyticsApi.h; sourceTree = "<group>"; };
-		46EB2E00007FC0 /* MapstedAnalyticsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedAnalyticsManager.h; path = MapstedCore.framework/Headers/MapstedAnalyticsManager.h; sourceTree = "<group>"; };
-		46EB2E00007FD0 /* MapstedCore-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedCore-Swift.h"; path = "MapstedCore.framework/Headers/MapstedCore-Swift.h"; sourceTree = "<group>"; };
-		46EB2E00007FE0 /* MapstedCore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedCore.h; path = MapstedCore.framework/Headers/MapstedCore.h; sourceTree = "<group>"; };
-		46EB2E00007FF0 /* MNAnalyticsBundle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNAnalyticsBundle.h; path = MapstedCore.framework/Headers/MNAnalyticsBundle.h; sourceTree = "<group>"; };
-		46EB2E00008000 /* MNBleDataBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBleDataBridge.h; path = MapstedCore.framework/Headers/MNBleDataBridge.h; sourceTree = "<group>"; };
-		46EB2E00008010 /* MNBuildingData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingData.h; path = MapstedCore.framework/Headers/MNBuildingData.h; sourceTree = "<group>"; };
-		46EB2E00008020 /* MNBuildingEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingEntities.h; path = MapstedCore.framework/Headers/MNBuildingEntities.h; sourceTree = "<group>"; };
-		46EB2E00008030 /* MNBuildingInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingInfo.h; path = MapstedCore.framework/Headers/MNBuildingInfo.h; sourceTree = "<group>"; };
-		46EB2E00008040 /* MNBuildingPoints.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingPoints.h; path = MapstedCore.framework/Headers/MNBuildingPoints.h; sourceTree = "<group>"; };
-		46EB2E00008050 /* MNBuildingPolygons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingPolygons.h; path = MapstedCore.framework/Headers/MNBuildingPolygons.h; sourceTree = "<group>"; };
-		46EB2E00008060 /* MNBuildingPolylines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingPolylines.h; path = MapstedCore.framework/Headers/MNBuildingPolylines.h; sourceTree = "<group>"; };
-		46EB2E00008070 /* MNBuildingSearchEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingSearchEntities.h; path = MapstedCore.framework/Headers/MNBuildingSearchEntities.h; sourceTree = "<group>"; };
-		46EB2E00008080 /* MNCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNCategory.h; path = MapstedCore.framework/Headers/MNCategory.h; sourceTree = "<group>"; };
-		46EB2E00008090 /* MNColour.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNColour.h; path = MapstedCore.framework/Headers/MNColour.h; sourceTree = "<group>"; };
-		46EB2E000080A0 /* MNConfidence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNConfidence.h; path = MapstedCore.framework/Headers/MNConfidence.h; sourceTree = "<group>"; };
-		46EB2E000080B0 /* MNContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNContentType.h; path = MapstedCore.framework/Headers/MNContentType.h; sourceTree = "<group>"; };
-		46EB2E000080C0 /* MNDailyBusinessHour.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNDailyBusinessHour.h; path = MapstedCore.framework/Headers/MNDailyBusinessHour.h; sourceTree = "<group>"; };
-		46EB2E000080D0 /* MNDataType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNDataType.h; path = MapstedCore.framework/Headers/MNDataType.h; sourceTree = "<group>"; };
-		46EB2E000080E0 /* MNEntityZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNEntityZone.h; path = MapstedCore.framework/Headers/MNEntityZone.h; sourceTree = "<group>"; };
-		46EB2E000080F0 /* MNEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNEvent.h; path = MapstedCore.framework/Headers/MNEvent.h; sourceTree = "<group>"; };
-		46EB2E00008100 /* MNFloorInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNFloorInfo.h; path = MapstedCore.framework/Headers/MNFloorInfo.h; sourceTree = "<group>"; };
-		46EB2E00008110 /* MNGPSLoc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNGPSLoc.h; path = MapstedCore.framework/Headers/MNGPSLoc.h; sourceTree = "<group>"; };
-		46EB2E00008120 /* MNHoursOfOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNHoursOfOperation.h; path = MapstedCore.framework/Headers/MNHoursOfOperation.h; sourceTree = "<group>"; };
-		46EB2E00008130 /* MNIconStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNIconStyle.h; path = MapstedCore.framework/Headers/MNIconStyle.h; sourceTree = "<group>"; };
-		46EB2E00008140 /* MNIdType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNIdType.h; path = MapstedCore.framework/Headers/MNIdType.h; sourceTree = "<group>"; };
-		46EB2E00008150 /* MNLanguageType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLanguageType.h; path = MapstedCore.framework/Headers/MNLanguageType.h; sourceTree = "<group>"; };
-		46EB2E00008160 /* MNLatLng.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLatLng.h; path = MapstedCore.framework/Headers/MNLatLng.h; sourceTree = "<group>"; };
-		46EB2E00008170 /* MNLayerStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLayerStyle.h; path = MapstedCore.framework/Headers/MNLayerStyle.h; sourceTree = "<group>"; };
-		46EB2E00008180 /* MNLineStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLineStyle.h; path = MapstedCore.framework/Headers/MNLineStyle.h; sourceTree = "<group>"; };
-		46EB2E00008190 /* MNMapEntity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapEntity.h; path = MapstedCore.framework/Headers/MNMapEntity.h; sourceTree = "<group>"; };
-		46EB2E000081A0 /* MNMapPerspective.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPerspective.h; path = MapstedCore.framework/Headers/MNMapPerspective.h; sourceTree = "<group>"; };
-		46EB2E000081B0 /* MNMapPoint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPoint.h; path = MapstedCore.framework/Headers/MNMapPoint.h; sourceTree = "<group>"; };
-		46EB2E000081C0 /* MNMapPolygon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPolygon.h; path = MapstedCore.framework/Headers/MNMapPolygon.h; sourceTree = "<group>"; };
-		46EB2E000081D0 /* MNMapPolyline.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPolyline.h; path = MapstedCore.framework/Headers/MNMapPolyline.h; sourceTree = "<group>"; };
-		46EB2E000081E0 /* MNMapstedLib.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapstedLib.h; path = MapstedCore.framework/Headers/MNMapstedLib.h; sourceTree = "<group>"; };
-		46EB2E000081F0 /* MNMapstedTestingKey.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapstedTestingKey.h; path = MapstedCore.framework/Headers/MNMapstedTestingKey.h; sourceTree = "<group>"; };
-		46EB2E00008200 /* MNMercator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercator.h; path = MapstedCore.framework/Headers/MNMercator.h; sourceTree = "<group>"; };
-		46EB2E00008210 /* MNMercatorBoundary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercatorBoundary.h; path = MapstedCore.framework/Headers/MNMercatorBoundary.h; sourceTree = "<group>"; };
-		46EB2E00008220 /* MNMercatorLoc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercatorLoc.h; path = MapstedCore.framework/Headers/MNMercatorLoc.h; sourceTree = "<group>"; };
-		46EB2E00008230 /* MNMercatorZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercatorZone.h; path = MapstedCore.framework/Headers/MNMercatorZone.h; sourceTree = "<group>"; };
-		46EB2E00008240 /* MNObjcDateUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNObjcDateUtils.h; path = MapstedCore.framework/Headers/MNObjcDateUtils.h; sourceTree = "<group>"; };
-		46EB2E00008250 /* MNObjcUnitUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNObjcUnitUtils.h; path = MapstedCore.framework/Headers/MNObjcUnitUtils.h; sourceTree = "<group>"; };
-		46EB2E00008260 /* MNObjectDataMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNObjectDataMap.h; path = MapstedCore.framework/Headers/MNObjectDataMap.h; sourceTree = "<group>"; };
-		46EB2E00008270 /* MNPackageStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPackageStatus.h; path = MapstedCore.framework/Headers/MNPackageStatus.h; sourceTree = "<group>"; };
-		46EB2E00008280 /* MNPackageType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPackageType.h; path = MapstedCore.framework/Headers/MNPackageType.h; sourceTree = "<group>"; };
-		46EB2E00008290 /* MNParsedBuildingDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedBuildingDataItem.h; path = MapstedCore.framework/Headers/MNParsedBuildingDataItem.h; sourceTree = "<group>"; };
-		46EB2E000082A0 /* MNParsedBuildingDataResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedBuildingDataResponse.h; path = MapstedCore.framework/Headers/MNParsedBuildingDataResponse.h; sourceTree = "<group>"; };
-		46EB2E000082B0 /* MNParsedBuildingLanguageDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedBuildingLanguageDataItem.h; path = MapstedCore.framework/Headers/MNParsedBuildingLanguageDataItem.h; sourceTree = "<group>"; };
-		46EB2E000082C0 /* MNParsedContentResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedContentResponse.h; path = MapstedCore.framework/Headers/MNParsedContentResponse.h; sourceTree = "<group>"; };
-		46EB2E000082D0 /* MNParsedDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedDataItem.h; path = MapstedCore.framework/Headers/MNParsedDataItem.h; sourceTree = "<group>"; };
-		46EB2E000082E0 /* MNParsedDataResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedDataResponse.h; path = MapstedCore.framework/Headers/MNParsedDataResponse.h; sourceTree = "<group>"; };
-		46EB2E000082F0 /* MNParsedLanguageDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedLanguageDataItem.h; path = MapstedCore.framework/Headers/MNParsedLanguageDataItem.h; sourceTree = "<group>"; };
-		46EB2E00008300 /* MNParsedPropertyDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyDataItem.h; path = MapstedCore.framework/Headers/MNParsedPropertyDataItem.h; sourceTree = "<group>"; };
-		46EB2E00008310 /* MNParsedPropertyDataResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyDataResponse.h; path = MapstedCore.framework/Headers/MNParsedPropertyDataResponse.h; sourceTree = "<group>"; };
-		46EB2E00008320 /* MNParsedPropertyLanguageDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyLanguageDataItem.h; path = MapstedCore.framework/Headers/MNParsedPropertyLanguageDataItem.h; sourceTree = "<group>"; };
-		46EB2E00008330 /* MNParsedPropertyListAndCategoryResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyListAndCategoryResponse.h; path = MapstedCore.framework/Headers/MNParsedPropertyListAndCategoryResponse.h; sourceTree = "<group>"; };
-		46EB2E00008340 /* MNPbZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPbZone.h; path = MapstedCore.framework/Headers/MNPbZone.h; sourceTree = "<group>"; };
-		46EB2E00008350 /* MNPointStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPointStyle.h; path = MapstedCore.framework/Headers/MNPointStyle.h; sourceTree = "<group>"; };
-		46EB2E00008360 /* MNPolygonHighlight.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPolygonHighlight.h; path = MapstedCore.framework/Headers/MNPolygonHighlight.h; sourceTree = "<group>"; };
-		46EB2E00008370 /* MNPolygonStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPolygonStyle.h; path = MapstedCore.framework/Headers/MNPolygonStyle.h; sourceTree = "<group>"; };
-		46EB2E00008380 /* MNPosition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPosition.h; path = MapstedCore.framework/Headers/MNPosition.h; sourceTree = "<group>"; };
-		46EB2E00008390 /* MNPositioningMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPositioningMode.h; path = MapstedCore.framework/Headers/MNPositioningMode.h; sourceTree = "<group>"; };
-		46EB2E000083A0 /* MNPropertyData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyData.h; path = MapstedCore.framework/Headers/MNPropertyData.h; sourceTree = "<group>"; };
-		46EB2E000083B0 /* MNPropertyEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyEntities.h; path = MapstedCore.framework/Headers/MNPropertyEntities.h; sourceTree = "<group>"; };
-		46EB2E000083C0 /* MNPropertyInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyInfo.h; path = MapstedCore.framework/Headers/MNPropertyInfo.h; sourceTree = "<group>"; };
-		46EB2E000083D0 /* MNPropertyPoints.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyPoints.h; path = MapstedCore.framework/Headers/MNPropertyPoints.h; sourceTree = "<group>"; };
-		46EB2E000083E0 /* MNPropertyPolygons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyPolygons.h; path = MapstedCore.framework/Headers/MNPropertyPolygons.h; sourceTree = "<group>"; };
-		46EB2E000083F0 /* MNPropertyPolylines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyPolylines.h; path = MapstedCore.framework/Headers/MNPropertyPolylines.h; sourceTree = "<group>"; };
-		46EB2E00008400 /* MNPropertySearchEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertySearchEntities.h; path = MapstedCore.framework/Headers/MNPropertySearchEntities.h; sourceTree = "<group>"; };
-		46EB2E00008410 /* MNPropertySearchFilters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertySearchFilters.h; path = MapstedCore.framework/Headers/MNPropertySearchFilters.h; sourceTree = "<group>"; };
-		46EB2E00008420 /* MNRegion.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRegion.h; path = MapstedCore.framework/Headers/MNRegion.h; sourceTree = "<group>"; };
-		46EB2E00008430 /* MNRoute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRoute.h; path = MapstedCore.framework/Headers/MNRoute.h; sourceTree = "<group>"; };
-		46EB2E00008440 /* MNRouteDistanceTime.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteDistanceTime.h; path = MapstedCore.framework/Headers/MNRouteDistanceTime.h; sourceTree = "<group>"; };
-		46EB2E00008450 /* MNRouteNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteNode.h; path = MapstedCore.framework/Headers/MNRouteNode.h; sourceTree = "<group>"; };
-		46EB2E00008460 /* MNRouteOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteOptions.h; path = MapstedCore.framework/Headers/MNRouteOptions.h; sourceTree = "<group>"; };
-		46EB2E00008470 /* MNRouteRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteRequest.h; path = MapstedCore.framework/Headers/MNRouteRequest.h; sourceTree = "<group>"; };
-		46EB2E00008480 /* MNRouteResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteResponse.h; path = MapstedCore.framework/Headers/MNRouteResponse.h; sourceTree = "<group>"; };
-		46EB2E00008490 /* MNRouteSegment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteSegment.h; path = MapstedCore.framework/Headers/MNRouteSegment.h; sourceTree = "<group>"; };
-		46EB2E000084A0 /* MNRouteUserProgress.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteUserProgress.h; path = MapstedCore.framework/Headers/MNRouteUserProgress.h; sourceTree = "<group>"; };
-		46EB2E000084B0 /* MNSDKPermissions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNSDKPermissions.h; path = MapstedCore.framework/Headers/MNSDKPermissions.h; sourceTree = "<group>"; };
-		46EB2E000084C0 /* MNSearchEntity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNSearchEntity.h; path = MapstedCore.framework/Headers/MNSearchEntity.h; sourceTree = "<group>"; };
-		46EB2E000084D0 /* MNTag.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNTag.h; path = MapstedCore.framework/Headers/MNTag.h; sourceTree = "<group>"; };
-		46EB2E000084E0 /* MNTextStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNTextStyle.h; path = MapstedCore.framework/Headers/MNTextStyle.h; sourceTree = "<group>"; };
-		46EB2E000084F0 /* MNTrajectory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNTrajectory.h; path = MapstedCore.framework/Headers/MNTrajectory.h; sourceTree = "<group>"; };
-		46EB2E00008500 /* MNWifiDataBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNWifiDataBridge.h; path = MapstedCore.framework/Headers/MNWifiDataBridge.h; sourceTree = "<group>"; };
-		46EB2E00008510 /* MNZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNZone.h; path = MapstedCore.framework/Headers/MNZone.h; sourceTree = "<group>"; };
-		46EB2E00008520 /* MNZoneLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNZoneLabel.h; path = MapstedCore.framework/Headers/MNZoneLabel.h; sourceTree = "<group>"; };
-		46EB2E00008530 /* MNZoneType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNZoneType.h; path = MapstedCore.framework/Headers/MNZoneType.h; sourceTree = "<group>"; };
-		46EB2E00008540 /* PackageManagerHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PackageManagerHelper.h; path = MapstedCore.framework/Headers/PackageManagerHelper.h; sourceTree = "<group>"; };
-		46EB2E00008550 /* positioning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = positioning.h; path = MapstedCore.framework/Headers/positioning.h; sourceTree = "<group>"; };
-		46EB2E00008560 /* Searchable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Searchable.h; path = MapstedCore.framework/Headers/Searchable.h; sourceTree = "<group>"; };
-		46EB2E00008570 /* StatusMessageType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = StatusMessageType.h; path = MapstedCore.framework/Headers/StatusMessageType.h; sourceTree = "<group>"; };
-		46EB2E00008580 /* Geofence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Geofence.h; path = MapstedGeofence.framework/Headers/Geofence.h; sourceTree = "<group>"; };
-		46EB2E00008590 /* MapstedGeofence-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedGeofence-Swift.h"; path = "MapstedGeofence.framework/Headers/MapstedGeofence-Swift.h"; sourceTree = "<group>"; };
-		46EB2E000085A0 /* LocationMarketing-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "LocationMarketing-Swift.h"; path = "LocationMarketing.framework/Headers/LocationMarketing-Swift.h"; sourceTree = "<group>"; };
-		46EB2E000085B0 /* LocMarketing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocMarketing.h; path = LocationMarketing.framework/Headers/LocMarketing.h; sourceTree = "<group>"; };
-		46EB2E000085C0 /* MapstedMap-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedMap-Swift.h"; path = "MapstedMap.framework/Headers/MapstedMap-Swift.h"; sourceTree = "<group>"; };
-		46EB2E000085D0 /* MapstedMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedMap.h; path = MapstedMap.framework/Headers/MapstedMap.h; sourceTree = "<group>"; };
-		46EB2E000085E0 /* MN-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MN-Bridging-Header.h"; path = "MapstedMap.framework/Headers/MN-Bridging-Header.h"; sourceTree = "<group>"; };
-		46EB2E000085F0 /* MapstedMapUi-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedMapUi-Swift.h"; path = "MapstedMapUi.framework/Headers/MapstedMapUi-Swift.h"; sourceTree = "<group>"; };
-		46EB2E00008600 /* mapuikit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mapuikit.h; path = MapstedMapUi.framework/Headers/mapuikit.h; sourceTree = "<group>"; };
-		46EB2E00008610 /* MapstedTriggersCore-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedTriggersCore-Swift.h"; path = "MapstedTriggersCore.framework/Headers/MapstedTriggersCore-Swift.h"; sourceTree = "<group>"; };
-		46EB2E00008620 /* MapstedTriggersCore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedTriggersCore.h; path = MapstedTriggersCore.framework/Headers/MapstedTriggersCore.h; sourceTree = "<group>"; };
-		46EB2E00008630 /* Mapsted-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Mapsted-Bridging-Header.h"; path = "ios/Mapsted-Bridging-Header.h"; sourceTree = "<group>"; };
-		46EB2E00008640 /* Mapsted.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Mapsted.m; path = ios/Mapsted.m; sourceTree = "<group>"; };
-		46EB2E00008650 /* Mapsted.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mapsted.swift; path = ios/Mapsted.swift; sourceTree = "<group>"; };
-		46EB2E00008660 /* RNMapsted.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = RNMapsted.storyboard; path = ios/RNMapsted.storyboard; sourceTree = "<group>"; };
-		46EB2E00008670 /* RNMapsted.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RNMapsted.swift; path = ios/RNMapsted.swift; sourceTree = "<group>"; };
-		46EB2E00008680 /* RNMapstedPropListViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RNMapstedPropListViewController.swift; path = ios/RNMapstedPropListViewController.swift; sourceTree = "<group>"; };
+		46EB2E00007EB0 /* Mapsted-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Mapsted-Bridging-Header.h"; path = "ios/Mapsted-Bridging-Header.h"; sourceTree = "<group>"; };
+		46EB2E00007EC0 /* Mapsted.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Mapsted.m; path = ios/Mapsted.m; sourceTree = "<group>"; };
+		46EB2E00007ED0 /* Mapsted.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mapsted.swift; path = ios/Mapsted.swift; sourceTree = "<group>"; };
+		46EB2E00007EE0 /* RNMapsted.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = RNMapsted.storyboard; path = ios/RNMapsted.storyboard; sourceTree = "<group>"; };
+		46EB2E00007EF0 /* RNMapsted.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RNMapsted.swift; path = ios/RNMapsted.swift; sourceTree = "<group>"; };
+		46EB2E00007F00 /* RNMapstedPropListViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RNMapstedPropListViewController.swift; path = ios/RNMapstedPropListViewController.swift; sourceTree = "<group>"; };
+		46EB2E00007F10 /* MapstedAlerts-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedAlerts-Swift.h"; path = "MapstedAlerts.framework/Headers/MapstedAlerts-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00007F20 /* MapstedAlerts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedAlerts.h; path = MapstedAlerts.framework/Headers/MapstedAlerts.h; sourceTree = "<group>"; };
+		46EB2E00007F30 /* CppBuildingLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppBuildingLocationCriteria.h; path = MapstedCore.framework/Headers/CppBuildingLocationCriteria.h; sourceTree = "<group>"; };
+		46EB2E00007F40 /* CppFloorLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppFloorLocationCriteria.h; path = MapstedCore.framework/Headers/CppFloorLocationCriteria.h; sourceTree = "<group>"; };
+		46EB2E00007F50 /* CppGeofenceTriggerBuilder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppGeofenceTriggerBuilder.h; path = MapstedCore.framework/Headers/CppGeofenceTriggerBuilder.h; sourceTree = "<group>"; };
+		46EB2E00007F60 /* CppPoiVicinityLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppPoiVicinityLocationCriteria.h; path = MapstedCore.framework/Headers/CppPoiVicinityLocationCriteria.h; sourceTree = "<group>"; };
+		46EB2E00007F70 /* CppPropertyLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CppPropertyLocationCriteria.h; path = MapstedCore.framework/Headers/CppPropertyLocationCriteria.h; sourceTree = "<group>"; };
+		46EB2E00007F80 /* EnumLocationCriteriaTriggerDirection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumLocationCriteriaTriggerDirection.h; path = MapstedCore.framework/Headers/EnumLocationCriteriaTriggerDirection.h; sourceTree = "<group>"; };
+		46EB2E00007F90 /* EnumLocationCriteriaTriggerType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumLocationCriteriaTriggerType.h; path = MapstedCore.framework/Headers/EnumLocationCriteriaTriggerType.h; sourceTree = "<group>"; };
+		46EB2E00007FA0 /* EnumSdkError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSdkError.h; path = MapstedCore.framework/Headers/EnumSdkError.h; sourceTree = "<group>"; };
+		46EB2E00007FB0 /* EnumSdkMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSdkMode.h; path = MapstedCore.framework/Headers/EnumSdkMode.h; sourceTree = "<group>"; };
+		46EB2E00007FC0 /* EnumSdkUpdate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSdkUpdate.h; path = MapstedCore.framework/Headers/EnumSdkUpdate.h; sourceTree = "<group>"; };
+		46EB2E00007FD0 /* EnumSensorType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumSensorType.h; path = MapstedCore.framework/Headers/EnumSensorType.h; sourceTree = "<group>"; };
+		46EB2E00007FE0 /* EnumValidBlueDotError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumValidBlueDotError.h; path = MapstedCore.framework/Headers/EnumValidBlueDotError.h; sourceTree = "<group>"; };
+		46EB2E00007FF0 /* ICppLocationCriteria.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ICppLocationCriteria.h; path = MapstedCore.framework/Headers/ICppLocationCriteria.h; sourceTree = "<group>"; };
+		46EB2E00008000 /* MapPackageManagerWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapPackageManagerWrapper.h; path = MapstedCore.framework/Headers/MapPackageManagerWrapper.h; sourceTree = "<group>"; };
+		46EB2E00008010 /* MapstedAnalyticsApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedAnalyticsApi.h; path = MapstedCore.framework/Headers/MapstedAnalyticsApi.h; sourceTree = "<group>"; };
+		46EB2E00008020 /* MapstedAnalyticsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedAnalyticsManager.h; path = MapstedCore.framework/Headers/MapstedAnalyticsManager.h; sourceTree = "<group>"; };
+		46EB2E00008030 /* MapstedCore-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedCore-Swift.h"; path = "MapstedCore.framework/Headers/MapstedCore-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00008040 /* MapstedCore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedCore.h; path = MapstedCore.framework/Headers/MapstedCore.h; sourceTree = "<group>"; };
+		46EB2E00008050 /* MNAnalyticsBundle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNAnalyticsBundle.h; path = MapstedCore.framework/Headers/MNAnalyticsBundle.h; sourceTree = "<group>"; };
+		46EB2E00008060 /* MNBleDataBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBleDataBridge.h; path = MapstedCore.framework/Headers/MNBleDataBridge.h; sourceTree = "<group>"; };
+		46EB2E00008070 /* MNBuildingData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingData.h; path = MapstedCore.framework/Headers/MNBuildingData.h; sourceTree = "<group>"; };
+		46EB2E00008080 /* MNBuildingEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingEntities.h; path = MapstedCore.framework/Headers/MNBuildingEntities.h; sourceTree = "<group>"; };
+		46EB2E00008090 /* MNBuildingInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingInfo.h; path = MapstedCore.framework/Headers/MNBuildingInfo.h; sourceTree = "<group>"; };
+		46EB2E000080A0 /* MNBuildingPoints.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingPoints.h; path = MapstedCore.framework/Headers/MNBuildingPoints.h; sourceTree = "<group>"; };
+		46EB2E000080B0 /* MNBuildingPolygons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingPolygons.h; path = MapstedCore.framework/Headers/MNBuildingPolygons.h; sourceTree = "<group>"; };
+		46EB2E000080C0 /* MNBuildingPolylines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingPolylines.h; path = MapstedCore.framework/Headers/MNBuildingPolylines.h; sourceTree = "<group>"; };
+		46EB2E000080D0 /* MNBuildingSearchEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNBuildingSearchEntities.h; path = MapstedCore.framework/Headers/MNBuildingSearchEntities.h; sourceTree = "<group>"; };
+		46EB2E000080E0 /* MNCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNCategory.h; path = MapstedCore.framework/Headers/MNCategory.h; sourceTree = "<group>"; };
+		46EB2E000080F0 /* MNColour.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNColour.h; path = MapstedCore.framework/Headers/MNColour.h; sourceTree = "<group>"; };
+		46EB2E00008100 /* MNConfidence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNConfidence.h; path = MapstedCore.framework/Headers/MNConfidence.h; sourceTree = "<group>"; };
+		46EB2E00008110 /* MNContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNContentType.h; path = MapstedCore.framework/Headers/MNContentType.h; sourceTree = "<group>"; };
+		46EB2E00008120 /* MNDailyBusinessHour.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNDailyBusinessHour.h; path = MapstedCore.framework/Headers/MNDailyBusinessHour.h; sourceTree = "<group>"; };
+		46EB2E00008130 /* MNDataType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNDataType.h; path = MapstedCore.framework/Headers/MNDataType.h; sourceTree = "<group>"; };
+		46EB2E00008140 /* MNEntityZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNEntityZone.h; path = MapstedCore.framework/Headers/MNEntityZone.h; sourceTree = "<group>"; };
+		46EB2E00008150 /* MNEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNEvent.h; path = MapstedCore.framework/Headers/MNEvent.h; sourceTree = "<group>"; };
+		46EB2E00008160 /* MNFloorInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNFloorInfo.h; path = MapstedCore.framework/Headers/MNFloorInfo.h; sourceTree = "<group>"; };
+		46EB2E00008170 /* MNGPSLoc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNGPSLoc.h; path = MapstedCore.framework/Headers/MNGPSLoc.h; sourceTree = "<group>"; };
+		46EB2E00008180 /* MNHoursOfOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNHoursOfOperation.h; path = MapstedCore.framework/Headers/MNHoursOfOperation.h; sourceTree = "<group>"; };
+		46EB2E00008190 /* MNIconStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNIconStyle.h; path = MapstedCore.framework/Headers/MNIconStyle.h; sourceTree = "<group>"; };
+		46EB2E000081A0 /* MNIdType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNIdType.h; path = MapstedCore.framework/Headers/MNIdType.h; sourceTree = "<group>"; };
+		46EB2E000081B0 /* MNLanguageType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLanguageType.h; path = MapstedCore.framework/Headers/MNLanguageType.h; sourceTree = "<group>"; };
+		46EB2E000081C0 /* MNLatLng.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLatLng.h; path = MapstedCore.framework/Headers/MNLatLng.h; sourceTree = "<group>"; };
+		46EB2E000081D0 /* MNLayerStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLayerStyle.h; path = MapstedCore.framework/Headers/MNLayerStyle.h; sourceTree = "<group>"; };
+		46EB2E000081E0 /* MNLineStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNLineStyle.h; path = MapstedCore.framework/Headers/MNLineStyle.h; sourceTree = "<group>"; };
+		46EB2E000081F0 /* MNMapEntity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapEntity.h; path = MapstedCore.framework/Headers/MNMapEntity.h; sourceTree = "<group>"; };
+		46EB2E00008200 /* MNMapPerspective.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPerspective.h; path = MapstedCore.framework/Headers/MNMapPerspective.h; sourceTree = "<group>"; };
+		46EB2E00008210 /* MNMapPoint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPoint.h; path = MapstedCore.framework/Headers/MNMapPoint.h; sourceTree = "<group>"; };
+		46EB2E00008220 /* MNMapPolygon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPolygon.h; path = MapstedCore.framework/Headers/MNMapPolygon.h; sourceTree = "<group>"; };
+		46EB2E00008230 /* MNMapPolyline.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapPolyline.h; path = MapstedCore.framework/Headers/MNMapPolyline.h; sourceTree = "<group>"; };
+		46EB2E00008240 /* MNMapstedLib.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapstedLib.h; path = MapstedCore.framework/Headers/MNMapstedLib.h; sourceTree = "<group>"; };
+		46EB2E00008250 /* MNMapstedTestingKey.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMapstedTestingKey.h; path = MapstedCore.framework/Headers/MNMapstedTestingKey.h; sourceTree = "<group>"; };
+		46EB2E00008260 /* MNMercator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercator.h; path = MapstedCore.framework/Headers/MNMercator.h; sourceTree = "<group>"; };
+		46EB2E00008270 /* MNMercatorBoundary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercatorBoundary.h; path = MapstedCore.framework/Headers/MNMercatorBoundary.h; sourceTree = "<group>"; };
+		46EB2E00008280 /* MNMercatorLoc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercatorLoc.h; path = MapstedCore.framework/Headers/MNMercatorLoc.h; sourceTree = "<group>"; };
+		46EB2E00008290 /* MNMercatorZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNMercatorZone.h; path = MapstedCore.framework/Headers/MNMercatorZone.h; sourceTree = "<group>"; };
+		46EB2E000082A0 /* MNObjcDateUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNObjcDateUtils.h; path = MapstedCore.framework/Headers/MNObjcDateUtils.h; sourceTree = "<group>"; };
+		46EB2E000082B0 /* MNObjcUnitUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNObjcUnitUtils.h; path = MapstedCore.framework/Headers/MNObjcUnitUtils.h; sourceTree = "<group>"; };
+		46EB2E000082C0 /* MNObjectDataMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNObjectDataMap.h; path = MapstedCore.framework/Headers/MNObjectDataMap.h; sourceTree = "<group>"; };
+		46EB2E000082D0 /* MNPackageStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPackageStatus.h; path = MapstedCore.framework/Headers/MNPackageStatus.h; sourceTree = "<group>"; };
+		46EB2E000082E0 /* MNPackageType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPackageType.h; path = MapstedCore.framework/Headers/MNPackageType.h; sourceTree = "<group>"; };
+		46EB2E000082F0 /* MNParsedBuildingDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedBuildingDataItem.h; path = MapstedCore.framework/Headers/MNParsedBuildingDataItem.h; sourceTree = "<group>"; };
+		46EB2E00008300 /* MNParsedBuildingDataResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedBuildingDataResponse.h; path = MapstedCore.framework/Headers/MNParsedBuildingDataResponse.h; sourceTree = "<group>"; };
+		46EB2E00008310 /* MNParsedBuildingLanguageDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedBuildingLanguageDataItem.h; path = MapstedCore.framework/Headers/MNParsedBuildingLanguageDataItem.h; sourceTree = "<group>"; };
+		46EB2E00008320 /* MNParsedContentResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedContentResponse.h; path = MapstedCore.framework/Headers/MNParsedContentResponse.h; sourceTree = "<group>"; };
+		46EB2E00008330 /* MNParsedDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedDataItem.h; path = MapstedCore.framework/Headers/MNParsedDataItem.h; sourceTree = "<group>"; };
+		46EB2E00008340 /* MNParsedDataResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedDataResponse.h; path = MapstedCore.framework/Headers/MNParsedDataResponse.h; sourceTree = "<group>"; };
+		46EB2E00008350 /* MNParsedLanguageDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedLanguageDataItem.h; path = MapstedCore.framework/Headers/MNParsedLanguageDataItem.h; sourceTree = "<group>"; };
+		46EB2E00008360 /* MNParsedPropertyDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyDataItem.h; path = MapstedCore.framework/Headers/MNParsedPropertyDataItem.h; sourceTree = "<group>"; };
+		46EB2E00008370 /* MNParsedPropertyDataResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyDataResponse.h; path = MapstedCore.framework/Headers/MNParsedPropertyDataResponse.h; sourceTree = "<group>"; };
+		46EB2E00008380 /* MNParsedPropertyLanguageDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyLanguageDataItem.h; path = MapstedCore.framework/Headers/MNParsedPropertyLanguageDataItem.h; sourceTree = "<group>"; };
+		46EB2E00008390 /* MNParsedPropertyListAndCategoryResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNParsedPropertyListAndCategoryResponse.h; path = MapstedCore.framework/Headers/MNParsedPropertyListAndCategoryResponse.h; sourceTree = "<group>"; };
+		46EB2E000083A0 /* MNPbZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPbZone.h; path = MapstedCore.framework/Headers/MNPbZone.h; sourceTree = "<group>"; };
+		46EB2E000083B0 /* MNPointStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPointStyle.h; path = MapstedCore.framework/Headers/MNPointStyle.h; sourceTree = "<group>"; };
+		46EB2E000083C0 /* MNPolygonHighlight.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPolygonHighlight.h; path = MapstedCore.framework/Headers/MNPolygonHighlight.h; sourceTree = "<group>"; };
+		46EB2E000083D0 /* MNPolygonStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPolygonStyle.h; path = MapstedCore.framework/Headers/MNPolygonStyle.h; sourceTree = "<group>"; };
+		46EB2E000083E0 /* MNPosition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPosition.h; path = MapstedCore.framework/Headers/MNPosition.h; sourceTree = "<group>"; };
+		46EB2E000083F0 /* MNPositioningMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPositioningMode.h; path = MapstedCore.framework/Headers/MNPositioningMode.h; sourceTree = "<group>"; };
+		46EB2E00008400 /* MNPropertyData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyData.h; path = MapstedCore.framework/Headers/MNPropertyData.h; sourceTree = "<group>"; };
+		46EB2E00008410 /* MNPropertyEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyEntities.h; path = MapstedCore.framework/Headers/MNPropertyEntities.h; sourceTree = "<group>"; };
+		46EB2E00008420 /* MNPropertyInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyInfo.h; path = MapstedCore.framework/Headers/MNPropertyInfo.h; sourceTree = "<group>"; };
+		46EB2E00008430 /* MNPropertyPoints.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyPoints.h; path = MapstedCore.framework/Headers/MNPropertyPoints.h; sourceTree = "<group>"; };
+		46EB2E00008440 /* MNPropertyPolygons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyPolygons.h; path = MapstedCore.framework/Headers/MNPropertyPolygons.h; sourceTree = "<group>"; };
+		46EB2E00008450 /* MNPropertyPolylines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertyPolylines.h; path = MapstedCore.framework/Headers/MNPropertyPolylines.h; sourceTree = "<group>"; };
+		46EB2E00008460 /* MNPropertySearchEntities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertySearchEntities.h; path = MapstedCore.framework/Headers/MNPropertySearchEntities.h; sourceTree = "<group>"; };
+		46EB2E00008470 /* MNPropertySearchFilters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNPropertySearchFilters.h; path = MapstedCore.framework/Headers/MNPropertySearchFilters.h; sourceTree = "<group>"; };
+		46EB2E00008480 /* MNRegion.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRegion.h; path = MapstedCore.framework/Headers/MNRegion.h; sourceTree = "<group>"; };
+		46EB2E00008490 /* MNRoute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRoute.h; path = MapstedCore.framework/Headers/MNRoute.h; sourceTree = "<group>"; };
+		46EB2E000084A0 /* MNRouteDistanceTime.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteDistanceTime.h; path = MapstedCore.framework/Headers/MNRouteDistanceTime.h; sourceTree = "<group>"; };
+		46EB2E000084B0 /* MNRouteNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteNode.h; path = MapstedCore.framework/Headers/MNRouteNode.h; sourceTree = "<group>"; };
+		46EB2E000084C0 /* MNRouteOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteOptions.h; path = MapstedCore.framework/Headers/MNRouteOptions.h; sourceTree = "<group>"; };
+		46EB2E000084D0 /* MNRouteRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteRequest.h; path = MapstedCore.framework/Headers/MNRouteRequest.h; sourceTree = "<group>"; };
+		46EB2E000084E0 /* MNRouteResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteResponse.h; path = MapstedCore.framework/Headers/MNRouteResponse.h; sourceTree = "<group>"; };
+		46EB2E000084F0 /* MNRouteSegment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteSegment.h; path = MapstedCore.framework/Headers/MNRouteSegment.h; sourceTree = "<group>"; };
+		46EB2E00008500 /* MNRouteUserProgress.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNRouteUserProgress.h; path = MapstedCore.framework/Headers/MNRouteUserProgress.h; sourceTree = "<group>"; };
+		46EB2E00008510 /* MNSDKPermissions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNSDKPermissions.h; path = MapstedCore.framework/Headers/MNSDKPermissions.h; sourceTree = "<group>"; };
+		46EB2E00008520 /* MNSearchEntity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNSearchEntity.h; path = MapstedCore.framework/Headers/MNSearchEntity.h; sourceTree = "<group>"; };
+		46EB2E00008530 /* MNTag.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNTag.h; path = MapstedCore.framework/Headers/MNTag.h; sourceTree = "<group>"; };
+		46EB2E00008540 /* MNTextStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNTextStyle.h; path = MapstedCore.framework/Headers/MNTextStyle.h; sourceTree = "<group>"; };
+		46EB2E00008550 /* MNTrajectory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNTrajectory.h; path = MapstedCore.framework/Headers/MNTrajectory.h; sourceTree = "<group>"; };
+		46EB2E00008560 /* MNWifiDataBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNWifiDataBridge.h; path = MapstedCore.framework/Headers/MNWifiDataBridge.h; sourceTree = "<group>"; };
+		46EB2E00008570 /* MNZone.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNZone.h; path = MapstedCore.framework/Headers/MNZone.h; sourceTree = "<group>"; };
+		46EB2E00008580 /* MNZoneLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNZoneLabel.h; path = MapstedCore.framework/Headers/MNZoneLabel.h; sourceTree = "<group>"; };
+		46EB2E00008590 /* MNZoneType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MNZoneType.h; path = MapstedCore.framework/Headers/MNZoneType.h; sourceTree = "<group>"; };
+		46EB2E000085A0 /* PackageManagerHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PackageManagerHelper.h; path = MapstedCore.framework/Headers/PackageManagerHelper.h; sourceTree = "<group>"; };
+		46EB2E000085B0 /* positioning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = positioning.h; path = MapstedCore.framework/Headers/positioning.h; sourceTree = "<group>"; };
+		46EB2E000085C0 /* Searchable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Searchable.h; path = MapstedCore.framework/Headers/Searchable.h; sourceTree = "<group>"; };
+		46EB2E000085D0 /* StatusMessageType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = StatusMessageType.h; path = MapstedCore.framework/Headers/StatusMessageType.h; sourceTree = "<group>"; };
+		46EB2E000085E0 /* Geofence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Geofence.h; path = MapstedGeofence.framework/Headers/Geofence.h; sourceTree = "<group>"; };
+		46EB2E000085F0 /* MapstedGeofence-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedGeofence-Swift.h"; path = "MapstedGeofence.framework/Headers/MapstedGeofence-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00008600 /* LocationMarketing-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "LocationMarketing-Swift.h"; path = "LocationMarketing.framework/Headers/LocationMarketing-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00008610 /* LocMarketing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocMarketing.h; path = LocationMarketing.framework/Headers/LocMarketing.h; sourceTree = "<group>"; };
+		46EB2E00008620 /* MapstedMap-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedMap-Swift.h"; path = "MapstedMap.framework/Headers/MapstedMap-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00008630 /* MapstedMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedMap.h; path = MapstedMap.framework/Headers/MapstedMap.h; sourceTree = "<group>"; };
+		46EB2E00008640 /* MN-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MN-Bridging-Header.h"; path = "MapstedMap.framework/Headers/MN-Bridging-Header.h"; sourceTree = "<group>"; };
+		46EB2E00008650 /* MapstedMapUi-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedMapUi-Swift.h"; path = "MapstedMapUi.framework/Headers/MapstedMapUi-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00008660 /* mapuikit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mapuikit.h; path = MapstedMapUi.framework/Headers/mapuikit.h; sourceTree = "<group>"; };
+		46EB2E00008670 /* MapstedTriggersCore-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MapstedTriggersCore-Swift.h"; path = "MapstedTriggersCore.framework/Headers/MapstedTriggersCore-Swift.h"; sourceTree = "<group>"; };
+		46EB2E00008680 /* MapstedTriggersCore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapstedTriggersCore.h; path = MapstedTriggersCore.framework/Headers/MapstedTriggersCore.h; sourceTree = "<group>"; };
 		46EB2E000086A0 /* hermes.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = hermes.xcframework; path = destroot/Library/Frameworks/universal/hermes.xcframework; sourceTree = "<group>"; };
 		46EB2E000086C0 /* MapstedAlerts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MapstedAlerts.framework; sourceTree = "<group>"; };
 		46EB2E000086E0 /* MapstedCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MapstedCore.framework; sourceTree = "<group>"; };
@@ -10018,7 +10018,7 @@
 		46EB2E00009020 /* Yoga.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Yoga.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		46EB2E00009040 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		46EB2E00009050 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		46EB2E00009060 /* react-native-mapsted.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "react-native-mapsted.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		46EB2E00009060 /* mapsted-react-native.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "mapsted-react-native.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		46EB2E00009110 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		46EB2E00009260 /* DoubleConversion.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DoubleConversion.debug.xcconfig; sourceTree = "<group>"; };
 		46EB2E00009270 /* DoubleConversion.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DoubleConversion.release.xcconfig; sourceTree = "<group>"; };
@@ -10364,30 +10364,30 @@
 		46EB2E000177A0 /* hermes-engine-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "hermes-engine-xcframeworks.sh"; sourceTree = "<group>"; };
 		46EB2E000177B0 /* hermes-engine.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "hermes-engine.debug.xcconfig"; sourceTree = "<group>"; };
 		46EB2E000177C0 /* hermes-engine.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "hermes-engine.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017820 /* mapsted-sdk-alerts.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-alerts.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017830 /* mapsted-sdk-alerts.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-alerts.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017890 /* mapsted-sdk-core.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E000178A0 /* mapsted-sdk-core.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017900 /* mapsted-sdk-core-map-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "mapsted-sdk-core-map-xcframeworks.sh"; sourceTree = "<group>"; };
-		46EB2E00017910 /* mapsted-sdk-core-map.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core-map.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017920 /* mapsted-sdk-core-map.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core-map.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017980 /* mapsted-sdk-geofence.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-geofence.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017990 /* mapsted-sdk-geofence.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-geofence.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E000179F0 /* mapsted-sdk-loc-marketing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-loc-marketing.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017A00 /* mapsted-sdk-loc-marketing.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-loc-marketing.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017A60 /* mapsted-sdk-map.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017A70 /* mapsted-sdk-map.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017AD0 /* mapsted-sdk-map-ui.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map-ui.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017AE0 /* mapsted-sdk-map-ui.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map-ui.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017B40 /* mapsted-sdk-triggers-core.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-triggers-core.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017B50 /* mapsted-sdk-triggers-core.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-triggers-core.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017C70 /* react-native-mapsted.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "react-native-mapsted.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017C80 /* react-native-mapsted.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "react-native-mapsted.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00017C90 /* react-native-mapsted.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "react-native-mapsted.modulemap"; sourceTree = "<group>"; };
-		46EB2E00017CA0 /* react-native-mapsted-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "react-native-mapsted-umbrella.h"; sourceTree = "<group>"; };
-		46EB2E00017CC0 /* react-native-mapsted-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "react-native-mapsted-Info.plist"; sourceTree = "<group>"; };
-		46EB2E00017CD0 /* react-native-mapsted-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "react-native-mapsted-prefix.pch"; sourceTree = "<group>"; };
-		46EB2E00017CE0 /* react-native-mapsted-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "react-native-mapsted-dummy.m"; sourceTree = "<group>"; };
+		46EB2E000178E0 /* mapsted-react-native.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-react-native.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E000178F0 /* mapsted-react-native.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-react-native.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017900 /* mapsted-react-native.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "mapsted-react-native.modulemap"; sourceTree = "<group>"; };
+		46EB2E00017910 /* mapsted-react-native-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "mapsted-react-native-umbrella.h"; sourceTree = "<group>"; };
+		46EB2E00017930 /* mapsted-react-native-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "mapsted-react-native-Info.plist"; sourceTree = "<group>"; };
+		46EB2E00017940 /* mapsted-react-native-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "mapsted-react-native-prefix.pch"; sourceTree = "<group>"; };
+		46EB2E00017950 /* mapsted-react-native-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "mapsted-react-native-dummy.m"; sourceTree = "<group>"; };
+		46EB2E000179C0 /* mapsted-sdk-alerts.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-alerts.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E000179D0 /* mapsted-sdk-alerts.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-alerts.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017A30 /* mapsted-sdk-core.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017A40 /* mapsted-sdk-core.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017AA0 /* mapsted-sdk-core-map-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "mapsted-sdk-core-map-xcframeworks.sh"; sourceTree = "<group>"; };
+		46EB2E00017AB0 /* mapsted-sdk-core-map.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core-map.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017AC0 /* mapsted-sdk-core-map.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-core-map.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017B20 /* mapsted-sdk-geofence.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-geofence.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017B30 /* mapsted-sdk-geofence.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-geofence.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017B90 /* mapsted-sdk-loc-marketing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-loc-marketing.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017BA0 /* mapsted-sdk-loc-marketing.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-loc-marketing.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017C00 /* mapsted-sdk-map.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017C10 /* mapsted-sdk-map.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017C70 /* mapsted-sdk-map-ui.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map-ui.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017C80 /* mapsted-sdk-map-ui.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-map-ui.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017CE0 /* mapsted-sdk-triggers-core.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-triggers-core.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00017CF0 /* mapsted-sdk-triggers-core.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mapsted-sdk-triggers-core.release.xcconfig"; sourceTree = "<group>"; };
 		46EB2E00017D00 /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		46EB2E00017D20 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		46EB2E00017D50 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/MobileCoreServices.framework; sourceTree = DEVELOPER_DIR; };
@@ -10413,7 +10413,6 @@
 		46EB2E000180B0 /* Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		46EB2E000180C0 /* Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		46EB2E000180D0 /* Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-dempMapstedSampleApp-dempMapstedSampleAppTests-dummy.m"; sourceTree = "<group>"; };
-		4BB0FF6A79709213F784414788AA89FA /* react-native-mapsted */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "react-native-mapsted"; path = react_native_mapsted.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3E9C98444FA55E416B857143C48013 /* React-RuntimeHermes */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "React-RuntimeHermes"; path = React_RuntimeHermes.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		50340D86F86B72265A744EF610443FAE /* Pods-dempMapstedSampleApp */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-dempMapstedSampleApp"; path = Pods_dempMapstedSampleApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA54A19E2135E09B9C8C0767385FD3A /* React-graphics */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "React-graphics"; path = React_graphics.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -10428,6 +10427,7 @@
 		85A01882ED06DFEA2E0CE78BCDB204A7 /* SocketRocket */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SocketRocket; path = SocketRocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		91B23470DEB9A986332BEB5034234BC7 /* SSZipArchive */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SSZipArchive; path = SSZipArchive.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		971F6C319DDD4BD078954A5EF77B5BA7 /* React-featureflags */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "React-featureflags"; path = React_featureflags.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A098625103ACC05BF44D9366C3D5FDB /* mapsted-react-native */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "mapsted-react-native"; path = mapsted_react_native.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5B49761F8D1EB12585DD45CAA2E489F /* React-logger */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "React-logger"; path = logger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A67E85E5F06FDA406D3A1B378BDF0C5C /* React-runtimescheduler */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "React-runtimescheduler"; path = React_runtimescheduler.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A68E5A9B69A3BA0FD52CAF7A354EC93B /* React-RCTNetwork */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "React-RCTNetwork"; path = RCTNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -10842,11 +10842,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00017BD0 /* Frameworks */ = {
+		46EB2E00017840 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00017BF0 /* Foundation.framework in Frameworks */,
+				46EB2E00017860 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -10887,6 +10887,7 @@
 				6FFB7B2992BB53405E6B771A5BA1E97D /* DoubleConversion */,
 				F4BDA69E3BCB0166D49FB679ABADCA00 /* fmt */,
 				3CA7A9404CCDD6BA22C97F8348CE3209 /* glog */,
+				9A098625103ACC05BF44D9366C3D5FDB /* mapsted-react-native */,
 				50340D86F86B72265A744EF610443FAE /* Pods-dempMapstedSampleApp */,
 				3A4E7712B26C099BC4E4888DBB341E13 /* Pods-dempMapstedSampleApp-dempMapstedSampleAppTests */,
 				1936453FF2A7E3A13063C4917C4D5598 /* RCT-Folly */,
@@ -10910,7 +10911,6 @@
 				2577F299FCB0A19824FE989BE77B8E8F /* React-jsinspector */,
 				A5B49761F8D1EB12585DD45CAA2E489F /* React-logger */,
 				C941106D9D54AE237C5110F5638389AC /* React-Mapbuffer */,
-				4BB0FF6A79709213F784414788AA89FA /* react-native-mapsted */,
 				60D5A56E763D6E7C4FBE797565062EEA /* React-nativeconfig */,
 				1E649614D7644BF68C2F5D4CB3FBF8DC /* React-NativeModulesApple */,
 				666E72807891C591E025A75410CD2A26 /* React-perflogger */,
@@ -10963,14 +10963,14 @@
 				46EB2E00000400 /* fmt */,
 				46EB2E00000410 /* glog */,
 				46EB2E00000420 /* hermes-engine */,
-				46EB2E00000430 /* mapsted-sdk-alerts */,
-				46EB2E00000440 /* mapsted-sdk-core */,
-				46EB2E00000450 /* mapsted-sdk-core-map */,
-				46EB2E00000460 /* mapsted-sdk-geofence */,
-				46EB2E00000470 /* mapsted-sdk-loc-marketing */,
-				46EB2E00000480 /* mapsted-sdk-map */,
-				46EB2E00000490 /* mapsted-sdk-map-ui */,
-				46EB2E000004A0 /* mapsted-sdk-triggers-core */,
+				46EB2E00000440 /* mapsted-sdk-alerts */,
+				46EB2E00000450 /* mapsted-sdk-core */,
+				46EB2E00000460 /* mapsted-sdk-core-map */,
+				46EB2E00000470 /* mapsted-sdk-geofence */,
+				46EB2E00000480 /* mapsted-sdk-loc-marketing */,
+				46EB2E00000490 /* mapsted-sdk-map */,
+				46EB2E000004A0 /* mapsted-sdk-map-ui */,
+				46EB2E000004B0 /* mapsted-sdk-triggers-core */,
 				46EB2E000000D0 /* RCT-Folly */,
 				46EB2E000003D0 /* SocketRocket */,
 				46EB2E000003C0 /* SSZipArchive */,
@@ -10982,6 +10982,7 @@
 			isa = PBXGroup;
 			children = (
 				46EB2E000000C0 /* FBLazyVector */,
+				46EB2E00000430 /* mapsted-react-native */,
 				46EB2E000000E0 /* RCTDeprecation */,
 				46EB2E000000F0 /* RCTRequired */,
 				46EB2E00000100 /* RCTTypeSafety */,
@@ -11005,7 +11006,6 @@
 				46EB2E00000320 /* React-jsitracing */,
 				46EB2E00000330 /* React-logger */,
 				46EB2E00000180 /* React-Mapbuffer */,
-				46EB2E000004B0 /* react-native-mapsted */,
 				46EB2E00000340 /* React-nativeconfig */,
 				46EB2E00000190 /* React-NativeModulesApple */,
 				46EB2E00000350 /* React-perflogger */,
@@ -12459,220 +12459,220 @@
 			path = "hermes-engine";
 			sourceTree = "<group>";
 		};
-		46EB2E00000430 /* mapsted-sdk-alerts */ = {
+		46EB2E00000430 /* mapsted-react-native */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00007EC0 /* MapstedAlerts.h */,
-				46EB2E00007EB0 /* MapstedAlerts-Swift.h */,
+				46EB2E00007EC0 /* Mapsted.m */,
+				46EB2E00007ED0 /* Mapsted.swift */,
+				46EB2E00007EB0 /* Mapsted-Bridging-Header.h */,
+				46EB2E00007EE0 /* RNMapsted.storyboard */,
+				46EB2E00007EF0 /* RNMapsted.swift */,
+				46EB2E00007F00 /* RNMapstedPropListViewController.swift */,
+				46EB2E00009030 /* Pod */,
+				46EB2E000178D0 /* Support Files */,
+			);
+			name = "mapsted-react-native";
+			path = "../../node_modules/mapsted-react-native";
+			sourceTree = "<group>";
+		};
+		46EB2E00000440 /* mapsted-sdk-alerts */ = {
+			isa = PBXGroup;
+			children = (
+				46EB2E00007F20 /* MapstedAlerts.h */,
+				46EB2E00007F10 /* MapstedAlerts-Swift.h */,
 				46EB2E000086B0 /* Frameworks */,
-				46EB2E00017810 /* Support Files */,
+				46EB2E000179B0 /* Support Files */,
 			);
 			name = "mapsted-sdk-alerts";
 			path = "mapsted-sdk-alerts";
 			sourceTree = "<group>";
 		};
-		46EB2E00000440 /* mapsted-sdk-core */ = {
+		46EB2E00000450 /* mapsted-sdk-core */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00007ED0 /* CppBuildingLocationCriteria.h */,
-				46EB2E00007EE0 /* CppFloorLocationCriteria.h */,
-				46EB2E00007EF0 /* CppGeofenceTriggerBuilder.h */,
-				46EB2E00007F00 /* CppPoiVicinityLocationCriteria.h */,
-				46EB2E00007F10 /* CppPropertyLocationCriteria.h */,
-				46EB2E00007F20 /* EnumLocationCriteriaTriggerDirection.h */,
-				46EB2E00007F30 /* EnumLocationCriteriaTriggerType.h */,
-				46EB2E00007F40 /* EnumSdkError.h */,
-				46EB2E00007F50 /* EnumSdkMode.h */,
-				46EB2E00007F60 /* EnumSdkUpdate.h */,
-				46EB2E00007F70 /* EnumSensorType.h */,
-				46EB2E00007F80 /* EnumValidBlueDotError.h */,
-				46EB2E00007F90 /* ICppLocationCriteria.h */,
-				46EB2E00007FA0 /* MapPackageManagerWrapper.h */,
-				46EB2E00007FB0 /* MapstedAnalyticsApi.h */,
-				46EB2E00007FC0 /* MapstedAnalyticsManager.h */,
-				46EB2E00007FE0 /* MapstedCore.h */,
-				46EB2E00007FD0 /* MapstedCore-Swift.h */,
-				46EB2E00007FF0 /* MNAnalyticsBundle.h */,
-				46EB2E00008000 /* MNBleDataBridge.h */,
-				46EB2E00008010 /* MNBuildingData.h */,
-				46EB2E00008020 /* MNBuildingEntities.h */,
-				46EB2E00008030 /* MNBuildingInfo.h */,
-				46EB2E00008040 /* MNBuildingPoints.h */,
-				46EB2E00008050 /* MNBuildingPolygons.h */,
-				46EB2E00008060 /* MNBuildingPolylines.h */,
-				46EB2E00008070 /* MNBuildingSearchEntities.h */,
-				46EB2E00008080 /* MNCategory.h */,
-				46EB2E00008090 /* MNColour.h */,
-				46EB2E000080A0 /* MNConfidence.h */,
-				46EB2E000080B0 /* MNContentType.h */,
-				46EB2E000080C0 /* MNDailyBusinessHour.h */,
-				46EB2E000080D0 /* MNDataType.h */,
-				46EB2E000080E0 /* MNEntityZone.h */,
-				46EB2E000080F0 /* MNEvent.h */,
-				46EB2E00008100 /* MNFloorInfo.h */,
-				46EB2E00008110 /* MNGPSLoc.h */,
-				46EB2E00008120 /* MNHoursOfOperation.h */,
-				46EB2E00008130 /* MNIconStyle.h */,
-				46EB2E00008140 /* MNIdType.h */,
-				46EB2E00008150 /* MNLanguageType.h */,
-				46EB2E00008160 /* MNLatLng.h */,
-				46EB2E00008170 /* MNLayerStyle.h */,
-				46EB2E00008180 /* MNLineStyle.h */,
-				46EB2E00008190 /* MNMapEntity.h */,
-				46EB2E000081A0 /* MNMapPerspective.h */,
-				46EB2E000081B0 /* MNMapPoint.h */,
-				46EB2E000081C0 /* MNMapPolygon.h */,
-				46EB2E000081D0 /* MNMapPolyline.h */,
-				46EB2E000081E0 /* MNMapstedLib.h */,
-				46EB2E000081F0 /* MNMapstedTestingKey.h */,
-				46EB2E00008200 /* MNMercator.h */,
-				46EB2E00008210 /* MNMercatorBoundary.h */,
-				46EB2E00008220 /* MNMercatorLoc.h */,
-				46EB2E00008230 /* MNMercatorZone.h */,
-				46EB2E00008240 /* MNObjcDateUtils.h */,
-				46EB2E00008250 /* MNObjcUnitUtils.h */,
-				46EB2E00008260 /* MNObjectDataMap.h */,
-				46EB2E00008270 /* MNPackageStatus.h */,
-				46EB2E00008280 /* MNPackageType.h */,
-				46EB2E00008290 /* MNParsedBuildingDataItem.h */,
-				46EB2E000082A0 /* MNParsedBuildingDataResponse.h */,
-				46EB2E000082B0 /* MNParsedBuildingLanguageDataItem.h */,
-				46EB2E000082C0 /* MNParsedContentResponse.h */,
-				46EB2E000082D0 /* MNParsedDataItem.h */,
-				46EB2E000082E0 /* MNParsedDataResponse.h */,
-				46EB2E000082F0 /* MNParsedLanguageDataItem.h */,
-				46EB2E00008300 /* MNParsedPropertyDataItem.h */,
-				46EB2E00008310 /* MNParsedPropertyDataResponse.h */,
-				46EB2E00008320 /* MNParsedPropertyLanguageDataItem.h */,
-				46EB2E00008330 /* MNParsedPropertyListAndCategoryResponse.h */,
-				46EB2E00008340 /* MNPbZone.h */,
-				46EB2E00008350 /* MNPointStyle.h */,
-				46EB2E00008360 /* MNPolygonHighlight.h */,
-				46EB2E00008370 /* MNPolygonStyle.h */,
-				46EB2E00008380 /* MNPosition.h */,
-				46EB2E00008390 /* MNPositioningMode.h */,
-				46EB2E000083A0 /* MNPropertyData.h */,
-				46EB2E000083B0 /* MNPropertyEntities.h */,
-				46EB2E000083C0 /* MNPropertyInfo.h */,
-				46EB2E000083D0 /* MNPropertyPoints.h */,
-				46EB2E000083E0 /* MNPropertyPolygons.h */,
-				46EB2E000083F0 /* MNPropertyPolylines.h */,
-				46EB2E00008400 /* MNPropertySearchEntities.h */,
-				46EB2E00008410 /* MNPropertySearchFilters.h */,
-				46EB2E00008420 /* MNRegion.h */,
-				46EB2E00008430 /* MNRoute.h */,
-				46EB2E00008440 /* MNRouteDistanceTime.h */,
-				46EB2E00008450 /* MNRouteNode.h */,
-				46EB2E00008460 /* MNRouteOptions.h */,
-				46EB2E00008470 /* MNRouteRequest.h */,
-				46EB2E00008480 /* MNRouteResponse.h */,
-				46EB2E00008490 /* MNRouteSegment.h */,
-				46EB2E000084A0 /* MNRouteUserProgress.h */,
-				46EB2E000084B0 /* MNSDKPermissions.h */,
-				46EB2E000084C0 /* MNSearchEntity.h */,
-				46EB2E000084D0 /* MNTag.h */,
-				46EB2E000084E0 /* MNTextStyle.h */,
-				46EB2E000084F0 /* MNTrajectory.h */,
-				46EB2E00008500 /* MNWifiDataBridge.h */,
-				46EB2E00008510 /* MNZone.h */,
-				46EB2E00008520 /* MNZoneLabel.h */,
-				46EB2E00008530 /* MNZoneType.h */,
-				46EB2E00008540 /* PackageManagerHelper.h */,
-				46EB2E00008550 /* positioning.h */,
-				46EB2E00008560 /* Searchable.h */,
-				46EB2E00008570 /* StatusMessageType.h */,
+				46EB2E00007F30 /* CppBuildingLocationCriteria.h */,
+				46EB2E00007F40 /* CppFloorLocationCriteria.h */,
+				46EB2E00007F50 /* CppGeofenceTriggerBuilder.h */,
+				46EB2E00007F60 /* CppPoiVicinityLocationCriteria.h */,
+				46EB2E00007F70 /* CppPropertyLocationCriteria.h */,
+				46EB2E00007F80 /* EnumLocationCriteriaTriggerDirection.h */,
+				46EB2E00007F90 /* EnumLocationCriteriaTriggerType.h */,
+				46EB2E00007FA0 /* EnumSdkError.h */,
+				46EB2E00007FB0 /* EnumSdkMode.h */,
+				46EB2E00007FC0 /* EnumSdkUpdate.h */,
+				46EB2E00007FD0 /* EnumSensorType.h */,
+				46EB2E00007FE0 /* EnumValidBlueDotError.h */,
+				46EB2E00007FF0 /* ICppLocationCriteria.h */,
+				46EB2E00008000 /* MapPackageManagerWrapper.h */,
+				46EB2E00008010 /* MapstedAnalyticsApi.h */,
+				46EB2E00008020 /* MapstedAnalyticsManager.h */,
+				46EB2E00008040 /* MapstedCore.h */,
+				46EB2E00008030 /* MapstedCore-Swift.h */,
+				46EB2E00008050 /* MNAnalyticsBundle.h */,
+				46EB2E00008060 /* MNBleDataBridge.h */,
+				46EB2E00008070 /* MNBuildingData.h */,
+				46EB2E00008080 /* MNBuildingEntities.h */,
+				46EB2E00008090 /* MNBuildingInfo.h */,
+				46EB2E000080A0 /* MNBuildingPoints.h */,
+				46EB2E000080B0 /* MNBuildingPolygons.h */,
+				46EB2E000080C0 /* MNBuildingPolylines.h */,
+				46EB2E000080D0 /* MNBuildingSearchEntities.h */,
+				46EB2E000080E0 /* MNCategory.h */,
+				46EB2E000080F0 /* MNColour.h */,
+				46EB2E00008100 /* MNConfidence.h */,
+				46EB2E00008110 /* MNContentType.h */,
+				46EB2E00008120 /* MNDailyBusinessHour.h */,
+				46EB2E00008130 /* MNDataType.h */,
+				46EB2E00008140 /* MNEntityZone.h */,
+				46EB2E00008150 /* MNEvent.h */,
+				46EB2E00008160 /* MNFloorInfo.h */,
+				46EB2E00008170 /* MNGPSLoc.h */,
+				46EB2E00008180 /* MNHoursOfOperation.h */,
+				46EB2E00008190 /* MNIconStyle.h */,
+				46EB2E000081A0 /* MNIdType.h */,
+				46EB2E000081B0 /* MNLanguageType.h */,
+				46EB2E000081C0 /* MNLatLng.h */,
+				46EB2E000081D0 /* MNLayerStyle.h */,
+				46EB2E000081E0 /* MNLineStyle.h */,
+				46EB2E000081F0 /* MNMapEntity.h */,
+				46EB2E00008200 /* MNMapPerspective.h */,
+				46EB2E00008210 /* MNMapPoint.h */,
+				46EB2E00008220 /* MNMapPolygon.h */,
+				46EB2E00008230 /* MNMapPolyline.h */,
+				46EB2E00008240 /* MNMapstedLib.h */,
+				46EB2E00008250 /* MNMapstedTestingKey.h */,
+				46EB2E00008260 /* MNMercator.h */,
+				46EB2E00008270 /* MNMercatorBoundary.h */,
+				46EB2E00008280 /* MNMercatorLoc.h */,
+				46EB2E00008290 /* MNMercatorZone.h */,
+				46EB2E000082A0 /* MNObjcDateUtils.h */,
+				46EB2E000082B0 /* MNObjcUnitUtils.h */,
+				46EB2E000082C0 /* MNObjectDataMap.h */,
+				46EB2E000082D0 /* MNPackageStatus.h */,
+				46EB2E000082E0 /* MNPackageType.h */,
+				46EB2E000082F0 /* MNParsedBuildingDataItem.h */,
+				46EB2E00008300 /* MNParsedBuildingDataResponse.h */,
+				46EB2E00008310 /* MNParsedBuildingLanguageDataItem.h */,
+				46EB2E00008320 /* MNParsedContentResponse.h */,
+				46EB2E00008330 /* MNParsedDataItem.h */,
+				46EB2E00008340 /* MNParsedDataResponse.h */,
+				46EB2E00008350 /* MNParsedLanguageDataItem.h */,
+				46EB2E00008360 /* MNParsedPropertyDataItem.h */,
+				46EB2E00008370 /* MNParsedPropertyDataResponse.h */,
+				46EB2E00008380 /* MNParsedPropertyLanguageDataItem.h */,
+				46EB2E00008390 /* MNParsedPropertyListAndCategoryResponse.h */,
+				46EB2E000083A0 /* MNPbZone.h */,
+				46EB2E000083B0 /* MNPointStyle.h */,
+				46EB2E000083C0 /* MNPolygonHighlight.h */,
+				46EB2E000083D0 /* MNPolygonStyle.h */,
+				46EB2E000083E0 /* MNPosition.h */,
+				46EB2E000083F0 /* MNPositioningMode.h */,
+				46EB2E00008400 /* MNPropertyData.h */,
+				46EB2E00008410 /* MNPropertyEntities.h */,
+				46EB2E00008420 /* MNPropertyInfo.h */,
+				46EB2E00008430 /* MNPropertyPoints.h */,
+				46EB2E00008440 /* MNPropertyPolygons.h */,
+				46EB2E00008450 /* MNPropertyPolylines.h */,
+				46EB2E00008460 /* MNPropertySearchEntities.h */,
+				46EB2E00008470 /* MNPropertySearchFilters.h */,
+				46EB2E00008480 /* MNRegion.h */,
+				46EB2E00008490 /* MNRoute.h */,
+				46EB2E000084A0 /* MNRouteDistanceTime.h */,
+				46EB2E000084B0 /* MNRouteNode.h */,
+				46EB2E000084C0 /* MNRouteOptions.h */,
+				46EB2E000084D0 /* MNRouteRequest.h */,
+				46EB2E000084E0 /* MNRouteResponse.h */,
+				46EB2E000084F0 /* MNRouteSegment.h */,
+				46EB2E00008500 /* MNRouteUserProgress.h */,
+				46EB2E00008510 /* MNSDKPermissions.h */,
+				46EB2E00008520 /* MNSearchEntity.h */,
+				46EB2E00008530 /* MNTag.h */,
+				46EB2E00008540 /* MNTextStyle.h */,
+				46EB2E00008550 /* MNTrajectory.h */,
+				46EB2E00008560 /* MNWifiDataBridge.h */,
+				46EB2E00008570 /* MNZone.h */,
+				46EB2E00008580 /* MNZoneLabel.h */,
+				46EB2E00008590 /* MNZoneType.h */,
+				46EB2E000085A0 /* PackageManagerHelper.h */,
+				46EB2E000085B0 /* positioning.h */,
+				46EB2E000085C0 /* Searchable.h */,
+				46EB2E000085D0 /* StatusMessageType.h */,
 				46EB2E000086D0 /* Frameworks */,
-				46EB2E00017880 /* Support Files */,
+				46EB2E00017A20 /* Support Files */,
 			);
 			name = "mapsted-sdk-core";
 			path = "mapsted-sdk-core";
 			sourceTree = "<group>";
 		};
-		46EB2E00000450 /* mapsted-sdk-core-map */ = {
+		46EB2E00000460 /* mapsted-sdk-core-map */ = {
 			isa = PBXGroup;
 			children = (
 				46EB2E000086F0 /* Frameworks */,
-				46EB2E000178F0 /* Support Files */,
+				46EB2E00017A90 /* Support Files */,
 			);
 			name = "mapsted-sdk-core-map";
 			path = "mapsted-sdk-core-map";
 			sourceTree = "<group>";
 		};
-		46EB2E00000460 /* mapsted-sdk-geofence */ = {
+		46EB2E00000470 /* mapsted-sdk-geofence */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00008580 /* Geofence.h */,
-				46EB2E00008590 /* MapstedGeofence-Swift.h */,
+				46EB2E000085E0 /* Geofence.h */,
+				46EB2E000085F0 /* MapstedGeofence-Swift.h */,
 				46EB2E00008710 /* Frameworks */,
-				46EB2E00017970 /* Support Files */,
+				46EB2E00017B10 /* Support Files */,
 			);
 			name = "mapsted-sdk-geofence";
 			path = "mapsted-sdk-geofence";
 			sourceTree = "<group>";
 		};
-		46EB2E00000470 /* mapsted-sdk-loc-marketing */ = {
+		46EB2E00000480 /* mapsted-sdk-loc-marketing */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E000085A0 /* LocationMarketing-Swift.h */,
-				46EB2E000085B0 /* LocMarketing.h */,
+				46EB2E00008600 /* LocationMarketing-Swift.h */,
+				46EB2E00008610 /* LocMarketing.h */,
 				46EB2E00008730 /* Frameworks */,
-				46EB2E000179E0 /* Support Files */,
+				46EB2E00017B80 /* Support Files */,
 			);
 			name = "mapsted-sdk-loc-marketing";
 			path = "mapsted-sdk-loc-marketing";
 			sourceTree = "<group>";
 		};
-		46EB2E00000480 /* mapsted-sdk-map */ = {
+		46EB2E00000490 /* mapsted-sdk-map */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E000085D0 /* MapstedMap.h */,
-				46EB2E000085C0 /* MapstedMap-Swift.h */,
-				46EB2E000085E0 /* MN-Bridging-Header.h */,
+				46EB2E00008630 /* MapstedMap.h */,
+				46EB2E00008620 /* MapstedMap-Swift.h */,
+				46EB2E00008640 /* MN-Bridging-Header.h */,
 				46EB2E00008750 /* Frameworks */,
-				46EB2E00017A50 /* Support Files */,
+				46EB2E00017BF0 /* Support Files */,
 			);
 			name = "mapsted-sdk-map";
 			path = "mapsted-sdk-map";
 			sourceTree = "<group>";
 		};
-		46EB2E00000490 /* mapsted-sdk-map-ui */ = {
+		46EB2E000004A0 /* mapsted-sdk-map-ui */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E000085F0 /* MapstedMapUi-Swift.h */,
-				46EB2E00008600 /* mapuikit.h */,
+				46EB2E00008650 /* MapstedMapUi-Swift.h */,
+				46EB2E00008660 /* mapuikit.h */,
 				46EB2E00008770 /* Frameworks */,
-				46EB2E00017AC0 /* Support Files */,
+				46EB2E00017C60 /* Support Files */,
 			);
 			name = "mapsted-sdk-map-ui";
 			path = "mapsted-sdk-map-ui";
 			sourceTree = "<group>";
 		};
-		46EB2E000004A0 /* mapsted-sdk-triggers-core */ = {
+		46EB2E000004B0 /* mapsted-sdk-triggers-core */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00008620 /* MapstedTriggersCore.h */,
-				46EB2E00008610 /* MapstedTriggersCore-Swift.h */,
+				46EB2E00008680 /* MapstedTriggersCore.h */,
+				46EB2E00008670 /* MapstedTriggersCore-Swift.h */,
 				46EB2E000087B0 /* Frameworks */,
-				46EB2E00017B30 /* Support Files */,
+				46EB2E00017CD0 /* Support Files */,
 			);
 			name = "mapsted-sdk-triggers-core";
 			path = "mapsted-sdk-triggers-core";
-			sourceTree = "<group>";
-		};
-		46EB2E000004B0 /* react-native-mapsted */ = {
-			isa = PBXGroup;
-			children = (
-				46EB2E00008640 /* Mapsted.m */,
-				46EB2E00008650 /* Mapsted.swift */,
-				46EB2E00008630 /* Mapsted-Bridging-Header.h */,
-				46EB2E00008660 /* RNMapsted.storyboard */,
-				46EB2E00008670 /* RNMapsted.swift */,
-				46EB2E00008680 /* RNMapstedPropListViewController.swift */,
-				46EB2E00009030 /* Pod */,
-				46EB2E00017C60 /* Support Files */,
-			);
-			name = "react-native-mapsted";
-			path = "../../node_modules/react-native-mapsted";
 			sourceTree = "<group>";
 		};
 		46EB2E00001A00 /* Fabric */ = {
@@ -15212,7 +15212,7 @@
 			isa = PBXGroup;
 			children = (
 				46EB2E00009040 /* LICENSE */,
-				46EB2E00009060 /* react-native-mapsted.podspec */,
+				46EB2E00009060 /* mapsted-react-native.podspec */,
 				46EB2E00009050 /* README.md */,
 			);
 			name = Pod;
@@ -16025,100 +16025,100 @@
 			path = "../Target Support Files/hermes-engine";
 			sourceTree = "<group>";
 		};
-		46EB2E00017810 /* Support Files */ = {
+		46EB2E000178D0 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017820 /* mapsted-sdk-alerts.debug.xcconfig */,
-				46EB2E00017830 /* mapsted-sdk-alerts.release.xcconfig */,
+				46EB2E00017900 /* mapsted-react-native.modulemap */,
+				46EB2E00017950 /* mapsted-react-native-dummy.m */,
+				46EB2E00017930 /* mapsted-react-native-Info.plist */,
+				46EB2E00017940 /* mapsted-react-native-prefix.pch */,
+				46EB2E00017910 /* mapsted-react-native-umbrella.h */,
+				46EB2E000178E0 /* mapsted-react-native.debug.xcconfig */,
+				46EB2E000178F0 /* mapsted-react-native.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../ios/Pods/Target Support Files/mapsted-react-native";
+			sourceTree = "<group>";
+		};
+		46EB2E000179B0 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				46EB2E000179C0 /* mapsted-sdk-alerts.debug.xcconfig */,
+				46EB2E000179D0 /* mapsted-sdk-alerts.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-alerts";
 			sourceTree = "<group>";
 		};
-		46EB2E00017880 /* Support Files */ = {
+		46EB2E00017A20 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017890 /* mapsted-sdk-core.debug.xcconfig */,
-				46EB2E000178A0 /* mapsted-sdk-core.release.xcconfig */,
+				46EB2E00017A30 /* mapsted-sdk-core.debug.xcconfig */,
+				46EB2E00017A40 /* mapsted-sdk-core.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-core";
 			sourceTree = "<group>";
 		};
-		46EB2E000178F0 /* Support Files */ = {
+		46EB2E00017A90 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017900 /* mapsted-sdk-core-map-xcframeworks.sh */,
-				46EB2E00017910 /* mapsted-sdk-core-map.debug.xcconfig */,
-				46EB2E00017920 /* mapsted-sdk-core-map.release.xcconfig */,
+				46EB2E00017AA0 /* mapsted-sdk-core-map-xcframeworks.sh */,
+				46EB2E00017AB0 /* mapsted-sdk-core-map.debug.xcconfig */,
+				46EB2E00017AC0 /* mapsted-sdk-core-map.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-core-map";
 			sourceTree = "<group>";
 		};
-		46EB2E00017970 /* Support Files */ = {
+		46EB2E00017B10 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017980 /* mapsted-sdk-geofence.debug.xcconfig */,
-				46EB2E00017990 /* mapsted-sdk-geofence.release.xcconfig */,
+				46EB2E00017B20 /* mapsted-sdk-geofence.debug.xcconfig */,
+				46EB2E00017B30 /* mapsted-sdk-geofence.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-geofence";
 			sourceTree = "<group>";
 		};
-		46EB2E000179E0 /* Support Files */ = {
+		46EB2E00017B80 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E000179F0 /* mapsted-sdk-loc-marketing.debug.xcconfig */,
-				46EB2E00017A00 /* mapsted-sdk-loc-marketing.release.xcconfig */,
+				46EB2E00017B90 /* mapsted-sdk-loc-marketing.debug.xcconfig */,
+				46EB2E00017BA0 /* mapsted-sdk-loc-marketing.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-loc-marketing";
 			sourceTree = "<group>";
 		};
-		46EB2E00017A50 /* Support Files */ = {
+		46EB2E00017BF0 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017A60 /* mapsted-sdk-map.debug.xcconfig */,
-				46EB2E00017A70 /* mapsted-sdk-map.release.xcconfig */,
+				46EB2E00017C00 /* mapsted-sdk-map.debug.xcconfig */,
+				46EB2E00017C10 /* mapsted-sdk-map.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-map";
 			sourceTree = "<group>";
 		};
-		46EB2E00017AC0 /* Support Files */ = {
+		46EB2E00017C60 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017AD0 /* mapsted-sdk-map-ui.debug.xcconfig */,
-				46EB2E00017AE0 /* mapsted-sdk-map-ui.release.xcconfig */,
+				46EB2E00017C70 /* mapsted-sdk-map-ui.debug.xcconfig */,
+				46EB2E00017C80 /* mapsted-sdk-map-ui.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-map-ui";
 			sourceTree = "<group>";
 		};
-		46EB2E00017B30 /* Support Files */ = {
+		46EB2E00017CD0 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00017B40 /* mapsted-sdk-triggers-core.debug.xcconfig */,
-				46EB2E00017B50 /* mapsted-sdk-triggers-core.release.xcconfig */,
+				46EB2E00017CE0 /* mapsted-sdk-triggers-core.debug.xcconfig */,
+				46EB2E00017CF0 /* mapsted-sdk-triggers-core.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mapsted-sdk-triggers-core";
-			sourceTree = "<group>";
-		};
-		46EB2E00017C60 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				46EB2E00017C90 /* react-native-mapsted.modulemap */,
-				46EB2E00017CE0 /* react-native-mapsted-dummy.m */,
-				46EB2E00017CC0 /* react-native-mapsted-Info.plist */,
-				46EB2E00017CD0 /* react-native-mapsted-prefix.pch */,
-				46EB2E00017CA0 /* react-native-mapsted-umbrella.h */,
-				46EB2E00017C70 /* react-native-mapsted.debug.xcconfig */,
-				46EB2E00017C80 /* react-native-mapsted.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../../ios/Pods/Target Support Files/react-native-mapsted";
 			sourceTree = "<group>";
 		};
 		46EB2E00017ED0 /* Pods-dempMapstedSampleApp */ = {
@@ -17763,12 +17763,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00017BB0 /* Headers */ = {
+		46EB2E00017820 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00017C40 /* Mapsted-Bridging-Header.h in Headers */,
-				46EB2E00017CB0 /* react-native-mapsted-umbrella.h in Headers */,
+				46EB2E000178B0 /* Mapsted-Bridging-Header.h in Headers */,
+				46EB2E00017920 /* mapsted-react-native-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -18733,46 +18733,6 @@
 			productReference = 61A80F68AE163B384B7D7A9E76B6046C /* React-FabricImage */;
 			productType = "com.apple.product-type.framework";
 		};
-		A695075D689E6EB598DF7FB13AE1F44E /* react-native-mapsted */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 46EB2E00017B70 /* Build configuration list for PBXNativeTarget "react-native-mapsted" */;
-			buildPhases = (
-				46EB2E00017BB0 /* Headers */,
-				46EB2E00017BC0 /* Sources */,
-				46EB2E00017BD0 /* Frameworks */,
-				46EB2E00017BE0 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				46EB2E0001C060 /* PBXTargetDependency */,
-				46EB2E0001BE60 /* PBXTargetDependency */,
-				46EB2E0001BEE0 /* PBXTargetDependency */,
-				46EB2E0001BF00 /* PBXTargetDependency */,
-				46EB2E0001BEC0 /* PBXTargetDependency */,
-				46EB2E0001BE40 /* PBXTargetDependency */,
-				46EB2E0001BF80 /* PBXTargetDependency */,
-				46EB2E0001C020 /* PBXTargetDependency */,
-				46EB2E0001BF40 /* PBXTargetDependency */,
-				46EB2E0001BEA0 /* PBXTargetDependency */,
-				46EB2E0001C000 /* PBXTargetDependency */,
-				46EB2E0001BFE0 /* PBXTargetDependency */,
-				46EB2E0001BFA0 /* PBXTargetDependency */,
-				46EB2E0001C040 /* PBXTargetDependency */,
-				46EB2E0001BFC0 /* PBXTargetDependency */,
-				46EB2E0001BF20 /* PBXTargetDependency */,
-				46EB2E0001BF60 /* PBXTargetDependency */,
-				46EB2E0001BE80 /* PBXTargetDependency */,
-				46EB2E0001C080 /* PBXTargetDependency */,
-				46EB2E0001BE20 /* PBXTargetDependency */,
-				46EB2E0001BDE0 /* PBXTargetDependency */,
-				46EB2E0001BE00 /* PBXTargetDependency */,
-			);
-			name = "react-native-mapsted";
-			productName = react_native_mapsted;
-			productReference = 4BB0FF6A79709213F784414788AA89FA /* react-native-mapsted */;
-			productType = "com.apple.product-type.framework";
-		};
 		B5E1D7706FCB7EC5FF39F8CDA49A5653 /* React-ImageManager */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 46EB2E00010E70 /* Build configuration list for PBXNativeTarget "React-ImageManager" */;
@@ -19200,6 +19160,46 @@
 			productReference = 666E72807891C591E025A75410CD2A26 /* React-perflogger */;
 			productType = "com.apple.product-type.framework";
 		};
+		F34ADC04798B3B03A65A2F3F34073A95 /* mapsted-react-native */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 46EB2E000177E0 /* Build configuration list for PBXNativeTarget "mapsted-react-native" */;
+			buildPhases = (
+				46EB2E00017820 /* Headers */,
+				46EB2E00017830 /* Sources */,
+				46EB2E00017840 /* Frameworks */,
+				46EB2E00017850 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				46EB2E0001BF20 /* PBXTargetDependency */,
+				46EB2E0001BD20 /* PBXTargetDependency */,
+				46EB2E0001BDA0 /* PBXTargetDependency */,
+				46EB2E0001BDC0 /* PBXTargetDependency */,
+				46EB2E0001BD80 /* PBXTargetDependency */,
+				46EB2E0001BD00 /* PBXTargetDependency */,
+				46EB2E0001BE40 /* PBXTargetDependency */,
+				46EB2E0001BEE0 /* PBXTargetDependency */,
+				46EB2E0001BE00 /* PBXTargetDependency */,
+				46EB2E0001BD60 /* PBXTargetDependency */,
+				46EB2E0001BEC0 /* PBXTargetDependency */,
+				46EB2E0001BEA0 /* PBXTargetDependency */,
+				46EB2E0001BE60 /* PBXTargetDependency */,
+				46EB2E0001BF00 /* PBXTargetDependency */,
+				46EB2E0001BE80 /* PBXTargetDependency */,
+				46EB2E0001BDE0 /* PBXTargetDependency */,
+				46EB2E0001BE20 /* PBXTargetDependency */,
+				46EB2E0001BD40 /* PBXTargetDependency */,
+				46EB2E0001BF40 /* PBXTargetDependency */,
+				46EB2E0001BCE0 /* PBXTargetDependency */,
+				46EB2E0001BCA0 /* PBXTargetDependency */,
+				46EB2E0001BCC0 /* PBXTargetDependency */,
+			);
+			name = "mapsted-react-native";
+			productName = mapsted_react_native;
+			productReference = 9A098625103ACC05BF44D9366C3D5FDB /* mapsted-react-native */;
+			productType = "com.apple.product-type.framework";
+		};
 		F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 46EB2E00016110 /* Build configuration list for PBXNativeTarget "SSZipArchive" */;
@@ -19331,6 +19331,7 @@
 				02B79DFED924FA19CA90EC69614733E1 /* fmt */,
 				D0EFEFB685D97280256C559792236873 /* glog */,
 				985FEA01F314F3C00F0C1E1181E6C4A5 /* hermes-engine */,
+				F34ADC04798B3B03A65A2F3F34073A95 /* mapsted-react-native */,
 				E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */,
 				C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */,
 				B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */,
@@ -19366,7 +19367,6 @@
 				718331030FAA6D88E74D4B2240BB4AC8 /* React-jsitracing */,
 				083B602EA19B4AD50EC53C0602F29A7D /* React-logger */,
 				091003D98BDA80B01B9E35CADE3947F0 /* React-Mapbuffer */,
-				A695075D689E6EB598DF7FB13AE1F44E /* react-native-mapsted */,
 				B69D68A280EC3E60655BD2C715ACB004 /* React-nativeconfig */,
 				5807741745EB757C97C09F2D56726BE0 /* React-NativeModulesApple */,
 				F1E2583679398CB5F4D2B3272E9B198F /* React-perflogger */,
@@ -19765,7 +19765,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00017BE0 /* Resources */ = {
+		46EB2E00017850 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -21225,16 +21225,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00017BC0 /* Sources */ = {
+		46EB2E00017830 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00017C00 /* Mapsted.m in Sources */,
-				46EB2E00017C10 /* Mapsted.swift in Sources */,
-				46EB2E00017CF0 /* react-native-mapsted-dummy.m in Sources */,
-				46EB2E00017C50 /* RNMapsted.storyboard in Sources */,
-				46EB2E00017C20 /* RNMapsted.swift in Sources */,
-				46EB2E00017C30 /* RNMapstedPropListViewController.swift in Sources */,
+				46EB2E00017870 /* Mapsted.m in Sources */,
+				46EB2E00017880 /* Mapsted.swift in Sources */,
+				46EB2E00017960 /* mapsted-react-native-dummy.m in Sources */,
+				46EB2E000178C0 /* RNMapsted.storyboard in Sources */,
+				46EB2E00017890 /* RNMapsted.swift in Sources */,
+				46EB2E000178A0 /* RNMapstedPropListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -21595,56 +21595,56 @@
 		};
 		46EB2E00018850 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-alerts";
-			target = E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */;
+			name = "mapsted-react-native";
+			target = F34ADC04798B3B03A65A2F3F34073A95 /* mapsted-react-native */;
 			targetProxy = 46EB2E00018840 /* PBXContainerItemProxy */;
 		};
 		46EB2E00018870 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core";
-			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
+			name = "mapsted-sdk-alerts";
+			target = E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */;
 			targetProxy = 46EB2E00018860 /* PBXContainerItemProxy */;
 		};
 		46EB2E00018890 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core-map";
-			target = B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */;
+			name = "mapsted-sdk-core";
+			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
 			targetProxy = 46EB2E00018880 /* PBXContainerItemProxy */;
 		};
 		46EB2E000188B0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-geofence";
-			target = 31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */;
+			name = "mapsted-sdk-core-map";
+			target = B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */;
 			targetProxy = 46EB2E000188A0 /* PBXContainerItemProxy */;
 		};
 		46EB2E000188D0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-loc-marketing";
-			target = 196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */;
+			name = "mapsted-sdk-geofence";
+			target = 31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */;
 			targetProxy = 46EB2E000188C0 /* PBXContainerItemProxy */;
 		};
 		46EB2E000188F0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map";
-			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
+			name = "mapsted-sdk-loc-marketing";
+			target = 196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */;
 			targetProxy = 46EB2E000188E0 /* PBXContainerItemProxy */;
 		};
 		46EB2E00018910 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map-ui";
-			target = DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */;
+			name = "mapsted-sdk-map";
+			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
 			targetProxy = 46EB2E00018900 /* PBXContainerItemProxy */;
 		};
 		46EB2E00018930 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-triggers-core";
-			target = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */;
+			name = "mapsted-sdk-map-ui";
+			target = DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */;
 			targetProxy = 46EB2E00018920 /* PBXContainerItemProxy */;
 		};
 		46EB2E00018950 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "react-native-mapsted";
-			target = A695075D689E6EB598DF7FB13AE1F44E /* react-native-mapsted */;
+			name = "mapsted-sdk-triggers-core";
+			target = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */;
 			targetProxy = 46EB2E00018940 /* PBXContainerItemProxy */;
 		};
 		46EB2E00018970 /* PBXTargetDependency */ = {
@@ -21985,56 +21985,56 @@
 		};
 		46EB2E00019070 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-alerts";
-			target = E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */;
+			name = "mapsted-react-native";
+			target = F34ADC04798B3B03A65A2F3F34073A95 /* mapsted-react-native */;
 			targetProxy = 46EB2E00019060 /* PBXContainerItemProxy */;
 		};
 		46EB2E00019090 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core";
-			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
+			name = "mapsted-sdk-alerts";
+			target = E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */;
 			targetProxy = 46EB2E00019080 /* PBXContainerItemProxy */;
 		};
 		46EB2E000190B0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core-map";
-			target = B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */;
+			name = "mapsted-sdk-core";
+			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
 			targetProxy = 46EB2E000190A0 /* PBXContainerItemProxy */;
 		};
 		46EB2E000190D0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-geofence";
-			target = 31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */;
+			name = "mapsted-sdk-core-map";
+			target = B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */;
 			targetProxy = 46EB2E000190C0 /* PBXContainerItemProxy */;
 		};
 		46EB2E000190F0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-loc-marketing";
-			target = 196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */;
+			name = "mapsted-sdk-geofence";
+			target = 31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */;
 			targetProxy = 46EB2E000190E0 /* PBXContainerItemProxy */;
 		};
 		46EB2E00019110 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map";
-			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
+			name = "mapsted-sdk-loc-marketing";
+			target = 196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */;
 			targetProxy = 46EB2E00019100 /* PBXContainerItemProxy */;
 		};
 		46EB2E00019130 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map-ui";
-			target = DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */;
+			name = "mapsted-sdk-map";
+			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
 			targetProxy = 46EB2E00019120 /* PBXContainerItemProxy */;
 		};
 		46EB2E00019150 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-triggers-core";
-			target = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */;
+			name = "mapsted-sdk-map-ui";
+			target = DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */;
 			targetProxy = 46EB2E00019140 /* PBXContainerItemProxy */;
 		};
 		46EB2E00019170 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "react-native-mapsted";
-			target = A695075D689E6EB598DF7FB13AE1F44E /* react-native-mapsted */;
+			name = "mapsted-sdk-triggers-core";
+			target = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */;
 			targetProxy = 46EB2E00019160 /* PBXContainerItemProxy */;
 		};
 		46EB2E00019190 /* PBXTargetDependency */ = {
@@ -24103,194 +24103,194 @@
 		};
 		46EB2E0001BCA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-triggers-core";
-			target = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */;
+			name = "mapsted-sdk-map";
+			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
 			targetProxy = 46EB2E0001BC90 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BCC0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = SSZipArchive;
-			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
+			name = "mapsted-sdk-map-ui";
+			target = DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */;
 			targetProxy = 46EB2E0001BCB0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BCE0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core";
-			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
+			name = "mapsted-sdk-geofence";
+			target = 31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */;
 			targetProxy = 46EB2E0001BCD0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BD00 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core";
-			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
+			name = "React-Core";
+			target = 7ACAA9BE580DD31A5CB9D97C45D9492D /* React-Core */;
 			targetProxy = 46EB2E0001BCF0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BD20 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core";
-			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
+			name = "RCT-Folly";
+			target = EC55D52694092A9D0E6A78EB01207EB5 /* RCT-Folly */;
 			targetProxy = 46EB2E0001BD10 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BD40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core-map";
-			target = B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */;
+			name = glog;
+			target = D0EFEFB685D97280256C559792236873 /* glog */;
 			targetProxy = 46EB2E0001BD30 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BD60 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map";
-			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
+			name = "React-RCTFabric";
+			target = 8DED5282246ABFC24F4460D3066C84A0 /* React-RCTFabric */;
 			targetProxy = 46EB2E0001BD50 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BD80 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-loc-marketing";
-			target = 196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */;
+			name = "React-Codegen";
+			target = 66B8F5758E6F90E16807A85C003CE61F /* React-Codegen */;
 			targetProxy = 46EB2E0001BD70 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BDA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-alerts";
-			target = E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */;
+			name = RCTRequired;
+			target = E7E7CE52C8C68B17224FF8C262D80ABF /* RCTRequired */;
 			targetProxy = 46EB2E0001BD90 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BDC0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-core";
-			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
+			name = RCTTypeSafety;
+			target = D20469A9A1E5CFB26045EAEBE3F88E5E /* RCTTypeSafety */;
 			targetProxy = 46EB2E0001BDB0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BDE0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map";
-			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
+			name = ReactCommon;
+			target = B6D5DD49633DFF0657B8C3F08EB3ABA9 /* ReactCommon */;
 			targetProxy = 46EB2E0001BDD0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BE00 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-map-ui";
-			target = DB6C213AC26180EA323C06434FD37C8C /* mapsted-sdk-map-ui */;
+			name = "React-NativeModulesApple";
+			target = 5807741745EB757C97C09F2D56726BE0 /* React-NativeModulesApple */;
 			targetProxy = 46EB2E0001BDF0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BE20 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "mapsted-sdk-geofence";
-			target = 31DA44CDC1AB4E8E942DE570A4FF1FB9 /* mapsted-sdk-geofence */;
+			name = Yoga;
+			target = 2B25F90D819B9ADF2AF2D8733A890333 /* Yoga */;
 			targetProxy = 46EB2E0001BE10 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BE40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-Core";
-			target = 7ACAA9BE580DD31A5CB9D97C45D9492D /* React-Core */;
+			name = "React-Fabric";
+			target = 50DBAF155FAFB994E067BA8820221EDF /* React-Fabric */;
 			targetProxy = 46EB2E0001BE30 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BE60 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "RCT-Folly";
-			target = EC55D52694092A9D0E6A78EB01207EB5 /* RCT-Folly */;
+			name = "React-graphics";
+			target = 4BDD270EACFE5730793AEF0B9BCCBA31 /* React-graphics */;
 			targetProxy = 46EB2E0001BE50 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BE80 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = glog;
-			target = D0EFEFB685D97280256C559792236873 /* glog */;
+			name = "React-utils";
+			target = 30621D5A9764AC0BD9D02E87B2EA6665 /* React-utils */;
 			targetProxy = 46EB2E0001BE70 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BEA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-RCTFabric";
-			target = 8DED5282246ABFC24F4460D3066C84A0 /* React-RCTFabric */;
+			name = "React-featureflags";
+			target = 28CE447E6F9C5F0EECC0CDD607D06A24 /* React-featureflags */;
 			targetProxy = 46EB2E0001BE90 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BEC0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-Codegen";
-			target = 66B8F5758E6F90E16807A85C003CE61F /* React-Codegen */;
+			name = "React-debug";
+			target = 0C050E11C4409D3BFAE9CC219C4D6195 /* React-debug */;
 			targetProxy = 46EB2E0001BEB0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BEE0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = RCTRequired;
-			target = E7E7CE52C8C68B17224FF8C262D80ABF /* RCTRequired */;
+			name = "React-ImageManager";
+			target = B5E1D7706FCB7EC5FF39F8CDA49A5653 /* React-ImageManager */;
 			targetProxy = 46EB2E0001BED0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BF00 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = RCTTypeSafety;
-			target = D20469A9A1E5CFB26045EAEBE3F88E5E /* RCTTypeSafety */;
+			name = "React-rendererdebug";
+			target = 9F96BF8B7FC28F5CF47242D7A73B11DA /* React-rendererdebug */;
 			targetProxy = 46EB2E0001BEF0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BF20 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = ReactCommon;
-			target = B6D5DD49633DFF0657B8C3F08EB3ABA9 /* ReactCommon */;
+			name = DoubleConversion;
+			target = 2AB2EF542954AB1C999E03BFEF8DE806 /* DoubleConversion */;
 			targetProxy = 46EB2E0001BF10 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BF40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-NativeModulesApple";
-			target = 5807741745EB757C97C09F2D56726BE0 /* React-NativeModulesApple */;
+			name = "hermes-engine";
+			target = 985FEA01F314F3C00F0C1E1181E6C4A5 /* hermes-engine */;
 			targetProxy = 46EB2E0001BF30 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BF60 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = Yoga;
-			target = 2B25F90D819B9ADF2AF2D8733A890333 /* Yoga */;
+			name = "mapsted-sdk-triggers-core";
+			target = 76B2B8C4BBA8E7A5F5C8D92E2A5A36B9 /* mapsted-sdk-triggers-core */;
 			targetProxy = 46EB2E0001BF50 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BF80 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-Fabric";
-			target = 50DBAF155FAFB994E067BA8820221EDF /* React-Fabric */;
+			name = SSZipArchive;
+			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
 			targetProxy = 46EB2E0001BF70 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BFA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-graphics";
-			target = 4BDD270EACFE5730793AEF0B9BCCBA31 /* React-graphics */;
+			name = "mapsted-sdk-core";
+			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
 			targetProxy = 46EB2E0001BF90 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BFC0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-utils";
-			target = 30621D5A9764AC0BD9D02E87B2EA6665 /* React-utils */;
+			name = "mapsted-sdk-core";
+			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
 			targetProxy = 46EB2E0001BFB0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001BFE0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-featureflags";
-			target = 28CE447E6F9C5F0EECC0CDD607D06A24 /* React-featureflags */;
+			name = "mapsted-sdk-core";
+			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
 			targetProxy = 46EB2E0001BFD0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001C000 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-debug";
-			target = 0C050E11C4409D3BFAE9CC219C4D6195 /* React-debug */;
+			name = "mapsted-sdk-core-map";
+			target = B46A2D29CA505C1899DC8CBDC43252F2 /* mapsted-sdk-core-map */;
 			targetProxy = 46EB2E0001BFF0 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001C020 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-ImageManager";
-			target = B5E1D7706FCB7EC5FF39F8CDA49A5653 /* React-ImageManager */;
+			name = "mapsted-sdk-map";
+			target = C7F14637E97F15906E39B4645085EED9 /* mapsted-sdk-map */;
 			targetProxy = 46EB2E0001C010 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001C040 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "React-rendererdebug";
-			target = 9F96BF8B7FC28F5CF47242D7A73B11DA /* React-rendererdebug */;
+			name = "mapsted-sdk-loc-marketing";
+			target = 196DFFB3FF731ACE255613D0B055697A /* mapsted-sdk-loc-marketing */;
 			targetProxy = 46EB2E0001C030 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001C060 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = DoubleConversion;
-			target = 2AB2EF542954AB1C999E03BFEF8DE806 /* DoubleConversion */;
+			name = "mapsted-sdk-alerts";
+			target = E391D835E288CCD8BA9A80A5DFE36B27 /* mapsted-sdk-alerts */;
 			targetProxy = 46EB2E0001C050 /* PBXContainerItemProxy */;
 		};
 		46EB2E0001C080 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "hermes-engine";
-			target = 985FEA01F314F3C00F0C1E1181E6C4A5 /* hermes-engine */;
+			name = "mapsted-sdk-core";
+			target = C20A0D34E594FD94C15273EC60B6D098 /* mapsted-sdk-core */;
 			targetProxy = 46EB2E0001C070 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -28700,16 +28700,44 @@
 		};
 		46EB2E000177F0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017830 /* mapsted-sdk-alerts.release.xcconfig */;
+			baseConfigurationReference = 46EB2E000178F0 /* mapsted-react-native.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/mapsted-react-native/mapsted-react-native-prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(PODS_ROOT)/RCT-Folly\"",
+					"\"$(PODS_ROOT)/DoubleConversion\"",
+					"\"$(PODS_ROOT)/fmt/include\"",
+					"\"$(PODS_ROOT)/boost\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Codegen/React_Codegen.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers/react/nativemodule/core\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-RCTFabric/RCTFabric.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/components/view/platform/cxx\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-FabricImage/React_FabricImage.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Graphics/React_graphics.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Graphics/React_graphics.framework/Headers/react/renderer/graphics/platform/ios\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/imagemanager/platform/ios\"",
+				);
+				INFOPLIST_FILE = "Target Support Files/mapsted-react-native/mapsted-react-native-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
 				);
+				MODULEMAP_FILE = "Target Support Files/mapsted-react-native/mapsted-react-native.modulemap";
 				OTHER_CFLAGS = (
 					"$(inherited)",
 					"-DNDEBUG",
@@ -28718,333 +28746,22 @@
 					"$(inherited)",
 					"-DNDEBUG",
 				);
+				PRODUCT_MODULE_NAME = mapsted_react_native;
+				PRODUCT_NAME = mapsted_react_native;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
 		46EB2E00017800 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017820 /* mapsted-sdk-alerts.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E00017860 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E000178A0 /* mapsted-sdk-core.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E00017870 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017890 /* mapsted-sdk-core.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E000178D0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017920 /* mapsted-sdk-core-map.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E000178E0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017910 /* mapsted-sdk-core-map.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E00017950 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017990 /* mapsted-sdk-geofence.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E00017960 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017980 /* mapsted-sdk-geofence.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E000179C0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017A00 /* mapsted-sdk-loc-marketing.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E000179D0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E000179F0 /* mapsted-sdk-loc-marketing.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E00017A30 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017A70 /* mapsted-sdk-map.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E00017A40 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017A60 /* mapsted-sdk-map.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E00017AA0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017AE0 /* mapsted-sdk-map-ui.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E00017AB0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017AD0 /* mapsted-sdk-map-ui.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E00017B10 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017B50 /* mapsted-sdk-triggers-core.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				OTHER_CFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				OTHER_CPLUSPLUSFLAGS = (
-					"$(inherited)",
-					"-DNDEBUG",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		46EB2E00017B20 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017B40 /* mapsted-sdk-triggers-core.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		46EB2E00017B80 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017C80 /* react-native-mapsted.release.xcconfig */;
+			baseConfigurationReference = 46EB2E000178E0 /* mapsted-react-native.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -29055,7 +28772,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/react-native-mapsted/react-native-mapsted-prefix.pch";
+				GCC_PREFIX_HEADER = "Target Support Files/mapsted-react-native/mapsted-react-native-prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/RCT-Folly\"",
@@ -29073,7 +28790,7 @@
 					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Graphics/React_graphics.framework/Headers/react/renderer/graphics/platform/ios\"",
 					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/imagemanager/platform/ios\"",
 				);
-				INFOPLIST_FILE = "Target Support Files/react-native-mapsted/react-native-mapsted-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/mapsted-react-native/mapsted-react-native-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -29081,7 +28798,31 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/react-native-mapsted/react-native-mapsted.modulemap";
+				MODULEMAP_FILE = "Target Support Files/mapsted-react-native/mapsted-react-native.modulemap";
+				PRODUCT_MODULE_NAME = mapsted_react_native;
+				PRODUCT_NAME = mapsted_react_native;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		46EB2E00017990 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E000179D0 /* mapsted-sdk-alerts.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				OTHER_CFLAGS = (
 					"$(inherited)",
 					"-DNDEBUG",
@@ -29090,68 +28831,327 @@
 					"$(inherited)",
 					"-DNDEBUG",
 				);
-				PRODUCT_MODULE_NAME = react_native_mapsted;
-				PRODUCT_NAME = react_native_mapsted;
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		46EB2E00017B90 /* Debug */ = {
+		46EB2E000179A0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00017C70 /* react-native-mapsted.debug.xcconfig */;
+			baseConfigurationReference = 46EB2E000179C0 /* mapsted-sdk-alerts.debug.xcconfig */;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/react-native-mapsted/react-native-mapsted-prefix.pch";
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(PODS_ROOT)/RCT-Folly\"",
-					"\"$(PODS_ROOT)/DoubleConversion\"",
-					"\"$(PODS_ROOT)/fmt/include\"",
-					"\"$(PODS_ROOT)/boost\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Codegen/React_Codegen.framework/Headers\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers/react/nativemodule/core\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-RCTFabric/RCTFabric.framework/Headers\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/components/view/platform/cxx\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-FabricImage/React_FabricImage.framework/Headers\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Graphics/React_graphics.framework/Headers\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Graphics/React_graphics.framework/Headers/react/renderer/graphics/platform/ios\"",
-					"\"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/imagemanager/platform/ios\"",
-				);
-				INFOPLIST_FILE = "Target Support Files/react-native-mapsted/react-native-mapsted-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/react-native-mapsted/react-native-mapsted.modulemap";
-				PRODUCT_MODULE_NAME = react_native_mapsted;
-				PRODUCT_NAME = react_native_mapsted;
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		46EB2E00017A00 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017A40 /* mapsted-sdk-core.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017A10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017A30 /* mapsted-sdk-core.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		46EB2E00017A70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017AC0 /* mapsted-sdk-core-map.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017A80 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017AB0 /* mapsted-sdk-core-map.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		46EB2E00017AF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017B30 /* mapsted-sdk-geofence.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017B00 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017B20 /* mapsted-sdk-geofence.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		46EB2E00017B60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017BA0 /* mapsted-sdk-loc-marketing.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017B70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017B90 /* mapsted-sdk-loc-marketing.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		46EB2E00017BD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017C10 /* mapsted-sdk-map.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017BE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017C00 /* mapsted-sdk-map.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		46EB2E00017C40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017C80 /* mapsted-sdk-map-ui.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017C50 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017C70 /* mapsted-sdk-map-ui.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		46EB2E00017CB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017CF0 /* mapsted-sdk-triggers-core.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(inherited)",
+					"-DNDEBUG",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EB2E00017CC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46EB2E00017CE0 /* mapsted-sdk-triggers-core.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -29830,7 +29830,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E000177E0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-alerts" */ = {
+		46EB2E000177E0 /* Build configuration list for PBXNativeTarget "mapsted-react-native" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				46EB2E00017800 /* Debug */,
@@ -29839,74 +29839,74 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00017850 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core" */ = {
+		46EB2E00017980 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-alerts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00017870 /* Debug */,
-				46EB2E00017860 /* Release */,
+				46EB2E000179A0 /* Debug */,
+				46EB2E00017990 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E000178C0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core-map" */ = {
+		46EB2E000179F0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E000178E0 /* Debug */,
-				46EB2E000178D0 /* Release */,
+				46EB2E00017A10 /* Debug */,
+				46EB2E00017A00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00017940 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-geofence" */ = {
+		46EB2E00017A60 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-core-map" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00017960 /* Debug */,
-				46EB2E00017950 /* Release */,
+				46EB2E00017A80 /* Debug */,
+				46EB2E00017A70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E000179B0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-loc-marketing" */ = {
+		46EB2E00017AE0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-geofence" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E000179D0 /* Debug */,
-				46EB2E000179C0 /* Release */,
+				46EB2E00017B00 /* Debug */,
+				46EB2E00017AF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00017A20 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map" */ = {
+		46EB2E00017B50 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-loc-marketing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00017A40 /* Debug */,
-				46EB2E00017A30 /* Release */,
+				46EB2E00017B70 /* Debug */,
+				46EB2E00017B60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00017A90 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map-ui" */ = {
+		46EB2E00017BC0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00017AB0 /* Debug */,
-				46EB2E00017AA0 /* Release */,
+				46EB2E00017BE0 /* Debug */,
+				46EB2E00017BD0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00017B00 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-triggers-core" */ = {
+		46EB2E00017C30 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-map-ui" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00017B20 /* Debug */,
-				46EB2E00017B10 /* Release */,
+				46EB2E00017C50 /* Debug */,
+				46EB2E00017C40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00017B70 /* Build configuration list for PBXNativeTarget "react-native-mapsted" */ = {
+		46EB2E00017CA0 /* Build configuration list for PBXAggregateTarget "mapsted-sdk-triggers-core" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00017B90 /* Debug */,
-				46EB2E00017B80 /* Release */,
+				46EB2E00017CC0 /* Debug */,
+				46EB2E00017CB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

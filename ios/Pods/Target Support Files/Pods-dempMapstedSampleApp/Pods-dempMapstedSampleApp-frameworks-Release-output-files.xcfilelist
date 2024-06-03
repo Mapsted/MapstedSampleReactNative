@@ -44,6 +44,7 @@ ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SocketRocket.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/yoga.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/fmt.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/mapsted_react_native.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedAlerts.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedCore.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedGeofence.framework
@@ -53,5 +54,4 @@ ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedMapUi.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedComponentsCore.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedComponentsUI.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapstedTriggersCore.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/react_native_mapsted.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework

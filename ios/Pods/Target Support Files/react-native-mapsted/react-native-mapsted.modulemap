@@ -1,6 +1,0 @@
-framework module react_native_mapsted {
-  umbrella header "react-native-mapsted-umbrella.h"
-
-  export *
-  module * { export * }
-}
