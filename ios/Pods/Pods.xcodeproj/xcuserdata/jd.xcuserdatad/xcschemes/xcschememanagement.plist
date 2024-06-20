@@ -329,6 +329,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>mapsted-sdk-location-share.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>mapsted-sdk-map-ui.xcscheme</key>
 		<dict>
 			<key>isShown</key>

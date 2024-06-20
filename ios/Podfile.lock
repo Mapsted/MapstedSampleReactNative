@@ -7,13 +7,13 @@ PODS:
   - hermes-engine (0.74.0):
     - hermes-engine/Pre-built (= 0.74.0)
   - hermes-engine/Pre-built (0.74.0)
-  - mapsted-react-native (0.0.6):
+  - mapsted-react-native (0.0.9):
     - DoubleConversion
     - glog
     - hermes-engine
-    - mapsted-sdk-geofence (~> 5.0)
-    - mapsted-sdk-map (~> 5.0)
-    - mapsted-sdk-map-ui (~> 5.0)
+    - mapsted-sdk-geofence (= 5.3.21)
+    - mapsted-sdk-map (= 5.3.21)
+    - mapsted-sdk-map-ui (= 5.3.21)
     - RCT-Folly (= 2024.01.01.00)
     - RCTRequired
     - RCTTypeSafety
@@ -31,24 +31,27 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - mapsted-sdk-alerts (5.3.17):
-    - mapsted-sdk-triggers-core (= 5.3.17)
-  - mapsted-sdk-core (5.3.17):
+  - mapsted-sdk-alerts (5.3.21):
+    - mapsted-sdk-triggers-core (= 5.3.21)
+  - mapsted-sdk-core (5.3.21):
     - SSZipArchive
   - mapsted-sdk-core-map (4.4.6.2)
-  - mapsted-sdk-geofence (5.3.17):
-    - mapsted-sdk-core (= 5.3.17)
-  - mapsted-sdk-loc-marketing (5.3.17):
-    - mapsted-sdk-core (= 5.3.17)
-  - mapsted-sdk-map (5.3.17):
-    - mapsted-sdk-core (= 5.3.17)
+  - mapsted-sdk-geofence (5.3.21):
+    - mapsted-sdk-core (= 5.3.21)
+  - mapsted-sdk-loc-marketing (5.3.21):
+    - mapsted-sdk-core (= 5.3.21)
+  - mapsted-sdk-location-share (5.3.21):
+    - mapsted-sdk-core (= 5.3.21)
+  - mapsted-sdk-map (5.3.21):
+    - mapsted-sdk-core (= 5.3.21)
     - mapsted-sdk-core-map (= 4.4.6.2)
-  - mapsted-sdk-map-ui (5.3.17):
-    - mapsted-sdk-alerts (= 5.3.17)
-    - mapsted-sdk-loc-marketing (= 5.3.17)
-    - mapsted-sdk-map (= 5.3.17)
-  - mapsted-sdk-triggers-core (5.3.17):
-    - mapsted-sdk-core (= 5.3.17)
+  - mapsted-sdk-map-ui (5.3.21):
+    - mapsted-sdk-alerts (= 5.3.21)
+    - mapsted-sdk-loc-marketing (= 5.3.21)
+    - mapsted-sdk-location-share (= 5.3.21)
+    - mapsted-sdk-map (= 5.3.21)
+  - mapsted-sdk-triggers-core (5.3.21):
+    - mapsted-sdk-core (= 5.3.21)
   - RCT-Folly (2024.01.01.00):
     - boost
     - DoubleConversion
@@ -1275,6 +1278,7 @@ SPEC REPOS:
     - mapsted-sdk-core-map
     - mapsted-sdk-geofence
     - mapsted-sdk-loc-marketing
+    - mapsted-sdk-location-share
     - mapsted-sdk-map
     - mapsted-sdk-map-ui
     - mapsted-sdk-triggers-core
@@ -1402,15 +1406,16 @@ SPEC CHECKSUMS:
   fmt: 4c2741a687cc09f0634a2e2c72a838b99f1ff120
   glog: c5d68082e772fa1c511173d6b30a9de2c05a69a2
   hermes-engine: 6eae7edb2f563ee41d7c1f91f4f2e57c26d8a5c3
-  mapsted-react-native: 43812b21a31996f4c5d0698869a51a439084a546
-  mapsted-sdk-alerts: 5df52944810c4342dba5581501154f074d4ca99f
-  mapsted-sdk-core: 7cc36ee6ce4767bdb0ef3c2f2a99df7afa1f18cb
+  mapsted-react-native: 9361251bc4eb8243ab11047d230b17f55f8579a2
+  mapsted-sdk-alerts: b12a499732a682bcca1231d49cec5727c94e635d
+  mapsted-sdk-core: f01494dc98eb1fba40434fa7bb278caaca9d3699
   mapsted-sdk-core-map: 3b1a6cc029381236023ed8e35268206ee9559b1f
-  mapsted-sdk-geofence: b6aa16f4f1e0175867ddf7983d1805f82787ec53
-  mapsted-sdk-loc-marketing: dad7a65c54d34720509ac6be0cc41815537e9637
-  mapsted-sdk-map: 467dc8ba9b0d45751638d8058c0d71e801bf7420
-  mapsted-sdk-map-ui: 7141b0d4db8f1d0d92f0d5dca00f4cf950b5eea2
-  mapsted-sdk-triggers-core: d5afea451e02b330720b3a07f6d81bc631c0d43b
+  mapsted-sdk-geofence: 332a830de5a4494dbeeda5e28fe36eb3798c505c
+  mapsted-sdk-loc-marketing: 134157d09c900daa5ffc12ba43c625772576fd27
+  mapsted-sdk-location-share: a920eab92fe25a4f2b560367414a003860a112bd
+  mapsted-sdk-map: 76a925a8973b5cde0f08a8baaf5036469910fe7d
+  mapsted-sdk-map-ui: 8f7cd00d3416ce737f29e1454ca44e65bc79c8ae
+  mapsted-sdk-triggers-core: 82ad0a5caae3a0a610f2c12aa026837fe16f73cf
   RCT-Folly: 045d6ecaa59d826c5736dfba0b2f4083ff8d79df
   RCTDeprecation: 3ca8b6c36bfb302e1895b72cfe7db0de0c92cd47
   RCTRequired: 9fc183af555fd0c89a366c34c1ae70b7e03b1dc5
@@ -1460,7 +1465,7 @@ SPEC CHECKSUMS:
   ReactCommon: caf0aeedbd8afc25731582379f15a4f86407ae29
   SocketRocket: abac6f5de4d4d62d24e11868d7a2f427e0ef940d
   SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
-  Yoga: d97d4830fe26d7abad29a92f2b11012d2e1f58d1
+  Yoga: 3f9165051bbc60b66f6a88c5eeafd9e9faa29500
 
 PODFILE CHECKSUM: 15f12779b1ba76e1dc6144b0e4716b70a1ab1446
 

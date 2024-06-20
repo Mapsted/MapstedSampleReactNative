@@ -50,6 +50,7 @@ ${PODS_ROOT}/mapsted-sdk-alerts/MapstedAlerts.framework
 ${PODS_ROOT}/mapsted-sdk-core/MapstedCore.framework
 ${PODS_ROOT}/mapsted-sdk-geofence/MapstedGeofence.framework
 ${PODS_ROOT}/mapsted-sdk-loc-marketing/LocationMarketing.framework
+${PODS_ROOT}/mapsted-sdk-location-share/MapstedLocationShare.framework
 ${PODS_ROOT}/mapsted-sdk-map/MapstedMap.framework
 ${PODS_ROOT}/mapsted-sdk-map-ui/MapstedMapUi.framework
 ${PODS_ROOT}/mapsted-sdk-map-ui/MapstedComponentsCore.framework
