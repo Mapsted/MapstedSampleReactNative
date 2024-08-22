@@ -87,7 +87,7 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Step 2: Initialize Mapsted map SDK
 
-API
+We need to call below function to initialize the map SDK.
 
 **launchMapActivity()** 
 
