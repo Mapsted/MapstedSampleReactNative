@@ -3,12 +3,10 @@
 ### Step 1
 - Open terminal and run below command
 
-Please find more details here : https://www.npmjs.com/package/mapsted-react-native
-
-### Step 2
 ```sh
 e.g npm install mapsted-react-native
 ```
+Please find more details here : https://www.npmjs.com/package/mapsted-react-native
 
 ## prerequisites
 
@@ -87,11 +85,17 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+## Step 2: Initialize Mapsted map SDK
+
+API
+**"launchMapActivity()"** 
+
+
 ## Step 3: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines. Here we have used **"launchMapActivity()"** api to launch the map.
+1. Open `App.tsx` in your text editor of choice and edit some lines.
 2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
