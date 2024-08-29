@@ -1,10 +1,15 @@
-## Mapsted Package Installation
+# Mapsted Package Installation
+
+## Getting Started
+
+>**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ### Step 1
 - Open terminal and run below command
 
 ```sh
-e.g npm install mapsted-react-native
+npm install
+npm install mapsted-react-native
 ```
 Please find more details here : https://www.npmjs.com/package/mapsted-react-native
 
@@ -31,33 +36,20 @@ use_frameworks!
 
 - Add license file in Resources folder `your_ios_license.key`
 
-
 ### Android
 
 - Add license file in Assets folder('/app/src/main/assets') `your_android_license.key`
 
+## Step 2: Update Pods
 
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-# Getting Started
-
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
+- go to ios directory and install pods with below command.
+```sh
+cd ios
+pod install
 ```
 
-## Step 2: Start your Application
+
+## Step 3: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
@@ -85,14 +77,14 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Initialize Mapsted map SDK
+## Step 4: Initialize Mapsted map SDK
 
 We need to call below function to initialize the map SDK.
 
 **launchMapActivity()** 
 
 
-## Step 4: Modifying your App
+## Step 5: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
 
