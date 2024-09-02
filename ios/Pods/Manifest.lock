@@ -7,13 +7,13 @@ PODS:
   - hermes-engine (0.74.0):
     - hermes-engine/Pre-built (= 0.74.0)
   - hermes-engine/Pre-built (0.74.0)
-  - mapsted-react-native (0.0.9):
+  - mapsted-react-native (0.0.13):
     - DoubleConversion
     - glog
     - hermes-engine
-    - mapsted-sdk-geofence (= 5.3.21)
-    - mapsted-sdk-map (= 5.3.21)
-    - mapsted-sdk-map-ui (= 5.3.21)
+    - mapsted-sdk-geofence (= 5.3.27)
+    - mapsted-sdk-map (= 5.3.27)
+    - mapsted-sdk-map-ui (= 5.3.27)
     - RCT-Folly (= 2024.01.01.00)
     - RCTRequired
     - RCTTypeSafety
@@ -31,27 +31,27 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - mapsted-sdk-alerts (5.3.21):
-    - mapsted-sdk-triggers-core (= 5.3.21)
-  - mapsted-sdk-core (5.3.21):
+  - mapsted-sdk-alerts (5.3.27):
+    - mapsted-sdk-triggers-core (= 5.3.27)
+  - mapsted-sdk-core (5.3.27):
     - SSZipArchive
   - mapsted-sdk-core-map (4.4.6.2)
-  - mapsted-sdk-geofence (5.3.21):
-    - mapsted-sdk-core (= 5.3.21)
-  - mapsted-sdk-loc-marketing (5.3.21):
-    - mapsted-sdk-core (= 5.3.21)
-  - mapsted-sdk-location-share (5.3.21):
-    - mapsted-sdk-core (= 5.3.21)
-  - mapsted-sdk-map (5.3.21):
-    - mapsted-sdk-core (= 5.3.21)
+  - mapsted-sdk-geofence (5.3.27):
+    - mapsted-sdk-core (= 5.3.27)
+  - mapsted-sdk-loc-marketing (5.3.27):
+    - mapsted-sdk-core (= 5.3.27)
+  - mapsted-sdk-location-share (5.3.27):
+    - mapsted-sdk-core (= 5.3.27)
+  - mapsted-sdk-map (5.3.27):
+    - mapsted-sdk-core (= 5.3.27)
     - mapsted-sdk-core-map (= 4.4.6.2)
-  - mapsted-sdk-map-ui (5.3.21):
-    - mapsted-sdk-alerts (= 5.3.21)
-    - mapsted-sdk-loc-marketing (= 5.3.21)
-    - mapsted-sdk-location-share (= 5.3.21)
-    - mapsted-sdk-map (= 5.3.21)
-  - mapsted-sdk-triggers-core (5.3.21):
-    - mapsted-sdk-core (= 5.3.21)
+  - mapsted-sdk-map-ui (5.3.27):
+    - mapsted-sdk-alerts (= 5.3.27)
+    - mapsted-sdk-loc-marketing (= 5.3.27)
+    - mapsted-sdk-location-share (= 5.3.27)
+    - mapsted-sdk-map (= 5.3.27)
+  - mapsted-sdk-triggers-core (5.3.27):
+    - mapsted-sdk-core (= 5.3.27)
   - RCT-Folly (2024.01.01.00):
     - boost
     - DoubleConversion
@@ -1272,7 +1272,7 @@ DEPENDENCIES:
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
-  https://github.com/Mapsted/podspec-simulator.git:
+  https://github.com/Mapsted/podspec.git:
     - mapsted-sdk-alerts
     - mapsted-sdk-core
     - mapsted-sdk-core-map
@@ -1406,16 +1406,16 @@ SPEC CHECKSUMS:
   fmt: 4c2741a687cc09f0634a2e2c72a838b99f1ff120
   glog: c5d68082e772fa1c511173d6b30a9de2c05a69a2
   hermes-engine: 6eae7edb2f563ee41d7c1f91f4f2e57c26d8a5c3
-  mapsted-react-native: 9361251bc4eb8243ab11047d230b17f55f8579a2
-  mapsted-sdk-alerts: b12a499732a682bcca1231d49cec5727c94e635d
-  mapsted-sdk-core: f01494dc98eb1fba40434fa7bb278caaca9d3699
-  mapsted-sdk-core-map: 3b1a6cc029381236023ed8e35268206ee9559b1f
-  mapsted-sdk-geofence: 332a830de5a4494dbeeda5e28fe36eb3798c505c
-  mapsted-sdk-loc-marketing: 134157d09c900daa5ffc12ba43c625772576fd27
-  mapsted-sdk-location-share: a920eab92fe25a4f2b560367414a003860a112bd
-  mapsted-sdk-map: 76a925a8973b5cde0f08a8baaf5036469910fe7d
-  mapsted-sdk-map-ui: 8f7cd00d3416ce737f29e1454ca44e65bc79c8ae
-  mapsted-sdk-triggers-core: 82ad0a5caae3a0a610f2c12aa026837fe16f73cf
+  mapsted-react-native: 7f0f5504d50a842e1876b97a34ba6251bb15e9e7
+  mapsted-sdk-alerts: 01168bb8e5f829b23fb3dddc165e3401b74c07f1
+  mapsted-sdk-core: e097266b97afd8f68c97b9aa7a7940bda3cf2a65
+  mapsted-sdk-core-map: f9f54c75dc87cc515e05df239242804da3625239
+  mapsted-sdk-geofence: 912fe59f99cb6db513eecdc80b3bc29ff5809973
+  mapsted-sdk-loc-marketing: b3fe2268c57d32bb21aef15b05891e60392f4e6c
+  mapsted-sdk-location-share: 87345cd4fa55a13fcdb8f15507411ccecc5b82f9
+  mapsted-sdk-map: feea3309877dbb792ff4ad8f89729432f883055d
+  mapsted-sdk-map-ui: 990e29136224021307d141b31104274daaa27936
+  mapsted-sdk-triggers-core: be486cbd6d4d366981a580f55578e18369259ccd
   RCT-Folly: 045d6ecaa59d826c5736dfba0b2f4083ff8d79df
   RCTDeprecation: 3ca8b6c36bfb302e1895b72cfe7db0de0c92cd47
   RCTRequired: 9fc183af555fd0c89a366c34c1ae70b7e03b1dc5
@@ -1467,6 +1467,6 @@ SPEC CHECKSUMS:
   SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
   Yoga: 3f9165051bbc60b66f6a88c5eeafd9e9faa29500
 
-PODFILE CHECKSUM: 15f12779b1ba76e1dc6144b0e4716b70a1ab1446
+PODFILE CHECKSUM: f7cab1711afd4903a33957180c743ffd049b9d39
 
 COCOAPODS: 1.15.2
